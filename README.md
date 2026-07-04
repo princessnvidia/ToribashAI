@@ -1,5 +1,11 @@
 # Quick Start
 
+## Demo
+
+<p align="center">
+  <img src="docs/demo.gif" alt="ToribashAI Demo" width="100%">
+</p>
+
 ## 1. Clone the repository
 
 ```bash
