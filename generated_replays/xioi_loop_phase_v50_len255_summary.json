@@ -1,0 +1,18 @@
+{
+  "name": "xioi_loop_phase_v50_len255",
+  "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_stable_loop_v49_champion_candidate.rpl",
+  "prelude": [
+    0,
+    315
+  ],
+  "loop": [
+    485,
+    740
+  ],
+  "loop_len": 255,
+  "loop_frames": 52,
+  "loop_repeats": 5,
+  "last_frame": 1615,
+  "matchframes": 1735,
+  "output": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_phase_v50_len255.rpl"
+}

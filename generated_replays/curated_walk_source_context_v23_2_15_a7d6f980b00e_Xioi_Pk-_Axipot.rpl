@@ -1,0 +1,161 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_15_a7d6f980b00e_Xioi_Pk-_Axipot
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 0.000000 6.000000 0 0 0
+ENGAGE 1; 4.000000 0.000000 6.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 /SJ_RoofTopParkour.tbm
+
+FRAME 0;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=116
+JOINT 0; 4 1
+JOINT 0; 6 2
+JOINT 0; 7 2
+JOINT 0; 14 1
+JOINT 0; 15 2
+
+FRAME 3;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=119
+JOINT 0; 6 1
+
+FRAME 4;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=120
+JOINT 0; 5 1
+JOINT 0; 6 2
+
+FRAME 5;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=121
+JOINT 0; 6 3
+JOINT 0; 8 4
+JOINT 0; 9 2
+
+FRAME 6;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=122
+JOINT 0; 9 3
+JOINT 0; 15 4
+JOINT 0; 17 3
+JOINT 0; 19 4
+
+FRAME 12;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=128
+JOINT 0; 5 3
+JOINT 0; 6 1
+JOINT 0; 15 2
+JOINT 0; 16 3
+JOINT 0; 19 3
+
+FRAME 14;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=130
+JOINT 0; 6 2
+
+FRAME 15;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=131
+JOINT 0; 6 2
+
+FRAME 16;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=132
+JOINT 0; 1 1
+JOINT 0; 5 1
+JOINT 0; 6 3
+
+FRAME 17;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=133
+JOINT 0; 1 3
+JOINT 0; 19 3
+
+FRAME 25;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=141
+JOINT 0; 14 2
+JOINT 0; 16 4
+
+FRAME 30;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=146
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 12 2
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 34;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=150
+JOINT 0; 8 1
+JOINT 0; 12 3
+JOINT 0; 14 2
+JOINT 0; 15 3
+
+FRAME 39;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=155
+JOINT 0; 12 1
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 42;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=158
+JOINT 0; 1 2
+JOINT 0; 12 3
+
+FRAME 43;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=159
+JOINT 0; 1 3
+JOINT 0; 5 3
+JOINT 0; 17 3
+
+FRAME 53;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=169
+JOINT 0; 15 3
+
+FRAME 56;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=172
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 17 3
+
+FRAME 60;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=176
+JOINT 0; 4 4
+JOINT 0; 5 2
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 64;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=180
+JOINT 0; 5 4
+
+FRAME 67;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=183
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 8 3
+
+FRAME 69;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=185
+JOINT 0; 5 3
+
+FRAME 72;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=188
+JOINT 0; 16 3
+
+FRAME 82;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=198
+JOINT 0; 3 2
+JOINT 0; 14 3
+JOINT 0; 16 4
+
+FRAME 90;
+# source=a7d6f980b00e__Xioi_Pk- Axipot.json source_frame=206
+JOINT 0; 1 2
+JOINT 0; 4 2
+JOINT 0; 5 1
+JOINT 0; 7 1
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 190;

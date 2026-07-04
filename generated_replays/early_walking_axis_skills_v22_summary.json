@@ -1,0 +1,310 @@
+{
+  "version": 22,
+  "input_replays": 343,
+  "raw_accepted": 10,
+  "final_skill_count": 10,
+  "categories": {
+    "step_left_forward": 1,
+    "step_right_forward": 1,
+    "step_right": 3,
+    "step_left": 4,
+    "step_right_micro": 1
+  },
+  "rejects": {
+    "reject_head_low_relative": 11383,
+    "missing_core_pos": 1129,
+    "reject_no_forward_axis": 729,
+    "reject_too_fast_axis": 214,
+    "reject_no_ground_contact": 95,
+    "reject_sideways": 46,
+    "reject_head_z_unstable": 22,
+    "reject_too_many_joints": 7,
+    "reject_shoulders_z_unstable": 7,
+    "too_short_early": 2,
+    "reject_no_swing_forward": 1,
+    "reject_too_many_action_frames": 1
+  },
+  "axis_counts": {
+    "y:-1": 269,
+    "y:1": 28,
+    "x:1": 39,
+    "x:-1": 5
+  },
+  "accepted_replays": 6,
+  "top_skills": [
+    {
+      "id": 7,
+      "category": "step_left_forward",
+      "score": 162.342,
+      "forward": 3.011,
+      "sideways": 0.6822,
+      "swing_forward": 0.9292,
+      "head_zrange": 2.065,
+      "shoulder_zrange": 2.2984,
+      "signature": "15-1-17-5-12-13-14-3",
+      "replay": "d263616de612_Bird and Fid v2.json",
+      "start_frame": 200,
+      "end_frame": 250,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 5,
+      "category": "step_right_forward",
+      "score": 123.478,
+      "forward": 1.6935,
+      "sideways": 0.8488,
+      "swing_forward": 2.126,
+      "head_zrange": 2.0641,
+      "shoulder_zrange": 2.3448,
+      "signature": "7-16-17-14-15-8-4-1",
+      "replay": "88bb9c504579_parkour 2.json",
+      "start_frame": 116,
+      "end_frame": 220,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 3,
+      "category": "step_right",
+      "score": 106.5939,
+      "forward": 1.7138,
+      "sideways": 0.2427,
+      "swing_forward": 0.7652,
+      "head_zrange": 1.7567,
+      "shoulder_zrange": 1.3959,
+      "signature": "5-15-19-4-14-7-8-17",
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 206,
+      "end_frame": 251,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 9,
+      "category": "step_left",
+      "score": 103.1783,
+      "forward": 1.4462,
+      "sideways": 0.3602,
+      "swing_forward": 0.5735,
+      "head_zrange": 0.6532,
+      "shoulder_zrange": 0.9879,
+      "signature": "15-14-18-1-2-3-16-5",
+      "replay": "e52911f704fa_i am the galaxy.json",
+      "start_frame": 226,
+      "end_frame": 257,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 6,
+      "category": "step_left",
+      "score": 93.4537,
+      "forward": 1.6007,
+      "sideways": 0.061,
+      "swing_forward": 0.4199,
+      "head_zrange": 1.9094,
+      "shoulder_zrange": 2.0037,
+      "signature": "17-16-4-7-15-14-5-8",
+      "replay": "94d7be00b398_Parkour c - Tedster789.json",
+      "start_frame": 160,
+      "end_frame": 211,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 0,
+      "category": "step_right",
+      "score": 92.5503,
+      "forward": 0.7769,
+      "sideways": 0.1869,
+      "swing_forward": 1.2645,
+      "head_zrange": 0.5609,
+      "shoulder_zrange": 0.677,
+      "signature": "4-5-14-15-17-7-18-19",
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 196,
+      "end_frame": 221,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 8,
+      "category": "step_left",
+      "score": 92.3218,
+      "forward": 1.2356,
+      "sideways": 0.3284,
+      "swing_forward": 0.347,
+      "head_zrange": 0.6234,
+      "shoulder_zrange": 0.9252,
+      "signature": "15-14-18-2-3-16-13-1",
+      "replay": "e52911f704fa_i am the galaxy.json",
+      "start_frame": 230,
+      "end_frame": 257,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 1,
+      "category": "step_right",
+      "score": 82.536,
+      "forward": 0.8822,
+      "sideways": 0.236,
+      "swing_forward": 0.8477,
+      "head_zrange": 0.8212,
+      "shoulder_zrange": 0.9396,
+      "signature": "5-15-4-14-19-17-7-9",
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 206,
+      "end_frame": 231,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 2,
+      "category": "step_left",
+      "score": 74.5251,
+      "forward": 0.975,
+      "sideways": 0.2265,
+      "swing_forward": 0.3242,
+      "head_zrange": 0.9945,
+      "shoulder_zrange": 1.0439,
+      "signature": "15-5-4-7-9-14-8-17",
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 216,
+      "end_frame": 241,
+      "axis": "y",
+      "axis_sign": -1
+    },
+    {
+      "id": 4,
+      "category": "step_right_micro",
+      "score": 56.7399,
+      "forward": 0.1667,
+      "sideways": 1.1636,
+      "swing_forward": 1.4499,
+      "head_zrange": 0.313,
+      "shoulder_zrange": 1.4622,
+      "signature": "4-5-7-10-14-1-2-18",
+      "replay": "6946560ec8b4_Fav place..json",
+      "start_frame": 120,
+      "end_frame": 170,
+      "axis": "x",
+      "axis_sign": 1
+    }
+  ],
+  "sample_rejects": {
+    "reject_head_low_relative": [
+      {
+        "body_height": 1.5910533983333366
+      },
+      {
+        "body_height": 1.2447379450000042
+      },
+      {
+        "body_height": 1.3715864000000053
+      }
+    ],
+    "reject_no_forward_axis": [
+      {
+        "forward": -0.19059684,
+        "axis": 1
+      },
+      {
+        "forward": 0.007242509999999997,
+        "axis": 1
+      },
+      {
+        "forward": -0.06905169,
+        "axis": 1
+      }
+    ],
+    "reject_too_fast_axis": [
+      {
+        "forward": 8.95287001,
+        "axis": 1
+      },
+      {
+        "forward": 8.81531901,
+        "axis": 1
+      },
+      {
+        "forward": 8.70690101,
+        "axis": 1
+      }
+    ],
+    "missing_core_pos": [
+      {},
+      {},
+      {}
+    ],
+    "reject_no_ground_contact": [
+      {
+        "ratio": 0.25
+      },
+      {
+        "ratio": 0.16666666666666666
+      },
+      {
+        "ratio": 0.375
+      }
+    ],
+    "reject_head_z_unstable": [
+      {
+        "zrange": 4.79582391
+      },
+      {
+        "zrange": 4.79582391
+      },
+      {
+        "zrange": 4.79582391
+      }
+    ],
+    "reject_sideways": [
+      {
+        "forward": 0.26497800000000016,
+        "sideways": 3.6690090000000004
+      },
+      {
+        "forward": 0.13381999,
+        "sideways": 6.015912
+      },
+      {
+        "forward": 0.88026599,
+        "sideways": 5.992753
+      }
+    ],
+    "reject_too_many_joints": [
+      {
+        "avg_pairs": 9
+      },
+      {
+        "avg_pairs": 9.875
+      },
+      {
+        "avg_pairs": 9
+      }
+    ],
+    "reject_shoulders_z_unstable": [
+      {
+        "zrange": 4.405131
+      },
+      {
+        "zrange": 4.891033
+      },
+      {
+        "zrange": 4.4533629999999995
+      }
+    ],
+    "reject_no_swing_forward": [
+      {
+        "swing": -0.40496392000000014
+      }
+    ],
+    "reject_too_many_action_frames": [
+      {
+        "actions": 12
+      }
+    ]
+  }
+}

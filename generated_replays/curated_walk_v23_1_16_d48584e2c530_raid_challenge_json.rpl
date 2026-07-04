@@ -1,0 +1,264 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_16_d48584e2c530_raid_challenge_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=d48584e2c530_raid challenge.json target=92
+JOINT 0; 15 2
+
+FRAME 5;
+# source=d48584e2c530_raid challenge.json target=94
+JOINT 0; 15 3
+
+FRAME 10;
+# source=d48584e2c530_raid challenge.json target=100
+JOINT 0; 4 1
+JOINT 0; 7 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 1
+
+FRAME 15;
+# source=d48584e2c530_raid challenge.json target=104
+JOINT 0; 15 3
+JOINT 0; 17 3
+
+FRAME 20;
+# source=d48584e2c530_raid challenge.json target=107
+JOINT 0; 7 2
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 19 2
+
+FRAME 25;
+# source=d48584e2c530_raid challenge.json target=111
+JOINT 0; 16 4
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 30;
+# source=d48584e2c530_raid challenge.json target=114
+JOINT 0; 4 3
+JOINT 0; 5 1
+JOINT 0; 8 2
+
+FRAME 35;
+# source=d48584e2c530_raid challenge.json target=118
+JOINT 0; 5 3
+JOINT 0; 8 3
+JOINT 0; 17 4
+
+FRAME 40;
+# source=d48584e2c530_raid challenge.json target=123
+JOINT 0; 14 2
+JOINT 0; 15 4
+JOINT 0; 17 3
+JOINT 0; 19 1
+
+FRAME 45;
+# source=d48584e2c530_raid challenge.json target=126
+JOINT 0; 14 3
+
+FRAME 50;
+# source=d48584e2c530_raid challenge.json target=128
+JOINT 0; 4 4
+JOINT 0; 7 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 55;
+# source=d48584e2c530_raid challenge.json target=131
+JOINT 0; 15 1
+JOINT 0; 16 1
+
+FRAME 60;
+# source=d48584e2c530_raid challenge.json target=134
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 16 4
+
+FRAME 65;
+# source=d48584e2c530_raid challenge.json target=140
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 12 1
+
+FRAME 70;
+# source=d48584e2c530_raid challenge.json target=143
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 8 3
+JOINT 0; 12 3
+
+FRAME 75;
+# source=d48584e2c530_raid challenge.json target=153
+JOINT 0; 14 4
+
+FRAME 80;
+# source=d48584e2c530_raid challenge.json target=156
+JOINT 0; 14 1
+JOINT 0; 15 2
+
+FRAME 85;
+# source=d48584e2c530_raid challenge.json target=161
+JOINT 0; 4 1
+JOINT 0; 5 1
+
+FRAME 90;
+# source=d48584e2c530_raid challenge.json target=164
+JOINT 0; 7 2
+JOINT 0; 8 4
+
+FRAME 95;
+# source=d48584e2c530_raid challenge.json target=174
+JOINT 0; 8 2
+JOINT 0; 19 2
+
+FRAME 100;
+# source=d48584e2c530_raid challenge.json target=178
+JOINT 0; 5 4
+JOINT 0; 8 4
+
+FRAME 105;
+# source=d48584e2c530_raid challenge.json target=188
+JOINT 0; 5 3
+JOINT 0; 12 2
+JOINT 0; 14 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 110;
+# source=d48584e2c530_raid challenge.json target=191
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 115;
+# source=d48584e2c530_raid challenge.json target=194
+JOINT 0; 7 1
+JOINT 0; 8 1
+
+FRAME 120;
+# source=d48584e2c530_raid challenge.json target=199
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 4
+JOINT 0; 16 4
+
+FRAME 125;
+# source=d48584e2c530_raid challenge.json target=203
+JOINT 0; 12 2
+JOINT 0; 14 2
+
+FRAME 130;
+# source=d48584e2c530_raid challenge.json target=208
+JOINT 0; 4 2
+JOINT 0; 7 3
+JOINT 0; 12 3
+
+FRAME 135;
+# source=d48584e2c530_raid challenge.json target=212
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 16 3
+
+FRAME 140;
+# source=d48584e2c530_raid challenge.json target=216
+JOINT 0; 1 2
+JOINT 0; 16 4
+
+FRAME 145;
+# source=d48584e2c530_raid challenge.json target=218
+JOINT 0; 5 2
+JOINT 0; 6 4
+JOINT 0; 12 3
+JOINT 0; 16 2
+
+FRAME 150;
+# source=d48584e2c530_raid challenge.json target=220
+JOINT 0; 16 3
+
+FRAME 155;
+# source=d48584e2c530_raid challenge.json target=221
+JOINT 0; 5 3
+JOINT 0; 7 4
+JOINT 0; 12 2
+JOINT 0; 16 1
+JOINT 0; 17 4
+JOINT 0; 18 2
+
+FRAME 160;
+# source=d48584e2c530_raid challenge.json target=223
+JOINT 0; 2 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 9 4
+JOINT 0; 19 4
+
+FRAME 165;
+# source=d48584e2c530_raid challenge.json target=224
+JOINT 0; 5 2
+
+FRAME 170;
+# source=d48584e2c530_raid challenge.json target=227
+JOINT 0; 1 3
+JOINT 0; 2 3
+
+FRAME 175;
+# source=d48584e2c530_raid challenge.json target=230
+JOINT 0; 16 4
+
+FRAME 180;
+# source=d48584e2c530_raid challenge.json target=232
+JOINT 0; 4 1
+JOINT 0; 6 3
+JOINT 0; 7 2
+JOINT 0; 15 1
+
+FRAME 185;
+# source=d48584e2c530_raid challenge.json target=242
+JOINT 0; 1 1
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 12 1
+JOINT 0; 13 1
+JOINT 0; 15 3
+
+FRAME 190;
+# source=d48584e2c530_raid challenge.json target=247
+JOINT 0; 1 3
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 14 4
+
+FRAME 195;
+# source=d48584e2c530_raid challenge.json target=257
+JOINT 0; 7 1
+JOINT 0; 8 3
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 17 3
+
+FRAME 200;
+# source=d48584e2c530_raid challenge.json target=260
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 3

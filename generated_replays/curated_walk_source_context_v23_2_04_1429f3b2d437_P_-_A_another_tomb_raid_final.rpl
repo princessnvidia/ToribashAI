@@ -1,0 +1,170 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_04_1429f3b2d437_P_-_A_another_tomb_raid_final
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; -1.000000 0.000000 10.490000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 parkour/Tombs_Raid/raid_the_tomb.tbm
+
+FRAME 0;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=55
+JOINT 0; 5 3
+JOINT 0; 14 4
+JOINT 0; 15 1
+JOINT 0; 18 4
+
+FRAME 2;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=57
+JOINT 0; 4 2
+JOINT 0; 5 4
+
+FRAME 5;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=60
+JOINT 0; 4 3
+JOINT 0; 15 3
+
+FRAME 7;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=62
+JOINT 0; 4 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+
+FRAME 10;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=65
+JOINT 0; 4 4
+JOINT 0; 5 4
+
+FRAME 13;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=68
+JOINT 0; 5 1
+JOINT 0; 6 3
+JOINT 0; 7 2
+JOINT 0; 8 3
+JOINT 0; 9 3
+
+FRAME 18;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=73
+JOINT 0; 18 1
+JOINT 0; 19 1
+
+FRAME 20;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=75
+JOINT 0; 4 4
+JOINT 0; 7 2
+JOINT 0; 8 4
+
+FRAME 30;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=85
+JOINT 0; 4 3
+JOINT 0; 7 3
+
+FRAME 31;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=86
+JOINT 0; 19 4
+
+FRAME 37;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=92
+JOINT 0; 14 4
+JOINT 0; 15 2
+
+FRAME 38;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=93
+JOINT 0; 7 4
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 41;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=96
+JOINT 0; 15 3
+
+FRAME 42;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=97
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 12 2
+JOINT 0; 15 1
+
+FRAME 44;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=99
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 12 3
+JOINT 0; 18 2
+
+FRAME 46;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=101
+JOINT 0; 13 2
+JOINT 0; 18 3
+
+FRAME 49;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=104
+JOINT 0; 13 3
+JOINT 0; 19 1
+
+FRAME 51;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=106
+JOINT 0; 7 4
+
+FRAME 62;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=117
+JOINT 0; 4 4
+JOINT 0; 13 4
+JOINT 0; 18 4
+
+FRAME 65;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=120
+JOINT 0; 4 4
+JOINT 0; 13 3
+
+FRAME 68;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=123
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 18 2
+
+FRAME 70;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=125
+JOINT 0; 14 1
+JOINT 0; 17 1
+
+FRAME 71;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=126
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 17 4
+JOINT 0; 19 1
+
+FRAME 74;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=129
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 13 1
+JOINT 0; 18 1
+JOINT 0; 19 2
+
+FRAME 76;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=131
+JOINT 0; 12 1
+JOINT 0; 13 3
+
+FRAME 77;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=132
+JOINT 0; 12 3
+
+FRAME 78;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=133
+JOINT 0; 4 4
+JOINT 0; 7 2
+JOINT 0; 8 4
+
+FRAME 88;
+# source=1429f3b2d437_[P - A] another tomb raid final.json source_frame=143
+JOINT 0; 7 4
+
+FRAME 188;

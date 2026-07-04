@@ -1,0 +1,33 @@
+{
+  "generation": 0,
+  "champion_score": -108.6555,
+  "best_score_this_generation": -108.6555,
+  "best_result": {
+    "score": -108.6555,
+    "x": 1.092,
+    "y": -1.8088,
+    "z": 6.1466,
+    "final_dist": 63.205,
+    "progress_y": 1.7755,
+    "fell": false,
+    "frames": 200,
+    "agent": "agent_003",
+    "reason": "max_frames"
+  },
+  "best_path": "/home/vio/Documents/ToribashAI/evolution/population_fullbody_v6_clipboard/gen_00000_agent_003.json",
+  "scores": [
+    -108.6555,
+    -114.3393,
+    -114.5016,
+    -117.2942,
+    -118.0778,
+    -118.1202,
+    -118.4893,
+    -119.5524,
+    -119.6153,
+    -120.6911
+  ],
+  "mutation_rate": 0.05,
+  "population": 10,
+  "runner": "toribash_reward_runner_v13.lua"
+}

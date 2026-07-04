@@ -1,0 +1,9 @@
+{
+  "runner": "root_walk_v1_3_forced_teacher_loop",
+  "status": "done",
+  "reason": "max_frames",
+  "frame": 432,
+  "score": 432,
+  "forced_teacher_loop": true,
+  "agent_name": "root_walk_v1_g00000_c003"
+}

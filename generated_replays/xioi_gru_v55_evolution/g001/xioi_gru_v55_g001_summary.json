@@ -1,0 +1,170 @@
+{
+  "version": 55,
+  "generation": 1,
+  "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+  "population": 16,
+  "protected_until": 315,
+  "base_seed": 129861106,
+  "candidates": [
+    {
+      "candidate": 1,
+      "generation": 1,
+      "seed": 129862115,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c01.rpl",
+      "protected_until": 315,
+      "mutations": 24,
+      "touched_frames": 22
+    },
+    {
+      "candidate": 2,
+      "generation": 1,
+      "seed": 129863124,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c02.rpl",
+      "protected_until": 315,
+      "mutations": 22,
+      "touched_frames": 22
+    },
+    {
+      "candidate": 3,
+      "generation": 1,
+      "seed": 129864133,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c03.rpl",
+      "protected_until": 315,
+      "mutations": 15,
+      "touched_frames": 14
+    },
+    {
+      "candidate": 4,
+      "generation": 1,
+      "seed": 129865142,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c04.rpl",
+      "protected_until": 315,
+      "mutations": 24,
+      "touched_frames": 23
+    },
+    {
+      "candidate": 5,
+      "generation": 1,
+      "seed": 129866151,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c05.rpl",
+      "protected_until": 315,
+      "mutations": 16,
+      "touched_frames": 15
+    },
+    {
+      "candidate": 6,
+      "generation": 1,
+      "seed": 129867160,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c06.rpl",
+      "protected_until": 315,
+      "mutations": 15,
+      "touched_frames": 15
+    },
+    {
+      "candidate": 7,
+      "generation": 1,
+      "seed": 129868169,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c07.rpl",
+      "protected_until": 315,
+      "mutations": 28,
+      "touched_frames": 26
+    },
+    {
+      "candidate": 8,
+      "generation": 1,
+      "seed": 129869178,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c08.rpl",
+      "protected_until": 315,
+      "mutations": 15,
+      "touched_frames": 14
+    },
+    {
+      "candidate": 9,
+      "generation": 1,
+      "seed": 129870187,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c09.rpl",
+      "protected_until": 315,
+      "mutations": 22,
+      "touched_frames": 22
+    },
+    {
+      "candidate": 10,
+      "generation": 1,
+      "seed": 129871196,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c10.rpl",
+      "protected_until": 315,
+      "mutations": 18,
+      "touched_frames": 17
+    },
+    {
+      "candidate": 11,
+      "generation": 1,
+      "seed": 129872205,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c11.rpl",
+      "protected_until": 315,
+      "mutations": 18,
+      "touched_frames": 17
+    },
+    {
+      "candidate": 12,
+      "generation": 1,
+      "seed": 129873214,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c12.rpl",
+      "protected_until": 315,
+      "mutations": 19,
+      "touched_frames": 18
+    },
+    {
+      "candidate": 13,
+      "generation": 1,
+      "seed": 129874223,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c13.rpl",
+      "protected_until": 315,
+      "mutations": 14,
+      "touched_frames": 12
+    },
+    {
+      "candidate": 14,
+      "generation": 1,
+      "seed": 129875232,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c14.rpl",
+      "protected_until": 315,
+      "mutations": 22,
+      "touched_frames": 21
+    },
+    {
+      "candidate": 15,
+      "generation": 1,
+      "seed": 129876241,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c15.rpl",
+      "protected_until": 315,
+      "mutations": 10,
+      "touched_frames": 10
+    },
+    {
+      "candidate": 16,
+      "generation": 1,
+      "seed": 129877250,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c16.rpl",
+      "protected_until": 315,
+      "mutations": 16,
+      "touched_frames": 16
+    }
+  ]
+}

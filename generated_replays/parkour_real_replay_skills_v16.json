@@ -1,0 +1,15 @@
+{
+  "name": "parkour_real_replay_skills_v16",
+  "version": 16,
+  "description": "Skills extraits des vrais replays parkour, pas des sorties GRU.",
+  "turnframes": 5,
+  "chunk_turns": [
+    4,
+    6,
+    8,
+    10
+  ],
+  "skill_count": 0,
+  "category_counts": {},
+  "skills": []
+}

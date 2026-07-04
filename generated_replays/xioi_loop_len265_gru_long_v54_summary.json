@@ -1,0 +1,269 @@
+{
+  "version": 54,
+  "purpose": "long template-safe robustness test over V51 len265 loop champion",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_champion_v51.rpl",
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_loop_len265_gru_v52.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_loop_len265_v52_sequences.jsonl",
+  "state_dim": 20,
+  "rows": 326,
+  "seeds": [
+    8,
+    24,
+    48,
+    96,
+    160
+  ],
+  "outputs": [
+    {
+      "name": "xioi_loop_len265_gru_long_v54_teacher_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_teacher_template_safe.rpl",
+      "mode": "reference_teacher",
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5271
+        ],
+        [
+          3,
+          470
+        ],
+        [
+          2,
+          304
+        ],
+        [
+          1,
+          254
+        ],
+        [
+          4,
+          221
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 1.0,
+        "exact_accuracy_vs_reference": 1.0
+      }
+    },
+    {
+      "name": "xioi_loop_len265_gru_long_v54_seed008_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_seed008_template_safe.rpl",
+      "mode": "free_after_seed",
+      "seed_rows": 8,
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5263
+        ],
+        [
+          3,
+          471
+        ],
+        [
+          2,
+          308
+        ],
+        [
+          1,
+          255
+        ],
+        [
+          4,
+          223
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 0.7200920245398773,
+        "exact_accuracy_vs_reference": 0.1196319018404908
+      }
+    },
+    {
+      "name": "xioi_loop_len265_gru_long_v54_seed024_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_seed024_template_safe.rpl",
+      "mode": "free_after_seed",
+      "seed_rows": 24,
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5263
+        ],
+        [
+          3,
+          471
+        ],
+        [
+          2,
+          308
+        ],
+        [
+          1,
+          255
+        ],
+        [
+          4,
+          223
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 0.7200920245398773,
+        "exact_accuracy_vs_reference": 0.1196319018404908
+      }
+    },
+    {
+      "name": "xioi_loop_len265_gru_long_v54_seed048_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_seed048_template_safe.rpl",
+      "mode": "free_after_seed",
+      "seed_rows": 48,
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5271
+        ],
+        [
+          3,
+          470
+        ],
+        [
+          2,
+          304
+        ],
+        [
+          1,
+          254
+        ],
+        [
+          4,
+          221
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 0.7438650306748467,
+        "exact_accuracy_vs_reference": 0.17177914110429449
+      }
+    },
+    {
+      "name": "xioi_loop_len265_gru_long_v54_seed096_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_seed096_template_safe.rpl",
+      "mode": "free_after_seed",
+      "seed_rows": 96,
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5271
+        ],
+        [
+          3,
+          470
+        ],
+        [
+          2,
+          304
+        ],
+        [
+          1,
+          254
+        ],
+        [
+          4,
+          221
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 1.0,
+        "exact_accuracy_vs_reference": 1.0
+      }
+    },
+    {
+      "name": "xioi_loop_len265_gru_long_v54_seed160_template_safe",
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_long_v54_seed160_template_safe.rpl",
+      "mode": "free_after_seed",
+      "seed_rows": 160,
+      "rewrite": {
+        "template_lines": 3017,
+        "output_lines": 3017,
+        "predicted_frames": 326,
+        "replaced_frames": 326,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 326,
+        "inserted_joint0_lines": 326
+      },
+      "pred_counts": [
+        [
+          0,
+          5271
+        ],
+        [
+          3,
+          470
+        ],
+        [
+          2,
+          304
+        ],
+        [
+          1,
+          254
+        ],
+        [
+          4,
+          221
+        ]
+      ],
+      "metrics": {
+        "compared_frames": 326,
+        "joint_accuracy_vs_reference": 1.0,
+        "exact_accuracy_vs_reference": 1.0
+      }
+    }
+  ]
+}

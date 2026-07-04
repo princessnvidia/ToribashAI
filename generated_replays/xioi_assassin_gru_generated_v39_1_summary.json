@@ -1,0 +1,56 @@
+{
+  "version": 39,
+  "mode": "teacher_forced_gru_to_rpl",
+  "rows_used": 85,
+  "joint_accuracy_on_export": 1.0,
+  "exact_accuracy_on_export": 1.0,
+  "true_counts": [
+    [
+      0,
+      1370
+    ],
+    [
+      3,
+      118
+    ],
+    [
+      2,
+      85
+    ],
+    [
+      1,
+      68
+    ],
+    [
+      4,
+      59
+    ]
+  ],
+  "pred_counts": [
+    [
+      0,
+      1370
+    ],
+    [
+      3,
+      118
+    ],
+    [
+      2,
+      85
+    ],
+    [
+      1,
+      68
+    ],
+    [
+      4,
+      59
+    ]
+  ],
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_gru_v38.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_walk_v38_sequences.jsonl",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_gru_generated_v39_1.rpl",
+  "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_gru_generated_v39_1_actions.json"
+}

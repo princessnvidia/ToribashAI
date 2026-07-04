@@ -1,0 +1,75 @@
+{
+  "version": 55,
+  "generation": 1,
+  "champion": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+  "best_score": null,
+  "history": [],
+  "last_population": [
+    {
+      "file": "xioi_gru_v55_g001_c00_PARENT.rpl",
+      "parent": true,
+      "mutated_joint_lines": 0
+    },
+    {
+      "file": "xioi_gru_v55_g001_c01.rpl",
+      "parent": false,
+      "mutated_joint_lines": 8,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c02.rpl",
+      "parent": false,
+      "mutated_joint_lines": 13,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c03.rpl",
+      "parent": false,
+      "mutated_joint_lines": 20,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c04.rpl",
+      "parent": false,
+      "mutated_joint_lines": 13,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c05.rpl",
+      "parent": false,
+      "mutated_joint_lines": 16,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c06.rpl",
+      "parent": false,
+      "mutated_joint_lines": 9,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c07.rpl",
+      "parent": false,
+      "mutated_joint_lines": 18,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c08.rpl",
+      "parent": false,
+      "mutated_joint_lines": 14,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c09.rpl",
+      "parent": false,
+      "mutated_joint_lines": 17,
+      "joint_lines": 334
+    },
+    {
+      "file": "xioi_gru_v55_g001_c10.rpl",
+      "parent": false,
+      "mutated_joint_lines": 11,
+      "joint_lines": 334
+    }
+  ],
+  "population_size": 10
+}

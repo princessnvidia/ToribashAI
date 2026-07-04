@@ -1,0 +1,111 @@
+{
+  "input_reference": "/home/vio/Documents/ToribashAI/evolution/skills/walk_xioi_reference.json",
+  "segments_detected": 2,
+  "raw_segments": [
+    {
+      "label": "right",
+      "start_frame": 0,
+      "end_frame": 406,
+      "length": 406
+    },
+    {
+      "label": "left",
+      "start_frame": 409,
+      "end_frame": 427,
+      "length": 18
+    }
+  ],
+  "scored_segments": [
+    {
+      "label": "right",
+      "start_frame": 0,
+      "end_frame": 406,
+      "length": 406,
+      "score": -47.874705745,
+      "motion": {
+        "head_forward": -1.6006973500000008,
+        "hips_forward": -1.0752647499999988,
+        "left_foot_forward": -0.7125471800000014,
+        "right_foot_forward": -0.99360377,
+        "head_lateral_range": 19.94409583,
+        "hips_lateral_range": 19.798961990000002,
+        "head_z_min": 2.04937856,
+        "hips_z_min": 1.900714495,
+        "frames_found": 172
+      }
+    },
+    {
+      "label": "left",
+      "start_frame": 409,
+      "end_frame": 427,
+      "length": 18,
+      "score": -7.684419635000001,
+      "motion": {
+        "head_forward": -0.3568524799999988,
+        "hips_forward": -0.5416864475000018,
+        "left_foot_forward": -0.7523126700000002,
+        "right_foot_forward": -0.9207538699999986,
+        "head_lateral_range": 1.1771841000000016,
+        "hips_lateral_range": 1.0472931125000002,
+        "head_z_min": 2.35873163,
+        "hips_z_min": 1.9536168525,
+        "frames_found": 11
+      }
+    }
+  ],
+  "selected": {
+    "start": {
+      "start_frame": 0,
+      "end_frame": 0,
+      "stats": {
+        "commands_found": 1,
+        "head_forward": 0.0,
+        "hips_forward": 0.0,
+        "left_foot_forward": 0.0,
+        "right_foot_forward": 0.0,
+        "head_lateral_range": 0.0,
+        "hips_lateral_range": 0.0,
+        "head_z_min": 3.18000013,
+        "hips_z_min": 2.380000055,
+        "frames_found": 1
+      }
+    },
+    "left_step": {
+      "start_frame": 409,
+      "end_frame": 427,
+      "stats": {
+        "commands_found": 11,
+        "head_forward": -0.3568524799999988,
+        "hips_forward": -0.5416864475000018,
+        "left_foot_forward": -0.7523126700000002,
+        "right_foot_forward": -0.9207538699999986,
+        "head_lateral_range": 1.1771841000000016,
+        "hips_lateral_range": 1.0472931125000002,
+        "head_z_min": 2.35873163,
+        "hips_z_min": 1.9536168525,
+        "frames_found": 11
+      }
+    },
+    "right_step": {
+      "start_frame": 0,
+      "end_frame": 406,
+      "stats": {
+        "commands_found": 172,
+        "head_forward": -1.6006973500000008,
+        "hips_forward": -1.0752647499999988,
+        "left_foot_forward": -0.7125471800000014,
+        "right_foot_forward": -0.99360377,
+        "head_lateral_range": 19.94409583,
+        "hips_lateral_range": 19.798961990000002,
+        "head_z_min": 2.04937856,
+        "hips_z_min": 1.900714495,
+        "frames_found": 172
+      }
+    }
+  },
+  "outputs": {
+    "start": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_start_reference_v3.json",
+    "left_step": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_left_step_reference_v3.json",
+    "right_step": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_right_step_reference_v3.json"
+  }
+}

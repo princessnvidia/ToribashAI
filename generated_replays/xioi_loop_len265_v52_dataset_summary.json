@@ -1,0 +1,75 @@
+{
+  "version": 52,
+  "reference": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_champion_v51_reference.json",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_loop_len265_v52_sequences.jsonl",
+  "rows": 326,
+  "seq_len": 8,
+  "state_dim": 20,
+  "action_dim": 20,
+  "frame_min": 0,
+  "frame_max": 1665,
+  "value_counts": [
+    [
+      0,
+      5271
+    ],
+    [
+      3,
+      470
+    ],
+    [
+      2,
+      304
+    ],
+    [
+      1,
+      254
+    ],
+    [
+      4,
+      221
+    ]
+  ],
+  "active_count_distribution": [
+    [
+      3,
+      72
+    ],
+    [
+      2,
+      60
+    ],
+    [
+      4,
+      49
+    ],
+    [
+      5,
+      43
+    ],
+    [
+      1,
+      43
+    ],
+    [
+      7,
+      30
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      11,
+      6
+    ]
+  ]
+}

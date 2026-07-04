@@ -1,0 +1,102 @@
+{
+  "version": 41,
+  "mode": "long_free_running_action_gru",
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_action_gru_free_v40.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_walk_v38_sequences.jsonl",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "exports": [
+    {
+      "name": "xioi_assassin_action_gru_long_v41_seed35_to1000",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed35_to1000.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed35_to1000_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_long_v41_seed35_to1000.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_long_v41_seed35_to1000.rpl"
+      ],
+      "generation": {
+        "seed_frame": 35,
+        "seed_idx": 8,
+        "seed_actual_frame": 89,
+        "target_frame": 1000,
+        "generated_rows": 199,
+        "source_eval_rows_after_seed": 76,
+        "source_eval_joint_acc": 1.0,
+        "source_eval_exact_acc": 1.0
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 917,
+        "template_max_frame": 426,
+        "target_frame": 1000,
+        "predicted_frames": 199,
+        "replaced_frames": 85,
+        "appended_frames": 114,
+        "missing_predicted_template_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    },
+    {
+      "name": "xioi_assassin_action_gru_long_v41_seed140_to1000",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed140_to1000.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed140_to1000_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_long_v41_seed140_to1000.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_long_v41_seed140_to1000.rpl"
+      ],
+      "generation": {
+        "seed_frame": 140,
+        "seed_idx": 19,
+        "seed_actual_frame": 139,
+        "target_frame": 1000,
+        "generated_rows": 199,
+        "source_eval_rows_after_seed": 65,
+        "source_eval_joint_acc": 1.0,
+        "source_eval_exact_acc": 1.0
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 917,
+        "template_max_frame": 426,
+        "target_frame": 1000,
+        "predicted_frames": 199,
+        "replaced_frames": 85,
+        "appended_frames": 114,
+        "missing_predicted_template_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    },
+    {
+      "name": "xioi_assassin_action_gru_long_v41_seed200_to1200",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed200_to1200.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_long_v41_seed200_to1200_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_long_v41_seed200_to1200.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_long_v41_seed200_to1200.rpl"
+      ],
+      "generation": {
+        "seed_frame": 200,
+        "seed_idx": 32,
+        "seed_actual_frame": 199,
+        "target_frame": 1200,
+        "generated_rows": 239,
+        "source_eval_rows_after_seed": 52,
+        "source_eval_joint_acc": 1.0,
+        "source_eval_exact_acc": 1.0
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 1037,
+        "template_max_frame": 426,
+        "target_frame": 1200,
+        "predicted_frames": 239,
+        "replaced_frames": 85,
+        "appended_frames": 154,
+        "missing_predicted_template_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    }
+  ]
+}

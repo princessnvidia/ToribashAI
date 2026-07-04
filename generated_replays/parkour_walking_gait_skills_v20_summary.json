@@ -1,0 +1,14 @@
+{
+  "version": "20",
+  "raw_count": 34476,
+  "skill_count": 900,
+  "categories": {
+    "lean_forward": 180,
+    "left_step": 180,
+    "recover_upright": 180,
+    "right_step": 180,
+    "stand": 180
+  },
+  "source_replays": 343,
+  "notes": "Gait extraction by foot planted/swing signature, not by raw forward distance."
+}

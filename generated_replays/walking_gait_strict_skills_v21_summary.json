@@ -1,0 +1,16 @@
+{
+  "version": 21,
+  "input_replays": 343,
+  "raw_accepted": 0,
+  "final_skill_count": 0,
+  "categories": {},
+  "rejects": {
+    "reject_no_forward": 50023,
+    "reject_head_low": 22466,
+    "reject_sideways": 3629,
+    "missing_core_pos": 6213,
+    "reject_too_fast": 453,
+    "too_short_replay": 1
+  },
+  "top_skills": []
+}

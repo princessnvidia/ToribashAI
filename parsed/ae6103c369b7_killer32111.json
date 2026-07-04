@@ -1,0 +1,17 @@
+{
+  "file": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/ae6103c369b7_killer32111.rpl",
+  "metadata": {
+    "version": "10",
+    "fightname": "killer32111",
+    "players": {
+      "0": "[Delta]killer321",
+      "1": "MRECW92"
+    },
+    "authors": {
+      "0": ""
+    },
+    "newgame_raw": "NEWGAME 1;250 10 20 0 0 3 200 0 0 katana.tbm 0 0 100 0 0 0 1 0 2 0 0 0 0 0 0 0.000000 0.000000 -9.820000 8 0",
+    "mod": "katana.tbm"
+  },
+  "frames": {}
+}

@@ -1,0 +1,165 @@
+{
+  "version": "23.1",
+  "selected_files": 20,
+  "sequences": 722,
+  "seq_len": 8,
+  "state_dim": 42,
+  "action_dim": 20,
+  "max_frame": 260,
+  "action_counts": [
+    [
+      0,
+      11894
+    ],
+    [
+      3,
+      810
+    ],
+    [
+      4,
+      641
+    ],
+    [
+      1,
+      577
+    ],
+    [
+      2,
+      518
+    ]
+  ],
+  "sources": [
+    {
+      "file": "1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "usable": 94,
+      "sequences": 86,
+      "frame_min": 0,
+      "frame_max": 260
+    },
+    {
+      "file": "05e5c92102ae_Swex- Divine.json",
+      "usable": 2,
+      "sequences": 0
+    },
+    {
+      "file": "87134fc30e8c_pakourxioi.json",
+      "usable": 86,
+      "sequences": 78,
+      "frame_min": 10,
+      "frame_max": 260
+    },
+    {
+      "file": "95f0831c03a3_[raid v41-2].json",
+      "usable": 0,
+      "sequences": 0
+    },
+    {
+      "file": "0ec9e2d18b70__Xioi_Pk - Budokai.json",
+      "usable": 56,
+      "sequences": 48,
+      "frame_min": 0,
+      "frame_max": 258
+    },
+    {
+      "file": "23c05e96a043__Xioi_Pk - Ykeus.json",
+      "usable": 61,
+      "sequences": 53,
+      "frame_min": 0,
+      "frame_max": 254
+    },
+    {
+      "file": "a285709cef29__Xioi- PK- Ravine Explorer.json",
+      "usable": 55,
+      "sequences": 47,
+      "frame_min": 0,
+      "frame_max": 256
+    },
+    {
+      "file": "d638000f601a_[raid v41].json",
+      "usable": 0,
+      "sequences": 0
+    },
+    {
+      "file": "a06ff6cc6488_Raid Challenge.json",
+      "usable": 28,
+      "sequences": 19,
+      "frame_min": 0,
+      "frame_max": 251
+    },
+    {
+      "file": "d48584e2c530_raid challenge.json",
+      "usable": 49,
+      "sequences": 41,
+      "frame_min": 0,
+      "frame_max": 260
+    },
+    {
+      "file": "1429f3b2d437_[P - A] another tomb raid final.json",
+      "usable": 61,
+      "sequences": 53,
+      "frame_min": 0,
+      "frame_max": 257
+    },
+    {
+      "file": "80c4693463f7_Karbn- run away v7.5.json",
+      "usable": 115,
+      "sequences": 107,
+      "frame_min": 0,
+      "frame_max": 256
+    },
+    {
+      "file": "c43811acfb81_Flash parkour Karbn.json",
+      "usable": 53,
+      "sequences": 11,
+      "frame_min": 0,
+      "frame_max": 260
+    },
+    {
+      "file": "00e9325d61e9_[p] karbn - mirrors edge pk v9.json",
+      "usable": 55,
+      "sequences": 47,
+      "frame_min": 0,
+      "frame_max": 259
+    },
+    {
+      "file": "0ac7a764f038_wip JIsse ravine .json",
+      "usable": 21,
+      "sequences": 13,
+      "frame_min": 0,
+      "frame_max": 248
+    },
+    {
+      "file": "2ebd05b1847f__Xioi_Pk - Osikei.json",
+      "usable": 46,
+      "sequences": 38,
+      "frame_min": 0,
+      "frame_max": 256
+    },
+    {
+      "file": "347d35420fdc_[raid v35].json",
+      "usable": 0,
+      "sequences": 0
+    },
+    {
+      "file": "6e67c9be42ea_Cas - Raid test (opt uke 0).json",
+      "usable": 29,
+      "sequences": 21,
+      "frame_min": 11,
+      "frame_max": 260
+    },
+    {
+      "file": "a7d6f980b00e__Xioi_Pk- Axipot.json",
+      "usable": 46,
+      "sequences": 38,
+      "frame_min": 0,
+      "frame_max": 246
+    },
+    {
+      "file": "d0a3c2f217f3_xlr swexx parkour.json",
+      "usable": 30,
+      "sequences": 22,
+      "frame_min": 0,
+      "frame_max": 252
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": 28,
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_source_template_v28.rpl",
+  "candidates": [
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_00_exact_source.rpl",
+      "mutations": 0,
+      "type": "exact"
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_01_mut001.rpl",
+      "mutations": 1,
+      "strength": 0.5625
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_02_mut000.rpl",
+      "mutations": 0,
+      "strength": 0.625
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_03_mut001.rpl",
+      "mutations": 1,
+      "strength": 0.6875
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_04_mut000.rpl",
+      "mutations": 0,
+      "strength": 0.75
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_05_mut002.rpl",
+      "mutations": 2,
+      "strength": 0.8125
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_06_mut001.rpl",
+      "mutations": 1,
+      "strength": 0.875
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_07_mut001.rpl",
+      "mutations": 1,
+      "strength": 0.9375
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_08_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.0
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_09_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.0625
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_10_mut001.rpl",
+      "mutations": 1,
+      "strength": 1.125
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_11_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.1875
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_12_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.25
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_13_mut001.rpl",
+      "mutations": 1,
+      "strength": 1.3125
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_14_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.375
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_15_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.4375
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_v28_candidates/xioi_v28_16_mut000.rpl",
+      "mutations": 0,
+      "strength": 1.5
+    }
+  ]
+}

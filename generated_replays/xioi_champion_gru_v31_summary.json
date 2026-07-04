@@ -1,0 +1,26 @@
+{
+  "version": 31,
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_champion_v31_sequences.jsonl",
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_champion_gru_v31.pt",
+  "best_metric": 4.0,
+  "best_metrics": {
+    "loss": 0.001244018548168242,
+    "joint_acc": 1.0,
+    "exact_acc": 1.0,
+    "nonzero_acc": 1.0,
+    "true_counts": {
+      "0": 1900,
+      "1": 22,
+      "3": 37,
+      "4": 16,
+      "2": 25
+    },
+    "pred_counts": {
+      "0": 1900,
+      "1": 22,
+      "3": 37,
+      "4": 16,
+      "2": 25
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "version": 32,
+  "generation": 1,
+  "population": 10,
+  "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_master_final_v5_champion.rpl",
+  "candidates": [
+    {
+      "candidate": 0,
+      "changes": 0,
+      "joint_lines": null,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c00_PARENT.rpl",
+      "parent": true
+    },
+    {
+      "candidate": 1,
+      "changes": 9,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c01.rpl"
+    },
+    {
+      "candidate": 2,
+      "changes": 3,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c02.rpl"
+    },
+    {
+      "candidate": 3,
+      "changes": 7,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c03.rpl"
+    },
+    {
+      "candidate": 4,
+      "changes": 6,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c04.rpl"
+    },
+    {
+      "candidate": 5,
+      "changes": 5,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c05.rpl"
+    },
+    {
+      "candidate": 6,
+      "changes": 7,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c06.rpl"
+    },
+    {
+      "candidate": 7,
+      "changes": 7,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c07.rpl"
+    },
+    {
+      "candidate": 8,
+      "changes": 3,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c08.rpl"
+    },
+    {
+      "candidate": 9,
+      "changes": 2,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c09.rpl"
+    },
+    {
+      "candidate": 10,
+      "changes": 4,
+      "joint_lines": 357,
+      "path": "/home/vio/Documents/ToribashAI/generated_replays/xioi_hybrid_v32_g001_c10.rpl"
+    }
+  ],
+  "note": "Play candidates in Toribash with scorer Lua loaded. Promote the best manually."
+}

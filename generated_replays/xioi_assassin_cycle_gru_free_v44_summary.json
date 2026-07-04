@@ -1,0 +1,15 @@
+{
+  "version": 44,
+  "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_cycle_gru_free_v44.rpl",
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_cycle_gru_v44.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_cycle_v44_sequences.jsonl",
+  "source_until": 315,
+  "generate_until": 1200,
+  "generated_frames": 177,
+  "pred_counts": [
+    [
+      0,
+      3540
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 14,
+  "results": [
+    {
+      "scan_id": "v14_0000",
+      "name": "stand_soft",
+      "timeout": true,
+      "error": null,
+      "score": -9999,
+      "forward": -9999,
+      "head_z": 0,
+      "motor_ok": 0,
+      "candidate": {
+        "scan_id": "v14_0000",
+        "numeric_id": 0,
+        "name": "stand_soft",
+        "category": "stand",
+        "pairs": [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            16,
+            3
+          ],
+          [
+            17,
+            3
+          ],
+          [
+            18,
+            3
+          ],
+          [
+            19,
+            3
+          ]
+        ]
+      }
+    }
+  ]
+}

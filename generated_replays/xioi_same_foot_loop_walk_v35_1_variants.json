@@ -1,0 +1,113 @@
+{
+  "version": "35.1",
+  "variants": [
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early15",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early15.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 135,
+      "end": 215,
+      "loop_len": 80,
+      "y_scale": 1.0,
+      "delta_y": -5.021674580000001,
+      "repeats": 5,
+      "frames": 134
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early10",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early10.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 140,
+      "end": 220,
+      "loop_len": 80,
+      "y_scale": 1.0,
+      "delta_y": -4.776960059999999,
+      "repeats": 5,
+      "frames": 130
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early05",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early05.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 145,
+      "end": 225,
+      "loop_len": 80,
+      "y_scale": 1.0,
+      "delta_y": -4.985132380000001,
+      "repeats": 5,
+      "frames": 137
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_base",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_base.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 150,
+      "end": 230,
+      "loop_len": 80,
+      "y_scale": 1.0,
+      "delta_y": -4.8519725000000005,
+      "repeats": 5,
+      "frames": 144
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_late05",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_late05.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 155,
+      "end": 235,
+      "loop_len": 80,
+      "y_scale": 1.0,
+      "delta_y": -5.159491740000002,
+      "repeats": 5,
+      "frames": 144
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early10_shortY",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early10_shortY.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 140,
+      "end": 220,
+      "loop_len": 80,
+      "y_scale": 0.92,
+      "delta_y": -4.3948032551999985,
+      "repeats": 5,
+      "frames": 130
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early10_longY",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early10_longY.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 140,
+      "end": 220,
+      "loop_len": 80,
+      "y_scale": 1.08,
+      "delta_y": -5.159116864799999,
+      "repeats": 5,
+      "frames": 130
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early05_shortY",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early05_shortY.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 145,
+      "end": 225,
+      "loop_len": 80,
+      "y_scale": 0.92,
+      "delta_y": -4.586321789600001,
+      "repeats": 5,
+      "frames": 137
+    },
+    {
+      "name": "xioi_same_foot_loop_walk_v35_1_early05_longY",
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35_1_early05_longY.rpl",
+      "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_same_foot_loop_walk_v35.rpl",
+      "start": 145,
+      "end": 225,
+      "loop_len": 80,
+      "y_scale": 1.08,
+      "delta_y": -5.3839429704000015,
+      "repeats": 5,
+      "frames": 137
+    }
+  ]
+}

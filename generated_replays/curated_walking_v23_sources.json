@@ -1,0 +1,23 @@
+{
+  "wanted": [
+    "xioi - chichaehaa",
+    "xioi - ff",
+    "swexx - divine",
+    "flarkour",
+    "karbn - raid",
+    "mack - p - clay pigeon",
+    "the kurr of treasure hunting"
+  ],
+  "files": [
+    "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json"
+  ],
+  "sources": [
+    {
+      "file": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "usable_frames": 81,
+      "sequences": 73,
+      "first_frame": 0,
+      "last_frame": 219
+    }
+  ]
+}

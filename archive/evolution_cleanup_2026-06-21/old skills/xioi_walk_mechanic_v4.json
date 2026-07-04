@@ -1,0 +1,104 @@
+{
+  "name": "xioi_walk_mechanic_v4",
+  "type": "joint_pattern_mechanic",
+  "source_reference": "/home/vio/Documents/ToribashAI/evolution/skills/walk_xioi_reference.json",
+  "source_rpl": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/#Xioi#Pk - YpSkA.rpl",
+  "source_filename": "#Xioi#Pk - YpSkA.rpl",
+  "leg_joints": [
+    4,
+    5,
+    6,
+    7,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "mechanic": {
+    "kind": "repeated_pattern_sequence",
+    "pattern_sequence": [
+      "P000",
+      "P000",
+      "P000"
+    ],
+    "sequence_length": 3,
+    "repeat_count": 2,
+    "score": 6,
+    "source_start_index": 59,
+    "source_end_index": 61,
+    "source_start_frame": 165,
+    "source_end_frame": 168,
+    "starts": [
+      {
+        "index": 59,
+        "frame": 165
+      },
+      {
+        "index": 168,
+        "frame": 398
+      }
+    ]
+  },
+  "loop_length": 3,
+  "commands": [
+    {
+      "frame": 0,
+      "source_frame": 165,
+      "pattern_id": "P000",
+      "pairs": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          12,
+          2
+        ]
+      ],
+      "leg_pairs": []
+    },
+    {
+      "frame": 2,
+      "source_frame": 167,
+      "pattern_id": "P000",
+      "pairs": [
+        [
+          3,
+          3
+        ],
+        [
+          12,
+          3
+        ]
+      ],
+      "leg_pairs": []
+    },
+    {
+      "frame": 3,
+      "source_frame": 168,
+      "pattern_id": "P000",
+      "pairs": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "leg_pairs": []
+    }
+  ],
+  "notes": [
+    "This is a pattern mechanic extracted from repeated leg JOINT commands.",
+    "It is not full replay imitation.",
+    "Use start/loop training later to test if this sequence can be repeated."
+  ]
+}

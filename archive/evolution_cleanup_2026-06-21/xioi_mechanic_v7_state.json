@@ -1,0 +1,23 @@
+{
+  "generation": 1,
+  "champion_score": -25.4149,
+  "champion_path": "/home/vio/Documents/ToribashAI/evolution/champion_xioi_mechanic_v7.json",
+  "best_score_this_gen": -25.4149,
+  "best_result_this_gen": {
+    "score": -25.4149,
+    "x": 2.0338,
+    "y": -2.7446,
+    "z": 6.0886,
+    "final_dist": 62.2924,
+    "progress_y": 2.7113,
+    "posture_z": 6.0047,
+    "upright_bonus": 72.0568,
+    "fell": false,
+    "frames": 200,
+    "agent": "xioi_v7_gen_00001_agent_009",
+    "reason": "max_frames",
+    "score_after_elimination": -25.4149
+  },
+  "mutation_rate": 0.012,
+  "policy": "xioi_mechanic_locked_legs_only"
+}

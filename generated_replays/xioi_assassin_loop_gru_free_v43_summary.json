@@ -1,0 +1,10 @@
+{
+  "version": 43,
+  "mode": "strict_loop_only_free_run",
+  "cut_after_frame": 315,
+  "generated_to_frame": 1000,
+  "generated_actions": 137,
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_loop_gru_v43.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_loop_v43_sequences.jsonl",
+  "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_loop_gru_free_v43.rpl"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/3d17c7bb6b6b_epic__.rpl",
+  "metadata": {
+    "version": "10",
+    "fightname": "epic!!",
+    "players": {
+      "0": "FlyingMonk",
+      "1": "KaishinBR"
+    },
+    "authors": {
+      "0": ""
+    },
+    "newgame_raw": "NEWGAME 1;120 10 20 0 0 3 180 0 1 taekkyon.tbm 0 0 100 0 0 0 1 0 2 0 0 0 0 0 0 0.000000 0.000000 -9.820000 0 0 0",
+    "mod": "taekkyon.tbm"
+  },
+  "frames": {}
+}

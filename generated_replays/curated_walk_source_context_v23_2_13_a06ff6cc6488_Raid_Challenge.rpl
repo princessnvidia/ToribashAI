@@ -1,0 +1,111 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_13_a06ff6cc6488_Raid_Challenge
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 1.450000 1.000000 10.490000 0 0 0
+ENGAGE 1; -1.450000 0.500000 10.490000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 raid_challenge.tbm
+
+FRAME 0;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=141
+JOINT 0; 4 4
+JOINT 0; 6 3
+JOINT 0; 7 4
+JOINT 0; 9 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 19 2
+
+FRAME 10;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=151
+JOINT 0; 4 1
+JOINT 0; 6 4
+JOINT 0; 7 1
+JOINT 0; 9 4
+JOINT 0; 18 4
+JOINT 0; 19 4
+
+FRAME 20;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=161
+JOINT 0; 13 3
+JOINT 0; 19 1
+
+FRAME 30;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=171
+JOINT 0; 0 4
+JOINT 0; 1 3
+JOINT 0; 2 3
+JOINT 0; 3 4
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 2
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 10 4
+JOINT 0; 11 4
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 4
+JOINT 0; 19 2
+
+FRAME 40;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=181
+JOINT 0; 5 2
+JOINT 0; 7 1
+JOINT 0; 8 2
+JOINT 0; 9 1
+JOINT 0; 11 2
+JOINT 0; 18 3
+
+FRAME 50;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=191
+JOINT 0; 3 1
+JOINT 0; 4 1
+JOINT 0; 9 1
+JOINT 0; 11 2
+JOINT 0; 14 1
+JOINT 0; 18 1
+JOINT 0; 19 2
+
+FRAME 60;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=201
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 11 4
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 3
+
+FRAME 70;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=211
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 16 2
+JOINT 0; 19 1
+
+FRAME 80;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=221
+JOINT 0; 15 1
+JOINT 0; 16 3
+
+FRAME 90;
+# source=a06ff6cc6488_Raid Challenge.json source_frame=231
+JOINT 0; 4 1
+JOINT 0; 7 1
+JOINT 0; 14 3
+
+FRAME 190;

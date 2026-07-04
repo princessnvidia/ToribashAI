@@ -1,0 +1,10 @@
+{
+  "version": 44,
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_cycle_gru_v44.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_cycle_v44_sequences.jsonl",
+  "rows": 408,
+  "best_epoch": 1,
+  "best_metric": 2.0,
+  "state_dim": 32,
+  "seq_len": 8
+}

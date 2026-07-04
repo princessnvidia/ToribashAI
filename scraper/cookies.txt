@@ -1,0 +1,11 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.forum.toribash.com	TRUE	/	FALSE	0	PHPSESSID	rtniooeovlsgl7gldrukcb2iku
+.toribash.com	TRUE	/	FALSE	0	tb5nocookies	0
+.toribash.com	TRUE	/	TRUE	1813230240	tb5lastvisit	1781694240
+.toribash.com	TRUE	/	TRUE	1813230240	tb5lastactivity	0
+.toribash.com	TRUE	/	TRUE	1813230240	tb5userid	7998686
+.toribash.com	TRUE	/	TRUE	1813230240	tb5password	14e3ac623493bcc661029a18d080b341
+.toribash.com	TRUE	/	FALSE	0	tb5sessionhash	c0f6f30c5036260442b9856ee0dee08e

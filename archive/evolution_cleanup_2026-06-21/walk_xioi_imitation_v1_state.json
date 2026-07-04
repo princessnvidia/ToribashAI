@@ -1,0 +1,31 @@
+{
+  "generation": 2,
+  "champion_score": -5973.0903,
+  "champion_path": "/home/vio/Documents/ToribashAI/evolution/walk_xioi_imitation_champion_v1.json",
+  "best_score_this_gen": -5973.0903,
+  "best_result_this_gen": {
+    "score": -5973.0903,
+    "reason": "hand_ground",
+    "frames": 49,
+    "gen": "2",
+    "candidate": "2",
+    "population": "12",
+    "x": 0.919,
+    "y": 0.0582,
+    "z": 6.7707,
+    "forward": -0.0393,
+    "lateral_drift": 0.0916,
+    "best_x": 0.9586,
+    "head_ground_frames": 0,
+    "hip_ground_frames": 0,
+    "shoulder_ground_frames": 0,
+    "hand_ground_frames": 5,
+    "torso_ground_frames": 0,
+    "lateral_fall_frames": 0,
+    "stalled_frames": 0
+  },
+  "mutation_rate": 0.018,
+  "mutation_strategy": "walk_xioi_imitation_v1_soft_mutation",
+  "mod": "ToribashAI/toribashai_goal_flat_v1.tbm",
+  "population": 12
+}

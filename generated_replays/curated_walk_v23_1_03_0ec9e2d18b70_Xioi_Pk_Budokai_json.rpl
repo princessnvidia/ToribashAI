@@ -1,0 +1,340 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_03_0ec9e2d18b70_Xioi_Pk_Budokai_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=59
+JOINT 0; 5 1
+JOINT 0; 8 1
+JOINT 0; 9 1
+JOINT 0; 14 3
+JOINT 0; 16 3
+JOINT 0; 18 3
+
+FRAME 5;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=61
+JOINT 0; 5 3
+JOINT 0; 9 2
+JOINT 0; 12 2
+JOINT 0; 14 2
+
+FRAME 10;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=64
+JOINT 0; 5 4
+JOINT 0; 9 4
+JOINT 0; 12 3
+JOINT 0; 17 3
+
+FRAME 15;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=65
+JOINT 0; 18 3
+
+FRAME 20;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=75
+JOINT 0; 4 1
+JOINT 0; 6 3
+JOINT 0; 7 2
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 25;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=77
+JOINT 0; 5 1
+JOINT 0; 6 3
+JOINT 0; 8 1
+JOINT 0; 9 2
+JOINT 0; 13 3
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 30;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=78
+JOINT 0; 4 1
+JOINT 0; 5 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 12 1
+
+FRAME 35;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=82
+JOINT 0; 5 1
+JOINT 0; 12 3
+JOINT 0; 14 1
+JOINT 0; 15 4
+JOINT 0; 17 3
+
+FRAME 40;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=89
+JOINT 0; 3 2
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 3
+
+FRAME 45;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=96
+JOINT 0; 14 4
+
+FRAME 50;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=100
+JOINT 0; 5 3
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 55;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=105
+JOINT 0; 15 3
+JOINT 0; 16 4
+
+FRAME 60;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=112
+JOINT 0; 3 3
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 8 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 65;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=118
+JOINT 0; 3 2
+
+FRAME 70;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=122
+JOINT 0; 3 3
+JOINT 0; 5 4
+JOINT 0; 9 2
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 75;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=124
+JOINT 0; 5 3
+JOINT 0; 9 3
+
+FRAME 80;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=131
+JOINT 0; 15 3
+
+FRAME 85;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=134
+JOINT 0; 3 2
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 90;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=136
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+
+FRAME 95;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=139
+JOINT 0; 3 3
+JOINT 0; 4 1
+JOINT 0; 7 2
+
+FRAME 100;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=144
+JOINT 0; 3 2
+JOINT 0; 17 3
+
+FRAME 105;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=148
+JOINT 0; 3 3
+JOINT 0; 16 3
+
+FRAME 110;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=161
+JOINT 0; 3 2
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 16 3
+
+FRAME 115;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=164
+JOINT 0; 3 2
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 120;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=167
+JOINT 0; 3 3
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 13 3
+JOINT 0; 15 1
+
+FRAME 125;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=175
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 2
+
+FRAME 130;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=178
+JOINT 0; 12 3
+JOINT 0; 13 1
+JOINT 0; 18 3
+
+FRAME 135;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=181
+JOINT 0; 12 1
+JOINT 0; 13 3
+JOINT 0; 18 1
+
+FRAME 140;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=185
+JOINT 0; 12 1
+
+FRAME 145;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=190
+JOINT 0; 3 2
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 1
+
+FRAME 150;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=193
+JOINT 0; 2 3
+JOINT 0; 3 2
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 12 3
+JOINT 0; 14 1
+JOINT 0; 16 4
+
+FRAME 155;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=196
+JOINT 0; 1 1
+JOINT 0; 3 3
+JOINT 0; 17 3
+
+FRAME 160;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=199
+JOINT 0; 1 3
+JOINT 0; 12 4
+
+FRAME 165;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=202
+JOINT 0; 12 4
+JOINT 0; 13 3
+JOINT 0; 16 3
+JOINT 0; 19 4
+
+FRAME 170;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=205
+JOINT 0; 3 3
+JOINT 0; 12 3
+JOINT 0; 14 4
+JOINT 0; 16 4
+
+FRAME 175;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=209
+JOINT 0; 17 3
+JOINT 0; 19 3
+
+FRAME 180;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=219
+JOINT 0; 1 2
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 185;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=221
+JOINT 0; 1 3
+JOINT 0; 3 3
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 2
+
+FRAME 190;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=223
+JOINT 0; 1 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 1
+
+FRAME 195;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=226
+JOINT 0; 1 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 200;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=227
+JOINT 0; 16 3
+
+FRAME 205;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=232
+JOINT 0; 12 2
+JOINT 0; 17 3
+
+FRAME 210;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=235
+JOINT 0; 3 3
+JOINT 0; 12 3
+
+FRAME 215;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=243
+JOINT 0; 3 2
+JOINT 0; 17 1
+
+FRAME 220;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=245
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 17 3
+
+FRAME 225;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=251
+JOINT 0; 1 3
+JOINT 0; 3 3
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 16 2
+JOINT 0; 17 4
+JOINT 0; 19 2
+
+FRAME 230;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=255
+JOINT 0; 1 1
+JOINT 0; 14 1
+JOINT 0; 17 3
+JOINT 0; 18 3
+
+FRAME 235;
+# source=0ec9e2d18b70__Xioi_Pk - Budokai.json target=258
+JOINT 0; 1 3
+JOINT 0; 3 1
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 1

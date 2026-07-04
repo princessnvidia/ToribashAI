@@ -1,0 +1,26 @@
+{
+  "version": 23,
+  "name": "curated_walking_v23",
+  "seq_len": 8,
+  "max_frame": 220,
+  "found_files": 1,
+  "sequences": 73,
+  "state_dim": 42,
+  "action_dim": 20,
+  "action_value_counts": {
+    "0": 1193,
+    "2": 47,
+    "4": 88,
+    "1": 57,
+    "3": 75
+  },
+  "sources": [
+    {
+      "file": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "usable_frames": 81,
+      "sequences": 73,
+      "first_frame": 0,
+      "last_frame": 219
+    }
+  ]
+}

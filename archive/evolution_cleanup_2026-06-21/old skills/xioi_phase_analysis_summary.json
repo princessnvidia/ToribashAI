@@ -1,0 +1,269 @@
+{
+  "input_reference": "/home/vio/Documents/ToribashAI/evolution/skills/walk_xioi_reference.json",
+  "source_rpl": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/#Xioi#Pk - YpSkA.rpl",
+  "source_filename": "#Xioi#Pk - YpSkA.rpl",
+  "reference_stats": {
+    "frames_found": 183,
+    "commands_found": 183,
+    "first_frame": 0,
+    "last_frame": 427,
+    "all_frame_numbers_first_20": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      34,
+      35,
+      38,
+      39,
+      45,
+      48,
+      50,
+      53,
+      55,
+      58,
+      59,
+      63,
+      64
+    ],
+    "all_frame_numbers_last_20": [
+      390,
+      392,
+      393,
+      394,
+      396,
+      398,
+      401,
+      402,
+      406,
+      409,
+      410,
+      412,
+      413,
+      415,
+      417,
+      419,
+      421,
+      423,
+      426,
+      427
+    ]
+  },
+  "selected_loop": {
+    "start_frame": 118,
+    "end_frame": 198,
+    "loop_length": 80,
+    "score": -37.720872289241534,
+    "pose_distance": 4.201860823530192,
+    "action_distance": 0.0,
+    "motion": {
+      "head_forward": 0.694559390000002,
+      "head_lateral_range": 4.118653480000001,
+      "head_z_min": 2.20926141,
+      "head_z_avg": 2.3682962317948717,
+      "hip_z_min": 1.900714495,
+      "hip_z_avg": 2.057672919294872,
+      "shoulder_z_min": 1.90859859,
+      "shoulder_z_avg": 2.050335956025641
+    }
+  },
+  "top_loop_candidates": [
+    {
+      "start_frame": 118,
+      "end_frame": 198,
+      "loop_length": 80,
+      "score": -37.720872289241534,
+      "pose_distance": 4.201860823530192,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 0.694559390000002,
+        "head_lateral_range": 4.118653480000001,
+        "head_z_min": 2.20926141,
+        "head_z_avg": 2.3682962317948717,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.057672919294872,
+        "shoulder_z_min": 1.90859859,
+        "shoulder_z_avg": 2.050335956025641
+      }
+    },
+    {
+      "start_frame": 67,
+      "end_frame": 165,
+      "loop_length": 98,
+      "score": -38.33131881157256,
+      "pose_distance": 4.393137739446569,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.0158348400000001,
+        "head_lateral_range": 4.2465033299999995,
+        "head_z_min": 2.13371638,
+        "head_z_avg": 2.280448956153846,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0042322087179487,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.027831945641026
+      }
+    },
+    {
+      "start_frame": 66,
+      "end_frame": 155,
+      "loop_length": 89,
+      "score": -38.774216522873346,
+      "pose_distance": 3.843991311984168,
+      "action_distance": 0.3333333333333333,
+      "motion": {
+        "head_forward": 0.8928301300000001,
+        "head_lateral_range": 3.7411344599999996,
+        "head_z_min": 2.12182162,
+        "head_z_avg": 2.2544153622222223,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 1.9961828113888889,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.0265654422916666
+      }
+    },
+    {
+      "start_frame": 64,
+      "end_frame": 165,
+      "loop_length": 101,
+      "score": -39.09271303044773,
+      "pose_distance": 4.480265991805966,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.014833239999998,
+        "head_lateral_range": 4.33555683,
+        "head_z_min": 2.09681718,
+        "head_z_avg": 2.2721011729268294,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0038698408536586,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.0336617695121952
+      }
+    },
+    {
+      "start_frame": 67,
+      "end_frame": 167,
+      "loop_length": 100,
+      "score": -39.232992318400896,
+      "pose_distance": 4.501758205925111,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.0455096899999994,
+        "head_lateral_range": 4.360584080000001,
+        "head_z_min": 2.13371638,
+        "head_z_avg": 2.28579825625,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0059520125,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.02938330225
+      }
+    },
+    {
+      "start_frame": 63,
+      "end_frame": 149,
+      "loop_length": 86,
+      "score": -39.45824951771088,
+      "pose_distance": 3.6210794695888606,
+      "action_distance": 0.5,
+      "motion": {
+        "head_forward": 0.8346595100000016,
+        "head_lateral_range": 3.55521878,
+        "head_z_min": 2.08621165,
+        "head_z_avg": 2.240468397027027,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 1.9938444432432432,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.031444557364865
+      }
+    },
+    {
+      "start_frame": 67,
+      "end_frame": 168,
+      "loop_length": 101,
+      "score": -39.663114978424346,
+      "pose_distance": 4.553527947553044,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.0600017400000006,
+        "head_lateral_range": 4.41657979,
+        "head_z_min": 2.13371638,
+        "head_z_avg": 2.290846345365854,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0075687678658536,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.030957905609756
+      }
+    },
+    {
+      "start_frame": 111,
+      "end_frame": 197,
+      "loop_length": 86,
+      "score": -39.903566328301125,
+      "pose_distance": 4.474164375287641,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 0.7791673400000008,
+        "head_lateral_range": 4.37347473,
+        "head_z_min": 2.20926141,
+        "head_z_avg": 2.3542486985714284,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0446925973214287,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.03607916625
+      }
+    },
+    {
+      "start_frame": 64,
+      "end_frame": 167,
+      "loop_length": 103,
+      "score": -39.99435865348555,
+      "pose_distance": 4.588882972810692,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.0445080899999972,
+        "head_lateral_range": 4.44963758,
+        "head_z_min": 2.09681718,
+        "head_z_avg": 2.2773945011904764,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.0055163770238096,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.0350004466666665
+      }
+    },
+    {
+      "start_frame": 64,
+      "end_frame": 168,
+      "loop_length": 104,
+      "score": -40.424389077808755,
+      "pose_distance": 4.640641184976094,
+      "action_distance": 0.0,
+      "motion": {
+        "head_forward": 1.0590001399999984,
+        "head_lateral_range": 4.50563329,
+        "head_z_min": 2.09681718,
+        "head_z_avg": 2.282403231627907,
+        "hip_z_min": 1.900714495,
+        "hip_z_avg": 2.007068065523256,
+        "shoulder_z_min": 1.902100385,
+        "shoulder_z_avg": 2.036371181395349
+      }
+    }
+  ],
+  "outputs": {
+    "start_reference": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_start_reference.json",
+    "loop_reference": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_loop_reference.json",
+    "summary": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_phase_analysis_summary.json"
+  },
+  "interpretation": {
+    "start_phase": "frames 0->118",
+    "loop_phase": "frames 118->198",
+    "training_plan": [
+      "Train/reward start once.",
+      "Then reward repeated loop phase.",
+      "Later allow loop to repeat indefinitely rather than replaying full 0->427 cassette."
+    ]
+  }
+}

@@ -1,0 +1,2177 @@
+{
+  "name": "parkour_gru_v13_candidate_compiled",
+  "version": "13",
+  "mod": "ToribashAI/toribashai_goal_flat_v1.tbm",
+  "turnframes": 5,
+  "generated_steps": 70,
+  "skill_genome": [
+    0,
+    3,
+    3,
+    4,
+    25,
+    33,
+    6,
+    24,
+    37,
+    1,
+    10,
+    7,
+    17,
+    24,
+    11,
+    16,
+    7,
+    25,
+    28,
+    6,
+    16,
+    30
+  ],
+  "used_skills": [
+    0,
+    3,
+    3,
+    4,
+    25,
+    33,
+    6,
+    24,
+    37,
+    1,
+    10,
+    7,
+    17,
+    24,
+    11,
+    16,
+    7
+  ],
+  "used_categories": [
+    "stand",
+    "launch_forward",
+    "launch_forward",
+    "walk_step",
+    "walk_step",
+    "walk_step",
+    "recover",
+    "walk_step",
+    "walk_step",
+    "stand",
+    "walk_step",
+    "recover",
+    "walk_step",
+    "walk_step",
+    "walk_step",
+    "walk_step",
+    "recover"
+  ],
+  "actions": [
+    {
+      "frame": 0,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 0,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 5,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 0,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 10,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 0,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 15,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 20,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 25,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 30,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 35,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 40,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 3,
+      "category": "launch_forward",
+      "stage": "launch"
+    },
+    {
+      "frame": 45,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 4,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 50,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 4,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 55,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 4,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 60,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 4,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 65,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 70,
+      "pairs": [
+        [
+          8,
+          3
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 75,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 80,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 85,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 90,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          1
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 25,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 95,
+      "pairs": [
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          4
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 100,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          2
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 105,
+      "pairs": [
+        [
+          4,
+          4
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 110,
+      "pairs": [
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          2
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          2
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 115,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          1
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 120,
+      "pairs": [
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ]
+      ],
+      "skill_id": 33,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 125,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ]
+      ],
+      "skill_id": 6,
+      "category": "recover",
+      "stage": "recover"
+    },
+    {
+      "frame": 130,
+      "pairs": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 6,
+      "category": "recover",
+      "stage": "recover"
+    },
+    {
+      "frame": 135,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 6,
+      "category": "recover",
+      "stage": "recover"
+    },
+    {
+      "frame": 140,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          2
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 145,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 150,
+      "pairs": [
+        [
+          5,
+          4
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          2
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 155,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          1
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 160,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 165,
+      "pairs": [
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 170,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 175,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 180,
+      "pairs": [
+        [
+          6,
+          1
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          2
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 185,
+      "pairs": [
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          4
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 190,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          2
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 195,
+      "pairs": [
+        [
+          4,
+          4
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 37,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 200,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "skill_id": 1,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 205,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 1,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 210,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 1,
+      "category": "stand",
+      "stage": "stand"
+    },
+    {
+      "frame": 215,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 220,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 225,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 230,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 235,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 240,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "skill_id": 10,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 245,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 7,
+      "category": "recover",
+      "stage": "recover"
+    },
+    {
+      "frame": 250,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 7,
+      "category": "recover",
+      "stage": "recover"
+    },
+    {
+      "frame": 255,
+      "pairs": [
+        [
+          14,
+          4
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 17,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 260,
+      "pairs": [
+        [
+          7,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          4
+        ]
+      ],
+      "skill_id": 17,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 265,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 17,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 270,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          2
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 275,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 280,
+      "pairs": [
+        [
+          5,
+          4
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          2
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 285,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          1
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 290,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 295,
+      "pairs": [
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 24,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 300,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 305,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 310,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 315,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 320,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 325,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 11,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 330,
+      "pairs": [
+        [
+          7,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          4
+        ]
+      ],
+      "skill_id": 16,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 335,
+      "pairs": [
+        [
+          14,
+          3
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 16,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 340,
+      "pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          4
+        ]
+      ],
+      "skill_id": 16,
+      "category": "walk_step",
+      "stage": "walk"
+    },
+    {
+      "frame": 345,
+      "pairs": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          15,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ]
+      ],
+      "skill_id": 7,
+      "category": "recover",
+      "stage": "recover"
+    }
+  ],
+  "generation": 0,
+  "candidate_idx": 0
+}

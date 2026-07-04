@@ -1,0 +1,117 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_17_d0a3c2f217f3_xlr_swexx_parkour
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 5.000000 3.000000 9.510000 0 0 0
+ENGAGE 1; 9.000000 3.000000 9.450000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 swexxmod.tbm
+
+FRAME 0;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=116
+JOINT 0; 4 2
+JOINT 0; 7 1
+
+FRAME 3;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=119
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 13;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=129
+JOINT 0; 4 4
+JOINT 0; 7 1
+JOINT 0; 12 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 16;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=132
+JOINT 0; 5 3
+JOINT 0; 12 3
+
+FRAME 19;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=135
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 12 1
+JOINT 0; 13 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 22;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=138
+JOINT 0; 4 4
+JOINT 0; 7 3
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 27;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=143
+JOINT 0; 7 4
+JOINT 0; 16 3
+JOINT 0; 19 1
+
+FRAME 31;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=147
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 12 2
+JOINT 0; 13 2
+
+FRAME 38;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=154
+JOINT 0; 12 1
+JOINT 0; 13 2
+
+FRAME 42;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=158
+JOINT 0; 4 4
+JOINT 0; 5 3
+JOINT 0; 7 4
+JOINT 0; 8 3
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 19 3
+
+FRAME 52;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=168
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 12 3
+JOINT 0; 17 3
+JOINT 0; 18 2
+
+FRAME 72;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=188
+JOINT 0; 4 3
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 82;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=198
+JOINT 0; 6 4
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 85;
+# source=d0a3c2f217f3_xlr swexx parkour.json source_frame=201
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 16 3
+
+FRAME 185;

@@ -1,0 +1,28 @@
+{
+  "name": "walking_gait_strict_skills_v21",
+  "version": 21,
+  "description": "Strict foot-contact / stable-shoulder walking gait skills extracted from real parsed RPL replays.",
+  "bodypart_indices": {
+    "head": 0,
+    "chest": 1,
+    "left_shoulder": 5,
+    "right_shoulder": 8,
+    "left_foot": 19,
+    "right_foot": 20,
+    "left_hand": 11,
+    "right_hand": 12
+  },
+  "thresholds": {
+    "min_forward_dx": 0.2,
+    "max_forward_dx": 4.25,
+    "max_side_dy": 2.75,
+    "max_vertical_range": 4.25,
+    "max_head_drop": 3.25,
+    "min_head_above_feet": 8.0,
+    "max_shoulder_z_range": 2.25,
+    "max_both_feet_air_ratio": 0.2,
+    "min_one_foot_planted_ratio": 0.35
+  },
+  "skill_count": 0,
+  "skills": []
+}

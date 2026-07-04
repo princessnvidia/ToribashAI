@@ -1,0 +1,82 @@
+{
+  "version": 26,
+  "source": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0ec9e2d18b70__Xioi_Pk - Budokai.json",
+  "source_name": "0ec9e2d18b70__Xioi_Pk - Budokai.json",
+  "rows": 93,
+  "sequences": 85,
+  "seq_len": 8,
+  "state_dim": 45,
+  "action_dim": 20,
+  "max_frame": 427,
+  "frame_min": 0,
+  "frame_max": 426,
+  "action_counts": [
+    [
+      0,
+      1370
+    ],
+    [
+      3,
+      118
+    ],
+    [
+      2,
+      85
+    ],
+    [
+      1,
+      68
+    ],
+    [
+      4,
+      59
+    ]
+  ],
+  "active_counts": [
+    [
+      1,
+      15
+    ],
+    [
+      2,
+      15
+    ],
+    [
+      4,
+      13
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      8,
+      3
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      11,
+      1
+    ],
+    [
+      12,
+      1
+    ]
+  ],
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_only_v26_sequences.jsonl"
+}

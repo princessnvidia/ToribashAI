@@ -1,0 +1,462 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_10_87134fc30e8c_pakourxioi_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=87134fc30e8c_pakourxioi.json target=31
+JOINT 0; 4 4
+
+FRAME 5;
+# source=87134fc30e8c_pakourxioi.json target=33
+JOINT 0; 3 3
+JOINT 0; 14 4
+JOINT 0; 15 3
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 10;
+# source=87134fc30e8c_pakourxioi.json target=37
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 6 3
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 9 3
+JOINT 0; 14 3
+JOINT 0; 15 4
+JOINT 0; 16 3
+JOINT 0; 19 3
+
+FRAME 15;
+# source=87134fc30e8c_pakourxioi.json target=38
+JOINT 0; 5 4
+JOINT 0; 6 3
+JOINT 0; 8 4
+
+FRAME 20;
+# source=87134fc30e8c_pakourxioi.json target=39
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 15 3
+JOINT 0; 17 1
+
+FRAME 25;
+# source=87134fc30e8c_pakourxioi.json target=40
+JOINT 0; 17 4
+
+FRAME 30;
+# source=87134fc30e8c_pakourxioi.json target=48
+JOINT 0; 16 4
+JOINT 0; 18 4
+JOINT 0; 19 4
+
+FRAME 35;
+# source=87134fc30e8c_pakourxioi.json target=57
+JOINT 0; 0 3
+JOINT 0; 14 1
+JOINT 0; 15 3
+JOINT 0; 16 4
+
+FRAME 40;
+# source=87134fc30e8c_pakourxioi.json target=64
+JOINT 0; 0 2
+
+FRAME 45;
+# source=87134fc30e8c_pakourxioi.json target=119
+JOINT 0; 15 2
+JOINT 0; 19 2
+
+FRAME 50;
+# source=87134fc30e8c_pakourxioi.json target=123
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 14 2
+
+FRAME 55;
+# source=87134fc30e8c_pakourxioi.json target=125
+JOINT 0; 17 1
+
+FRAME 60;
+# source=87134fc30e8c_pakourxioi.json target=126
+JOINT 0; 15 4
+JOINT 0; 17 4
+
+FRAME 65;
+# source=87134fc30e8c_pakourxioi.json target=129
+JOINT 0; 17 1
+
+FRAME 70;
+# source=87134fc30e8c_pakourxioi.json target=130
+JOINT 0; 5 1
+JOINT 0; 6 4
+JOINT 0; 8 1
+JOINT 0; 9 4
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 18 2
+
+FRAME 75;
+# source=87134fc30e8c_pakourxioi.json target=134
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 80;
+# source=87134fc30e8c_pakourxioi.json target=136
+JOINT 0; 1 2
+JOINT 0; 6 4
+JOINT 0; 7 3
+JOINT 0; 8 4
+JOINT 0; 16 3
+
+FRAME 85;
+# source=87134fc30e8c_pakourxioi.json target=137
+JOINT 0; 1 3
+JOINT 0; 7 1
+JOINT 0; 9 3
+
+FRAME 90;
+# source=87134fc30e8c_pakourxioi.json target=140
+JOINT 0; 16 4
+JOINT 0; 19 1
+
+FRAME 95;
+# source=87134fc30e8c_pakourxioi.json target=143
+JOINT 0; 16 3
+JOINT 0; 18 2
+
+FRAME 100;
+# source=87134fc30e8c_pakourxioi.json target=144
+JOINT 0; 3 1
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 8 3
+JOINT 0; 16 4
+
+FRAME 105;
+# source=87134fc30e8c_pakourxioi.json target=145
+JOINT 0; 3 2
+JOINT 0; 16 3
+
+FRAME 110;
+# source=87134fc30e8c_pakourxioi.json target=148
+JOINT 0; 14 4
+JOINT 0; 16 4
+
+FRAME 115;
+# source=87134fc30e8c_pakourxioi.json target=150
+JOINT 0; 14 2
+
+FRAME 120;
+# source=87134fc30e8c_pakourxioi.json target=151
+JOINT 0; 3 3
+JOINT 0; 12 4
+JOINT 0; 13 2
+JOINT 0; 14 4
+JOINT 0; 15 1
+JOINT 0; 16 1
+JOINT 0; 17 3
+
+FRAME 125;
+# source=87134fc30e8c_pakourxioi.json target=152
+JOINT 0; 1 2
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 13 3
+JOINT 0; 14 4
+JOINT 0; 15 3
+JOINT 0; 16 4
+
+FRAME 130;
+# source=87134fc30e8c_pakourxioi.json target=153
+JOINT 0; 15 1
+
+FRAME 135;
+# source=87134fc30e8c_pakourxioi.json target=157
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 140;
+# source=87134fc30e8c_pakourxioi.json target=158
+JOINT 0; 1 3
+JOINT 0; 2 2
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 145;
+# source=87134fc30e8c_pakourxioi.json target=160
+JOINT 0; 2 2
+
+FRAME 150;
+# source=87134fc30e8c_pakourxioi.json target=162
+JOINT 0; 1 1
+JOINT 0; 2 3
+
+FRAME 155;
+# source=87134fc30e8c_pakourxioi.json target=166
+JOINT 0; 1 1
+
+FRAME 160;
+# source=87134fc30e8c_pakourxioi.json target=167
+JOINT 0; 1 1
+JOINT 0; 14 1
+
+FRAME 165;
+# source=87134fc30e8c_pakourxioi.json target=170
+JOINT 0; 1 3
+JOINT 0; 17 3
+JOINT 0; 19 4
+
+FRAME 170;
+# source=87134fc30e8c_pakourxioi.json target=171
+JOINT 0; 4 1
+
+FRAME 175;
+# source=87134fc30e8c_pakourxioi.json target=172
+JOINT 0; 9 2
+
+FRAME 180;
+# source=87134fc30e8c_pakourxioi.json target=174
+JOINT 0; 5 3
+JOINT 0; 7 2
+
+FRAME 185;
+# source=87134fc30e8c_pakourxioi.json target=179
+JOINT 0; 9 3
+
+FRAME 190;
+# source=87134fc30e8c_pakourxioi.json target=181
+JOINT 0; 16 3
+JOINT 0; 18 4
+
+FRAME 195;
+# source=87134fc30e8c_pakourxioi.json target=183
+JOINT 0; 15 2
+JOINT 0; 17 3
+
+FRAME 200;
+# source=87134fc30e8c_pakourxioi.json target=186
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 205;
+# source=87134fc30e8c_pakourxioi.json target=188
+JOINT 0; 4 3
+JOINT 0; 6 2
+
+FRAME 210;
+# source=87134fc30e8c_pakourxioi.json target=189
+JOINT 0; 6 4
+
+FRAME 215;
+# source=87134fc30e8c_pakourxioi.json target=191
+JOINT 0; 2 3
+JOINT 0; 6 3
+JOINT 0; 13 3
+
+FRAME 220;
+# source=87134fc30e8c_pakourxioi.json target=196
+JOINT 0; 13 2
+
+FRAME 225;
+# source=87134fc30e8c_pakourxioi.json target=197
+JOINT 0; 7 3
+JOINT 0; 13 3
+JOINT 0; 14 1
+JOINT 0; 19 2
+
+FRAME 230;
+# source=87134fc30e8c_pakourxioi.json target=198
+JOINT 0; 15 2
+JOINT 0; 19 4
+
+FRAME 235;
+# source=87134fc30e8c_pakourxioi.json target=200
+JOINT 0; 2 1
+JOINT 0; 13 2
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 2
+
+FRAME 240;
+# source=87134fc30e8c_pakourxioi.json target=201
+JOINT 0; 13 3
+
+FRAME 245;
+# source=87134fc30e8c_pakourxioi.json target=202
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 15 4
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 250;
+# source=87134fc30e8c_pakourxioi.json target=204
+JOINT 0; 14 2
+JOINT 0; 15 3
+
+FRAME 255;
+# source=87134fc30e8c_pakourxioi.json target=208
+JOINT 0; 19 4
+
+FRAME 260;
+# source=87134fc30e8c_pakourxioi.json target=209
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 15 1
+
+FRAME 265;
+# source=87134fc30e8c_pakourxioi.json target=211
+JOINT 0; 18 3
+
+FRAME 270;
+# source=87134fc30e8c_pakourxioi.json target=212
+JOINT 0; 18 4
+
+FRAME 275;
+# source=87134fc30e8c_pakourxioi.json target=217
+JOINT 0; 8 1
+
+FRAME 280;
+# source=87134fc30e8c_pakourxioi.json target=218
+JOINT 0; 1 4
+JOINT 0; 8 3
+
+FRAME 285;
+# source=87134fc30e8c_pakourxioi.json target=219
+JOINT 0; 18 3
+
+FRAME 290;
+# source=87134fc30e8c_pakourxioi.json target=220
+JOINT 0; 17 4
+JOINT 0; 19 1
+
+FRAME 295;
+# source=87134fc30e8c_pakourxioi.json target=221
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 18 2
+JOINT 0; 19 4
+
+FRAME 300;
+# source=87134fc30e8c_pakourxioi.json target=222
+JOINT 0; 17 2
+
+FRAME 305;
+# source=87134fc30e8c_pakourxioi.json target=223
+JOINT 0; 15 1
+JOINT 0; 17 3
+JOINT 0; 19 1
+
+FRAME 310;
+# source=87134fc30e8c_pakourxioi.json target=225
+JOINT 0; 1 4
+JOINT 0; 4 3
+JOINT 0; 5 4
+JOINT 0; 7 3
+JOINT 0; 8 3
+
+FRAME 315;
+# source=87134fc30e8c_pakourxioi.json target=229
+JOINT 0; 1 4
+JOINT 0; 15 4
+JOINT 0; 17 3
+JOINT 0; 19 4
+
+FRAME 320;
+# source=87134fc30e8c_pakourxioi.json target=233
+JOINT 0; 14 3
+JOINT 0; 16 4
+JOINT 0; 17 3
+
+FRAME 325;
+# source=87134fc30e8c_pakourxioi.json target=235
+JOINT 0; 1 3
+JOINT 0; 5 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 330;
+# source=87134fc30e8c_pakourxioi.json target=238
+JOINT 0; 19 3
+
+FRAME 335;
+# source=87134fc30e8c_pakourxioi.json target=240
+JOINT 0; 1 1
+
+FRAME 340;
+# source=87134fc30e8c_pakourxioi.json target=241
+JOINT 0; 1 4
+
+FRAME 345;
+# source=87134fc30e8c_pakourxioi.json target=243
+JOINT 0; 1 3
+JOINT 0; 2 1
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 18 4
+
+FRAME 350;
+# source=87134fc30e8c_pakourxioi.json target=245
+JOINT 0; 2 3
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 355;
+# source=87134fc30e8c_pakourxioi.json target=246
+JOINT 0; 15 4
+JOINT 0; 16 3
+
+FRAME 360;
+# source=87134fc30e8c_pakourxioi.json target=249
+JOINT 0; 16 2
+
+FRAME 365;
+# source=87134fc30e8c_pakourxioi.json target=250
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 14 4
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 370;
+# source=87134fc30e8c_pakourxioi.json target=253
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 18 1
+JOINT 0; 19 2
+
+FRAME 375;
+# source=87134fc30e8c_pakourxioi.json target=255
+JOINT 0; 1 4
+JOINT 0; 4 3
+JOINT 0; 7 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 3
+
+FRAME 380;
+# source=87134fc30e8c_pakourxioi.json target=258
+JOINT 0; 1 3
+JOINT 0; 14 4
+JOINT 0; 15 2
+
+FRAME 385;
+# source=87134fc30e8c_pakourxioi.json target=260
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 4

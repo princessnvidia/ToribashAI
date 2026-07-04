@@ -1,0 +1,17 @@
+{
+  "version": 46,
+  "mode": "template_safe_cycle_copy",
+  "source_rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "output_rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v46.rpl",
+  "fightname": "xioi_assassin_template_loop_v46",
+  "source_until": 315,
+  "cycle_start": 70,
+  "cycle_end": 295,
+  "target_end": 1200,
+  "source_block_count": 65,
+  "cycle_block_count": 52,
+  "output_block_count": 267,
+  "output_frame_min": 0,
+  "output_frame_max": 1189,
+  "cycles_appended": 4
+}

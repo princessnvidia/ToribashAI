@@ -1,0 +1,546 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_09_80c4693463f7_Karbn_run_away_v7_5_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=80c4693463f7_Karbn- run away v7.5.json target=35
+JOINT 0; 4 3
+JOINT 0; 6 4
+JOINT 0; 7 3
+JOINT 0; 9 4
+JOINT 0; 15 4
+JOINT 0; 16 4
+JOINT 0; 18 2
+
+FRAME 5;
+# source=80c4693463f7_Karbn- run away v7.5.json target=40
+JOINT 0; 7 1
+JOINT 0; 8 1
+
+FRAME 10;
+# source=80c4693463f7_Karbn- run away v7.5.json target=43
+JOINT 0; 15 1
+JOINT 0; 18 3
+
+FRAME 15;
+# source=80c4693463f7_Karbn- run away v7.5.json target=45
+JOINT 0; 17 2
+
+FRAME 20;
+# source=80c4693463f7_Karbn- run away v7.5.json target=47
+JOINT 0; 6 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 17 4
+JOINT 0; 19 1
+
+FRAME 25;
+# source=80c4693463f7_Karbn- run away v7.5.json target=49
+JOINT 0; 8 1
+
+FRAME 30;
+# source=80c4693463f7_Karbn- run away v7.5.json target=51
+JOINT 0; 6 1
+JOINT 0; 9 4
+
+FRAME 35;
+# source=80c4693463f7_Karbn- run away v7.5.json target=52
+JOINT 0; 6 4
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 40;
+# source=80c4693463f7_Karbn- run away v7.5.json target=54
+JOINT 0; 5 3
+JOINT 0; 7 4
+JOINT 0; 8 3
+
+FRAME 45;
+# source=80c4693463f7_Karbn- run away v7.5.json target=55
+JOINT 0; 17 4
+
+FRAME 50;
+# source=80c4693463f7_Karbn- run away v7.5.json target=57
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 18 2
+
+FRAME 55;
+# source=80c4693463f7_Karbn- run away v7.5.json target=59
+JOINT 0; 14 3
+JOINT 0; 15 3
+
+FRAME 60;
+# source=80c4693463f7_Karbn- run away v7.5.json target=61
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4
+
+FRAME 65;
+# source=80c4693463f7_Karbn- run away v7.5.json target=63
+JOINT 0; 1 1
+JOINT 0; 4 3
+JOINT 0; 7 3
+
+FRAME 70;
+# source=80c4693463f7_Karbn- run away v7.5.json target=64
+JOINT 0; 1 3
+JOINT 0; 15 1
+JOINT 0; 17 1
+
+FRAME 75;
+# source=80c4693463f7_Karbn- run away v7.5.json target=65
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 80;
+# source=80c4693463f7_Karbn- run away v7.5.json target=66
+JOINT 0; 17 3
+
+FRAME 85;
+# source=80c4693463f7_Karbn- run away v7.5.json target=67
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 90;
+# source=80c4693463f7_Karbn- run away v7.5.json target=68
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 95;
+# source=80c4693463f7_Karbn- run away v7.5.json target=70
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 19 4
+
+FRAME 100;
+# source=80c4693463f7_Karbn- run away v7.5.json target=72
+JOINT 0; 4 2
+JOINT 0; 7 2
+
+FRAME 105;
+# source=80c4693463f7_Karbn- run away v7.5.json target=76
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 1
+JOINT 0; 19 3
+
+FRAME 110;
+# source=80c4693463f7_Karbn- run away v7.5.json target=78
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 17 4
+JOINT 0; 19 2
+
+FRAME 115;
+# source=80c4693463f7_Karbn- run away v7.5.json target=83
+JOINT 0; 3 2
+JOINT 0; 4 3
+JOINT 0; 5 2
+JOINT 0; 7 3
+JOINT 0; 8 2
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 120;
+# source=80c4693463f7_Karbn- run away v7.5.json target=86
+JOINT 0; 4 2
+JOINT 0; 7 2
+
+FRAME 125;
+# source=80c4693463f7_Karbn- run away v7.5.json target=88
+JOINT 0; 14 1
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 130;
+# source=80c4693463f7_Karbn- run away v7.5.json target=91
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+
+FRAME 135;
+# source=80c4693463f7_Karbn- run away v7.5.json target=92
+JOINT 0; 3 2
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 140;
+# source=80c4693463f7_Karbn- run away v7.5.json target=100
+JOINT 0; 3 3
+JOINT 0; 4 3
+JOINT 0; 5 2
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 15 3
+
+FRAME 145;
+# source=80c4693463f7_Karbn- run away v7.5.json target=103
+JOINT 0; 5 3
+JOINT 0; 6 3
+JOINT 0; 9 3
+
+FRAME 150;
+# source=80c4693463f7_Karbn- run away v7.5.json target=105
+JOINT 0; 4 1
+JOINT 0; 7 1
+
+FRAME 155;
+# source=80c4693463f7_Karbn- run away v7.5.json target=107
+JOINT 0; 15 3
+JOINT 0; 16 1
+JOINT 0; 18 4
+
+FRAME 160;
+# source=80c4693463f7_Karbn- run away v7.5.json target=108
+JOINT 0; 16 4
+
+FRAME 165;
+# source=80c4693463f7_Karbn- run away v7.5.json target=109
+JOINT 0; 16 3
+
+FRAME 170;
+# source=80c4693463f7_Karbn- run away v7.5.json target=110
+JOINT 0; 5 1
+JOINT 0; 8 1
+
+FRAME 175;
+# source=80c4693463f7_Karbn- run away v7.5.json target=114
+JOINT 0; 14 3
+JOINT 0; 15 1
+
+FRAME 180;
+# source=80c4693463f7_Karbn- run away v7.5.json target=116
+JOINT 0; 15 4
+
+FRAME 185;
+# source=80c4693463f7_Karbn- run away v7.5.json target=117
+JOINT 0; 15 3
+JOINT 0; 18 3
+
+FRAME 190;
+# source=80c4693463f7_Karbn- run away v7.5.json target=118
+JOINT 0; 4 3
+JOINT 0; 5 4
+JOINT 0; 7 3
+JOINT 0; 8 4
+
+FRAME 195;
+# source=80c4693463f7_Karbn- run away v7.5.json target=121
+JOINT 0; 4 1
+JOINT 0; 7 1
+
+FRAME 200;
+# source=80c4693463f7_Karbn- run away v7.5.json target=122
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 205;
+# source=80c4693463f7_Karbn- run away v7.5.json target=124
+JOINT 0; 14 3
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 19 1
+
+FRAME 210;
+# source=80c4693463f7_Karbn- run away v7.5.json target=126
+JOINT 0; 4 4
+JOINT 0; 7 4
+
+FRAME 215;
+# source=80c4693463f7_Karbn- run away v7.5.json target=129
+JOINT 0; 14 2
+JOINT 0; 17 3
+
+FRAME 220;
+# source=80c4693463f7_Karbn- run away v7.5.json target=131
+JOINT 0; 4 2
+JOINT 0; 7 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 18 3
+
+FRAME 225;
+# source=80c4693463f7_Karbn- run away v7.5.json target=133
+JOINT 0; 14 3
+JOINT 0; 15 1
+
+FRAME 230;
+# source=80c4693463f7_Karbn- run away v7.5.json target=136
+JOINT 0; 14 2
+
+FRAME 235;
+# source=80c4693463f7_Karbn- run away v7.5.json target=138
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 240;
+# source=80c4693463f7_Karbn- run away v7.5.json target=140
+JOINT 0; 14 2
+JOINT 0; 16 4
+
+FRAME 245;
+# source=80c4693463f7_Karbn- run away v7.5.json target=142
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 250;
+# source=80c4693463f7_Karbn- run away v7.5.json target=148
+JOINT 0; 5 2
+JOINT 0; 8 2
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 3
+JOINT 0; 17 4
+
+FRAME 255;
+# source=80c4693463f7_Karbn- run away v7.5.json target=151
+JOINT 0; 5 3
+JOINT 0; 8 3
+
+FRAME 260;
+# source=80c4693463f7_Karbn- run away v7.5.json target=153
+JOINT 0; 5 4
+JOINT 0; 8 4
+
+FRAME 265;
+# source=80c4693463f7_Karbn- run away v7.5.json target=155
+JOINT 0; 5 2
+JOINT 0; 8 2
+
+FRAME 270;
+# source=80c4693463f7_Karbn- run away v7.5.json target=157
+JOINT 0; 14 2
+JOINT 0; 16 4
+
+FRAME 275;
+# source=80c4693463f7_Karbn- run away v7.5.json target=161
+JOINT 0; 4 3
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+
+FRAME 280;
+# source=80c4693463f7_Karbn- run away v7.5.json target=163
+JOINT 0; 14 4
+JOINT 0; 18 4
+
+FRAME 285;
+# source=80c4693463f7_Karbn- run away v7.5.json target=167
+JOINT 0; 6 3
+JOINT 0; 9 3
+
+FRAME 290;
+# source=80c4693463f7_Karbn- run away v7.5.json target=169
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 12 2
+
+FRAME 295;
+# source=80c4693463f7_Karbn- run away v7.5.json target=172
+JOINT 0; 12 3
+JOINT 0; 15 3
+JOINT 0; 19 4
+
+FRAME 300;
+# source=80c4693463f7_Karbn- run away v7.5.json target=175
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+
+FRAME 305;
+# source=80c4693463f7_Karbn- run away v7.5.json target=178
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 8 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 3
+JOINT 0; 19 4
+
+FRAME 310;
+# source=80c4693463f7_Karbn- run away v7.5.json target=184
+JOINT 0; 18 3
+
+FRAME 315;
+# source=80c4693463f7_Karbn- run away v7.5.json target=186
+JOINT 0; 5 3
+JOINT 0; 9 3
+JOINT 0; 16 3
+JOINT 0; 17 4
+
+FRAME 320;
+# source=80c4693463f7_Karbn- run away v7.5.json target=187
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 6 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 12 1
+JOINT 0; 16 4
+JOINT 0; 19 3
+
+FRAME 325;
+# source=80c4693463f7_Karbn- run away v7.5.json target=189
+JOINT 0; 3 1
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 12 3
+
+FRAME 330;
+# source=80c4693463f7_Karbn- run away v7.5.json target=191
+JOINT 0; 8 3
+
+FRAME 335;
+# source=80c4693463f7_Karbn- run away v7.5.json target=192
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 340;
+# source=80c4693463f7_Karbn- run away v7.5.json target=194
+JOINT 0; 2 1
+
+FRAME 345;
+# source=80c4693463f7_Karbn- run away v7.5.json target=196
+JOINT 0; 2 3
+JOINT 0; 5 3
+JOINT 0; 6 2
+JOINT 0; 8 2
+JOINT 0; 9 3
+
+FRAME 350;
+# source=80c4693463f7_Karbn- run away v7.5.json target=197
+JOINT 0; 6 3
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 16 4
+
+FRAME 355;
+# source=80c4693463f7_Karbn- run away v7.5.json target=199
+JOINT 0; 15 4
+
+FRAME 360;
+# source=80c4693463f7_Karbn- run away v7.5.json target=200
+JOINT 0; 15 2
+JOINT 0; 16 3
+
+FRAME 365;
+# source=80c4693463f7_Karbn- run away v7.5.json target=202
+JOINT 0; 14 1
+
+FRAME 370;
+# source=80c4693463f7_Karbn- run away v7.5.json target=204
+JOINT 0; 6 2
+JOINT 0; 14 3
+JOINT 0; 15 3
+
+FRAME 375;
+# source=80c4693463f7_Karbn- run away v7.5.json target=205
+JOINT 0; 6 3
+JOINT 0; 9 2
+
+FRAME 380;
+# source=80c4693463f7_Karbn- run away v7.5.json target=206
+JOINT 0; 9 3
+JOINT 0; 12 3
+JOINT 0; 14 2
+JOINT 0; 15 4
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 385;
+# source=80c4693463f7_Karbn- run away v7.5.json target=208
+JOINT 0; 8 3
+
+FRAME 390;
+# source=80c4693463f7_Karbn- run away v7.5.json target=210
+JOINT 0; 1 1
+JOINT 0; 15 1
+JOINT 0; 18 1
+
+FRAME 395;
+# source=80c4693463f7_Karbn- run away v7.5.json target=212
+JOINT 0; 1 3
+JOINT 0; 4 3
+JOINT 0; 6 2
+JOINT 0; 7 3
+JOINT 0; 8 3
+
+FRAME 400;
+# source=80c4693463f7_Karbn- run away v7.5.json target=213
+JOINT 0; 6 3
+JOINT 0; 13 2
+
+FRAME 405;
+# source=80c4693463f7_Karbn- run away v7.5.json target=216
+JOINT 0; 1 2
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 13 3
+
+FRAME 410;
+# source=80c4693463f7_Karbn- run away v7.5.json target=217
+JOINT 0; 1 3
+JOINT 0; 4 2
+JOINT 0; 6 2
+JOINT 0; 9 2
+JOINT 0; 16 3
+JOINT 0; 18 4
+
+FRAME 415;
+# source=80c4693463f7_Karbn- run away v7.5.json target=218
+JOINT 0; 6 3
+JOINT 0; 9 3
+JOINT 0; 12 2
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 420;
+# source=80c4693463f7_Karbn- run away v7.5.json target=221
+JOINT 0; 2 2
+JOINT 0; 12 3
+
+FRAME 425;
+# source=80c4693463f7_Karbn- run away v7.5.json target=222
+JOINT 0; 6 2
+JOINT 0; 9 2
+JOINT 0; 17 3
+
+FRAME 430;
+# source=80c4693463f7_Karbn- run away v7.5.json target=223
+JOINT 0; 2 3
+JOINT 0; 6 3
+JOINT 0; 9 3
+
+FRAME 435;
+# source=80c4693463f7_Karbn- run away v7.5.json target=225
+JOINT 0; 16 3
+JOINT 0; 18 3
+
+FRAME 440;
+# source=80c4693463f7_Karbn- run away v7.5.json target=226
+JOINT 0; 1 2
+JOINT 0; 8 3
+
+FRAME 445;
+# source=80c4693463f7_Karbn- run away v7.5.json target=227
+JOINT 0; 1 3
+JOINT 0; 8 1
+JOINT 0; 9 2

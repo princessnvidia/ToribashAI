@@ -1,0 +1,170 @@
+{
+  "version": 55,
+  "generation": 2,
+  "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+  "population": 16,
+  "protected_until": 315,
+  "base_seed": 951141824,
+  "candidates": [
+    {
+      "candidate": 1,
+      "generation": 2,
+      "seed": 951142833,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c01.rpl",
+      "protected_until": 315,
+      "mutations": 25,
+      "touched_frames": 23
+    },
+    {
+      "candidate": 2,
+      "generation": 2,
+      "seed": 951143842,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c02.rpl",
+      "protected_until": 315,
+      "mutations": 27,
+      "touched_frames": 25
+    },
+    {
+      "candidate": 3,
+      "generation": 2,
+      "seed": 951144851,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c03.rpl",
+      "protected_until": 315,
+      "mutations": 24,
+      "touched_frames": 23
+    },
+    {
+      "candidate": 4,
+      "generation": 2,
+      "seed": 951145860,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c04.rpl",
+      "protected_until": 315,
+      "mutations": 17,
+      "touched_frames": 16
+    },
+    {
+      "candidate": 5,
+      "generation": 2,
+      "seed": 951146869,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c05.rpl",
+      "protected_until": 315,
+      "mutations": 22,
+      "touched_frames": 20
+    },
+    {
+      "candidate": 6,
+      "generation": 2,
+      "seed": 951147878,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c06.rpl",
+      "protected_until": 315,
+      "mutations": 15,
+      "touched_frames": 15
+    },
+    {
+      "candidate": 7,
+      "generation": 2,
+      "seed": 951148887,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c07.rpl",
+      "protected_until": 315,
+      "mutations": 18,
+      "touched_frames": 16
+    },
+    {
+      "candidate": 8,
+      "generation": 2,
+      "seed": 951149896,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c08.rpl",
+      "protected_until": 315,
+      "mutations": 23,
+      "touched_frames": 22
+    },
+    {
+      "candidate": 9,
+      "generation": 2,
+      "seed": 951150905,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c09.rpl",
+      "protected_until": 315,
+      "mutations": 23,
+      "touched_frames": 23
+    },
+    {
+      "candidate": 10,
+      "generation": 2,
+      "seed": 951151914,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c10.rpl",
+      "protected_until": 315,
+      "mutations": 21,
+      "touched_frames": 21
+    },
+    {
+      "candidate": 11,
+      "generation": 2,
+      "seed": 951152923,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c11.rpl",
+      "protected_until": 315,
+      "mutations": 17,
+      "touched_frames": 16
+    },
+    {
+      "candidate": 12,
+      "generation": 2,
+      "seed": 951153932,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c12.rpl",
+      "protected_until": 315,
+      "mutations": 14,
+      "touched_frames": 14
+    },
+    {
+      "candidate": 13,
+      "generation": 2,
+      "seed": 951154941,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c13.rpl",
+      "protected_until": 315,
+      "mutations": 14,
+      "touched_frames": 12
+    },
+    {
+      "candidate": 14,
+      "generation": 2,
+      "seed": 951155950,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c14.rpl",
+      "protected_until": 315,
+      "mutations": 18,
+      "touched_frames": 16
+    },
+    {
+      "candidate": 15,
+      "generation": 2,
+      "seed": 951156959,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c15.rpl",
+      "protected_until": 315,
+      "mutations": 25,
+      "touched_frames": 24
+    },
+    {
+      "candidate": 16,
+      "generation": 2,
+      "seed": 951157968,
+      "parent": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002/xioi_gru_v55_g002_c16.rpl",
+      "protected_until": 315,
+      "mutations": 27,
+      "touched_frames": 25
+    }
+  ]
+}

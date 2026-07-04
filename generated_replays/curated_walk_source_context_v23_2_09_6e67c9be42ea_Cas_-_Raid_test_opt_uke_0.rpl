@@ -1,0 +1,116 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_09_6e67c9be42ea_Cas_-_Raid_test_opt_uke_0
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 raid_spar_test.tbm
+
+FRAME 0;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=111
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 3;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=114
+JOINT 0; 3 2
+JOINT 0; 16 1
+JOINT 0; 17 1
+
+FRAME 10;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=121
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 17;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=128
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 8 1
+JOINT 0; 14 4
+JOINT 0; 15 4
+
+FRAME 24;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=135
+JOINT 0; 7 4
+JOINT 0; 14 1
+JOINT 0; 15 1
+
+FRAME 26;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=137
+JOINT 0; 2 1
+JOINT 0; 3 1
+JOINT 0; 5 4
+JOINT 0; 12 1
+JOINT 0; 16 2
+JOINT 0; 18 1
+JOINT 0; 19 1
+
+FRAME 27;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=138
+JOINT 0; 5 1
+JOINT 0; 7 1
+JOINT 0; 8 1
+
+FRAME 37;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=148
+JOINT 0; 2 1
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 12 2
+JOINT 0; 13 2
+
+FRAME 38;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=149
+JOINT 0; 5 1
+
+FRAME 51;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=162
+JOINT 0; 12 1
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 16 1
+
+FRAME 53;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=164
+JOINT 0; 13 1
+JOINT 0; 14 4
+JOINT 0; 15 2
+
+FRAME 58;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=169
+JOINT 0; 1 3
+JOINT 0; 2 1
+JOINT 0; 4 1
+JOINT 0; 5 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 9 4
+JOINT 0; 13 2
+JOINT 0; 14 3
+JOINT 0; 16 4
+JOINT 0; 19 2
+
+FRAME 72;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=183
+JOINT 0; 13 1
+JOINT 0; 14 1
+
+FRAME 78;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=189
+JOINT 0; 5 1
+
+FRAME 85;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=196
+JOINT 0; 14 2
+JOINT 0; 16 4
+
+FRAME 90;
+# source=6e67c9be42ea_Cas - Raid test (opt uke 0).json source_frame=201
+JOINT 0; 16 3
+
+FRAME 190;

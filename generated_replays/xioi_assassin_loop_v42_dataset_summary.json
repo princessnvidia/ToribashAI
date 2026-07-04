@@ -1,0 +1,44 @@
+{
+  "version": 42,
+  "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_reference_v42_0_315.json",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_loop_v42_sequences.jsonl",
+  "rows": 317,
+  "seq_len": 8,
+  "cycles": 5,
+  "state_dim": 50,
+  "action_dim": 20,
+  "value_counts": [
+    [
+      0,
+      5045
+    ],
+    [
+      3,
+      490
+    ],
+    [
+      2,
+      301
+    ],
+    [
+      1,
+      260
+    ],
+    [
+      4,
+      244
+    ]
+  ],
+  "point_order": [
+    "head",
+    "chest",
+    "lumbar",
+    "abs",
+    "left_shoulder",
+    "right_shoulder",
+    "left_hip",
+    "right_hip",
+    "left_foot",
+    "right_foot"
+  ]
+}

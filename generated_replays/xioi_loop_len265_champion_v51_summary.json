@@ -1,0 +1,69 @@
+{
+  "version": 51,
+  "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_phase_v50_len265.rpl",
+  "champion": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_champion_v51.rpl",
+  "reference": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_champion_v51_reference.json",
+  "frame_count": 334,
+  "frame_min": 0,
+  "frame_max": 1665,
+  "action_counts": [
+    [
+      1,
+      267
+    ],
+    [
+      2,
+      317
+    ],
+    [
+      3,
+      484
+    ],
+    [
+      4,
+      226
+    ]
+  ],
+  "active_distribution": [
+    [
+      1,
+      43
+    ],
+    [
+      2,
+      60
+    ],
+    [
+      3,
+      74
+    ],
+    [
+      4,
+      50
+    ],
+    [
+      5,
+      45
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      7,
+      32
+    ],
+    [
+      8,
+      6
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      11,
+      7
+    ]
+  ]
+}

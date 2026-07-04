@@ -1,0 +1,23 @@
+{
+  "generation": 57,
+  "champion_score": 6050.3653,
+  "champion_path": "/home/vio/Documents/ToribashAI/evolution/balance_champion_v1.json",
+  "best_score_this_gen": 6050.3653,
+  "best_result_this_gen": {
+    "score": 6050.3653,
+    "x": 4.9634,
+    "y": 0.1414,
+    "z": 6.4718,
+    "shoulder_avg": 6.9216,
+    "head_avg": 7.1646,
+    "shoulder_high_frames": 432,
+    "head_high_frames": 409,
+    "best_shoulder_z": 7.7899,
+    "drift": 4.0089,
+    "fell": false,
+    "frames": 500,
+    "agent": "balance_v1_gen_00057_agent_000",
+    "reason": "max_frames"
+  },
+  "mutation_rate": 0.04
+}

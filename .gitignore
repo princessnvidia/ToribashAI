@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML / datasets lourds
+datasets/
+models/
+checkpoints/
+*.jsonl
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.pkl
+
+# Toribash generated / raw data
+replays_raw/
+mods_raw/
+population*/
+best*/
+evolution/population*/
+evolution/best*/
+
+# Results / cache
+cache/
+tmp/
+outputs/
+exports/
+*.log

@@ -1,0 +1,28 @@
+{
+  "version": 27,
+  "dataset_rows": 85,
+  "state_dim": 45,
+  "seq_len": 8,
+  "best_metric": 1.9193226381461677,
+  "metrics": {
+    "loss": 0.1416586458683014,
+    "joint_acc": 0.8282352941176471,
+    "exact_acc": 0.047058823529411764,
+    "nonzero_acc": 0.996969696969697,
+    "pred_counts": {
+      "0": 1079,
+      "1": 128,
+      "2": 158,
+      "3": 221,
+      "4": 114
+    },
+    "true_counts": {
+      "0": 1370,
+      "1": 68,
+      "3": 118,
+      "2": 85,
+      "4": 59
+    }
+  },
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_gru_overfit_v27.pt"
+}

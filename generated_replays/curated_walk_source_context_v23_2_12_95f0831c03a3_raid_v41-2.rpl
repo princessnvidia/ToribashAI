@@ -1,0 +1,13 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_12_95f0831c03a3_raid_v41-2
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 1.450000 1.000000 10.490000 0 0 0
+ENGAGE 1; -1.450000 0.500000 10.490000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 raid_challenge.tbm
+
+FRAME 190;

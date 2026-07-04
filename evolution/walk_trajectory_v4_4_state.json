@@ -1,0 +1,22 @@
+{
+  "generation": 2,
+  "best_summary": {
+    "score": -14106.653361,
+    "reason": "fallen",
+    "fallen": false,
+    "valid_steps": 1,
+    "left_steps": 0,
+    "right_steps": 0,
+    "same_foot_steps": 0,
+    "hop_steps": 0,
+    "knee_ground": 218,
+    "forward_fall": false,
+    "side_tilt": true,
+    "pec_stability": 70.0,
+    "max_pec_diff": 0.567532,
+    "forward_progress": 0.0,
+    "frames": 239
+  },
+  "accepted": 0,
+  "rejected": 24
+}

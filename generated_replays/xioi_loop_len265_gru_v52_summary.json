@@ -1,0 +1,8 @@
+{
+  "version": 52,
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_loop_len265_gru_v52.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_loop_len265_v52_sequences.jsonl",
+  "rows": 326,
+  "best_epoch": 41,
+  "best_metric": 1.9923312883435584
+}

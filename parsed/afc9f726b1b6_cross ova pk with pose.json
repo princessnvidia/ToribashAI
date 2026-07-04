@@ -1,0 +1,32 @@
+{
+  "file": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/afc9f726b1b6_cross ova pk with pose.rpl",
+  "metadata": {
+    "version": "10",
+    "fightname": "cross ova pk with pose",
+    "players": {
+      "0": "(HaZZarD)UnknownPvP",
+      "1": "(HaZZarD)idabosswiz"
+    },
+    "authors": {
+      "0": ""
+    },
+    "newgame_raw": "NEWGAME 1;2000 100 2000 0 0 0 100 0 1 parkour_dream_b.tbm 0 0 100 0 0 0 1 0 2 0 0 0 0 0 0 0.000000 0.000000 -30.000000 0 0 0 0 8",
+    "mod": "parkour_dream_b.tbm"
+  },
+  "frames": {
+    "0": {
+      "players": {
+        "0": {
+          "other": {
+            "ENGAGE": "-6.000000 0.000000 8.000000 0 0 0"
+          }
+        },
+        "1": {
+          "other": {
+            "ENGAGE": "-2.500000 0.000000 8.000000 0 0 0"
+          }
+        }
+      }
+    }
+  }
+}

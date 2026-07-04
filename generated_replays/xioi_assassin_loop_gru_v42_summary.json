@@ -1,0 +1,6 @@
+{
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_loop_gru_v42.pt",
+  "best_epoch": 20,
+  "best_metric": 3.0,
+  "rows": 317
+}

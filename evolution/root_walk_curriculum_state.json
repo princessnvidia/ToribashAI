@@ -1,0 +1,15 @@
+{
+  "stage": "teacher_single_step",
+  "generation": 0,
+  "champion_score": -1000000000,
+  "champion_valid_steps": 0,
+  "champion_alternating_steps": 0,
+  "champion_stable_frames": 0,
+  "champion_pec_stability": 0,
+  "teacher_imitation_weight": 0.65,
+  "physics_weight": 0.35,
+  "notes": [
+    "V1: le score vitesse est ignoré tant que alternating_steps < 2.",
+    "Règle dure: ne pas remplacer un champion qui a acquis des pas alternés par un candidat sans alternance."
+  ]
+}

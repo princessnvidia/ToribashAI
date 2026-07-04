@@ -1,0 +1,601 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; walking_axis_v22_03_top5_loop
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;1200 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 3
+JOINT 0; 3 1
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 3
+JOINT 0; 18 2
+
+FRAME 10;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 2
+JOINT 0; 2 2
+JOINT 0; 3 1
+JOINT 0; 4 2
+JOINT 0; 5 3
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 9 3
+JOINT 0; 12 3
+JOINT 0; 13 2
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 2
+JOINT 0; 19 4
+
+FRAME 30;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 2 1
+JOINT 0; 5 2
+JOINT 0; 8 2
+JOINT 0; 12 1
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 1
+
+FRAME 40;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 13 1
+JOINT 0; 19 4
+
+FRAME 50;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 1
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 12 1
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+
+FRAME 55;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 16 1
+JOINT 0; 17 1
+
+FRAME 75;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 2
+
+FRAME 80;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 4 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 100;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 1 2
+JOINT 0; 5 1
+JOINT 0; 8 1
+
+FRAME 130;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 1
+JOINT 0; 14 2
+JOINT 0; 15 2
+
+FRAME 160;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 2
+JOINT 0; 8 2
+
+FRAME 165;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 4
+JOINT 0; 19 4
+
+FRAME 170;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 3
+JOINT 0; 6 4
+JOINT 0; 14 3
+JOINT 0; 15 1
+JOINT 0; 17 2
+JOINT 0; 18 3
+JOINT 0; 19 1
+
+FRAME 175;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 4
+JOINT 0; 7 3
+JOINT 0; 9 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 17 2
+
+FRAME 180;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 4
+
+FRAME 185;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 190;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 3
+JOINT 0; 8 4
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 19 4
+
+FRAME 195;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 200;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 4
+JOINT 0; 10 1
+JOINT 0; 11 1
+JOINT 0; 17 4
+
+FRAME 205;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 14 1
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 210;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 15 2
+JOINT 0; 19 2
+
+FRAME 215;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 1 2
+JOINT 0; 5 3
+JOINT 0; 8 1
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 19 1
+
+FRAME 220;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 2 2
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 230;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 14 2
+JOINT 0; 18 4
+
+FRAME 240;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 2 1
+JOINT 0; 3 2
+JOINT 0; 13 4
+JOINT 0; 15 3
+JOINT 0; 16 1
+JOINT 0; 18 2
+
+FRAME 245;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 1 1
+JOINT 0; 3 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 18 1
+
+FRAME 250;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 15 1
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 260;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 16 1
+JOINT 0; 17 1
+
+FRAME 270;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 3
+JOINT 0; 5 1
+JOINT 0; 7 3
+JOINT 0; 8 1
+JOINT 0; 9 3
+JOINT 0; 17 1
+
+FRAME 275;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 6 3
+JOINT 0; 14 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 280;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 2
+JOINT 0; 12 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 285;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 3
+JOINT 0; 4 3
+JOINT 0; 12 3
+JOINT 0; 14 3
+
+FRAME 290;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 2
+JOINT 0; 3 1
+JOINT 0; 6 1
+JOINT 0; 9 1
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 295;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 3
+JOINT 0; 7 3
+JOINT 0; 13 3
+JOINT 0; 15 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 300;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4
+
+FRAME 305;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 3
+JOINT 0; 3 1
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 3
+JOINT 0; 18 2
+
+FRAME 315;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 2
+JOINT 0; 2 2
+JOINT 0; 3 1
+JOINT 0; 4 2
+JOINT 0; 5 3
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 9 3
+JOINT 0; 12 3
+JOINT 0; 13 2
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 2
+JOINT 0; 19 4
+
+FRAME 335;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 2 1
+JOINT 0; 5 2
+JOINT 0; 8 2
+JOINT 0; 12 1
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 1
+
+FRAME 345;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 13 1
+JOINT 0; 19 4
+
+FRAME 355;
+# skill 7 step_left_forward d263616de612_Bird and Fid v2.json 200-250
+JOINT 0; 1 1
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 12 1
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+
+FRAME 360;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 16 1
+JOINT 0; 17 1
+
+FRAME 380;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 2
+
+FRAME 385;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 4 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 405;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 1 2
+JOINT 0; 5 1
+JOINT 0; 8 1
+
+FRAME 435;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 1
+JOINT 0; 14 2
+JOINT 0; 15 2
+
+FRAME 465;
+# skill 5 step_right_forward 88bb9c504579_parkour 2.json 116-220
+JOINT 0; 7 2
+JOINT 0; 8 2
+
+FRAME 470;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 4
+JOINT 0; 19 4
+
+FRAME 475;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 3
+JOINT 0; 6 4
+JOINT 0; 14 3
+JOINT 0; 15 1
+JOINT 0; 17 2
+JOINT 0; 18 3
+JOINT 0; 19 1
+
+FRAME 480;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 4
+JOINT 0; 7 3
+JOINT 0; 9 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 17 2
+
+FRAME 485;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 4
+
+FRAME 490;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 3
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 495;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 3
+JOINT 0; 8 4
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 19 4
+
+FRAME 500;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 505;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 5 3
+JOINT 0; 7 3
+JOINT 0; 8 3
+JOINT 0; 9 4
+JOINT 0; 10 1
+JOINT 0; 11 1
+JOINT 0; 17 4
+
+FRAME 510;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4
+JOINT 0; 14 1
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 515;
+# skill 3 step_right 5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json 206-251
+JOINT 0; 15 2
+JOINT 0; 19 2
+
+FRAME 520;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 1 2
+JOINT 0; 5 3
+JOINT 0; 8 1
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 19 1
+
+FRAME 525;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 2 2
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 535;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 14 2
+JOINT 0; 18 4
+
+FRAME 545;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 2 1
+JOINT 0; 3 2
+JOINT 0; 13 4
+JOINT 0; 15 3
+JOINT 0; 16 1
+JOINT 0; 18 2
+
+FRAME 550;
+# skill 9 step_left e52911f704fa_i am the galaxy.json 226-257
+JOINT 0; 1 1
+JOINT 0; 3 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 18 1
+
+FRAME 555;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 15 1
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 565;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 16 1
+JOINT 0; 17 1
+
+FRAME 575;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 3
+JOINT 0; 5 1
+JOINT 0; 7 3
+JOINT 0; 8 1
+JOINT 0; 9 3
+JOINT 0; 17 1
+
+FRAME 580;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 6 3
+JOINT 0; 14 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 585;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 2
+JOINT 0; 12 4
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 590;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 3
+JOINT 0; 4 3
+JOINT 0; 12 3
+JOINT 0; 14 3
+
+FRAME 595;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 2
+JOINT 0; 3 1
+JOINT 0; 6 1
+JOINT 0; 9 1
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 2
+JOINT 0; 17 2
+
+FRAME 600;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 1 3
+JOINT 0; 7 3
+JOINT 0; 13 3
+JOINT 0; 15 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 605;
+# skill 6 step_left 94d7be00b398_Parkour c - Tedster789.json 160-211
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 4

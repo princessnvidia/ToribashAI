@@ -1,0 +1,227 @@
+{
+  "version": 40,
+  "mode": "free_running_action_gru",
+  "note": "State-GRU V38 cannot free-run without physics states; V40 trains action->action GRU and re-injects predictions.",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_walk_v38_sequences.jsonl",
+  "train": {
+    "best_epoch": 50,
+    "best_metric": 3.0,
+    "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_action_gru_free_v40.pt"
+  },
+  "exports": [
+    {
+      "name": "xioi_assassin_action_gru_free_v40_seed35",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed35.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed35_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_free_v40_seed35.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_free_v40_seed35.rpl"
+      ],
+      "generation": {
+        "seed_frame": 35,
+        "seed_idx": 8,
+        "seed_actual_frame": 89,
+        "rows": 85,
+        "overall_joint_accuracy": 1.0,
+        "overall_exact_accuracy": 1.0,
+        "free_joint_accuracy": 1.0,
+        "free_exact_accuracy": 1.0,
+        "pred_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ],
+        "true_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ]
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 575,
+        "replaced_frames": 85,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    },
+    {
+      "name": "xioi_assassin_action_gru_free_v40_seed70",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed70.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed70_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_free_v40_seed70.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_free_v40_seed70.rpl"
+      ],
+      "generation": {
+        "seed_frame": 70,
+        "seed_idx": 8,
+        "seed_actual_frame": 89,
+        "rows": 85,
+        "overall_joint_accuracy": 1.0,
+        "overall_exact_accuracy": 1.0,
+        "free_joint_accuracy": 1.0,
+        "free_exact_accuracy": 1.0,
+        "pred_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ],
+        "true_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ]
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 575,
+        "replaced_frames": 85,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    },
+    {
+      "name": "xioi_assassin_action_gru_free_v40_seed140",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed140.rpl",
+      "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_action_gru_free_v40_seed140_actions.json",
+      "copied_to": [
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_action_gru_free_v40_seed140.rpl",
+        "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_action_gru_free_v40_seed140.rpl"
+      ],
+      "generation": {
+        "seed_frame": 140,
+        "seed_idx": 19,
+        "seed_actual_frame": 139,
+        "rows": 85,
+        "overall_joint_accuracy": 1.0,
+        "overall_exact_accuracy": 1.0,
+        "free_joint_accuracy": 1.0,
+        "free_exact_accuracy": 1.0,
+        "pred_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ],
+        "true_counts": [
+          [
+            0,
+            1370
+          ],
+          [
+            3,
+            118
+          ],
+          [
+            2,
+            85
+          ],
+          [
+            1,
+            68
+          ],
+          [
+            4,
+            59
+          ]
+        ]
+      },
+      "rewrite": {
+        "template_lines": 575,
+        "output_lines": 575,
+        "replaced_frames": 85,
+        "missing_predicted_frames": [],
+        "removed_joint0_lines": 85,
+        "inserted_joint0_lines": 85
+      }
+    }
+  ]
+}

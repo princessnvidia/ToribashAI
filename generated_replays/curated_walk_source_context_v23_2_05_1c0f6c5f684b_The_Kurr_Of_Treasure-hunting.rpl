@@ -1,0 +1,309 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_05_1c0f6c5f684b_The_Kurr_Of_Treasure-hunting
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; -1.000000 0.000000 10.490000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 raid_the_tomb.tbm
+
+FRAME 0;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=128
+JOINT 0; 2 4
+JOINT 0; 12 4
+JOINT 0; 19 3
+
+FRAME 1;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=129
+JOINT 0; 5 4
+JOINT 0; 8 3
+
+FRAME 3;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=131
+JOINT 0; 2 3
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 18 3
+
+FRAME 5;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=133
+JOINT 0; 12 3
+
+FRAME 6;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=134
+JOINT 0; 12 4
+JOINT 0; 16 4
+JOINT 0; 17 3
+
+FRAME 7;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=135
+JOINT 0; 1 1
+JOINT 0; 5 3
+JOINT 0; 8 2
+JOINT 0; 16 3
+
+FRAME 8;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=136
+JOINT 0; 1 4
+JOINT 0; 7 4
+JOINT 0; 8 2
+
+FRAME 9;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=137
+JOINT 0; 1 4
+JOINT 0; 2 4
+
+FRAME 12;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=140
+JOINT 0; 1 3
+JOINT 0; 2 3
+JOINT 0; 7 2
+JOINT 0; 8 4
+JOINT 0; 12 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 14;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=142
+JOINT 0; 1 4
+JOINT 0; 2 1
+
+FRAME 19;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=147
+JOINT 0; 14 4
+JOINT 0; 18 1
+
+FRAME 21;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=149
+JOINT 0; 1 3
+JOINT 0; 2 4
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 12 1
+JOINT 0; 13 2
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 25;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=153
+JOINT 0; 18 4
+
+FRAME 27;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=155
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 16 3
+JOINT 0; 18 3
+
+FRAME 29;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=157
+JOINT 0; 1 2
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 31;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=159
+JOINT 0; 1 3
+JOINT 0; 17 3
+
+FRAME 33;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=161
+JOINT 0; 2 2
+JOINT 0; 12 4
+JOINT 0; 13 1
+
+FRAME 36;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=164
+JOINT 0; 8 4
+JOINT 0; 12 3
+JOINT 0; 13 4
+
+FRAME 38;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=166
+JOINT 0; 0 4
+JOINT 0; 2 4
+JOINT 0; 8 3
+JOINT 0; 12 4
+JOINT 0; 13 3
+
+FRAME 41;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=169
+JOINT 0; 2 2
+JOINT 0; 12 3
+JOINT 0; 13 1
+
+FRAME 43;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=171
+JOINT 0; 0 2
+JOINT 0; 5 3
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 44;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=172
+JOINT 0; 0 4
+JOINT 0; 16 4
+JOINT 0; 18 2
+
+FRAME 47;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=175
+JOINT 0; 14 1
+JOINT 0; 15 2
+
+FRAME 49;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=177
+JOINT 0; 1 1
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 7 2
+JOINT 0; 8 4
+
+FRAME 50;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=178
+JOINT 0; 1 3
+JOINT 0; 2 4
+JOINT 0; 13 4
+
+FRAME 52;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=180
+JOINT 0; 2 4
+JOINT 0; 5 1
+JOINT 0; 17 3
+
+FRAME 53;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=181
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 54;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=182
+JOINT 0; 1 1
+JOINT 0; 2 3
+
+FRAME 55;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=183
+JOINT 0; 1 3
+JOINT 0; 13 3
+
+FRAME 57;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=185
+JOINT 0; 16 3
+
+FRAME 59;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=187
+JOINT 0; 18 3
+
+FRAME 60;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=188
+JOINT 0; 0 3
+JOINT 0; 5 4
+JOINT 0; 6 3
+JOINT 0; 9 3
+
+FRAME 63;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=191
+JOINT 0; 6 4
+JOINT 0; 9 4
+
+FRAME 65;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=193
+JOINT 0; 6 3
+JOINT 0; 9 3
+JOINT 0; 16 3
+
+FRAME 71;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=199
+JOINT 0; 5 2
+JOINT 0; 6 1
+JOINT 0; 14 2
+JOINT 0; 16 4
+JOINT 0; 17 2
+
+FRAME 73;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=201
+JOINT 0; 2 2
+JOINT 0; 4 2
+JOINT 0; 6 4
+JOINT 0; 7 1
+JOINT 0; 12 3
+JOINT 0; 13 2
+JOINT 0; 14 4
+JOINT 0; 15 1
+JOINT 0; 16 1
+JOINT 0; 17 4
+
+FRAME 75;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=203
+JOINT 0; 5 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 9 4
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 16 4
+JOINT 0; 17 3
+
+FRAME 76;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=204
+JOINT 0; 14 4
+JOINT 0; 16 1
+
+FRAME 77;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=205
+JOINT 0; 3 2
+JOINT 0; 14 2
+JOINT 0; 16 4
+
+FRAME 79;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=207
+JOINT 0; 16 1
+
+FRAME 80;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=208
+JOINT 0; 14 4
+JOINT 0; 16 1
+
+FRAME 81;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=209
+JOINT 0; 5 2
+JOINT 0; 7 1
+JOINT 0; 8 2
+JOINT 0; 9 1
+JOINT 0; 14 2
+JOINT 0; 16 4
+JOINT 0; 17 2
+
+FRAME 82;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=210
+JOINT 0; 16 1
+
+FRAME 83;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=211
+JOINT 0; 8 2
+JOINT 0; 16 4
+
+FRAME 85;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=213
+JOINT 0; 8 1
+JOINT 0; 14 3
+JOINT 0; 16 1
+JOINT 0; 17 4
+
+FRAME 87;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=215
+JOINT 0; 9 4
+
+FRAME 89;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=217
+JOINT 0; 9 3
+
+FRAME 90;
+# source=1c0f6c5f684b_The Kurr Of Treasure-hunting.json source_frame=218
+JOINT 0; 9 1
+JOINT 0; 11 1
+
+FRAME 190;

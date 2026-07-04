@@ -1,0 +1,12 @@
+{
+  "version": 55,
+  "generation": 2,
+  "champion": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl",
+  "history": [
+    {
+      "promoted": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g001/xioi_gru_v55_g001_c07.rpl",
+      "champion": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_champion.rpl"
+    }
+  ],
+  "last_generation_dir": "/home/vio/Documents/ToribashAI/generated_replays/xioi_gru_v55_evolution/g002"
+}

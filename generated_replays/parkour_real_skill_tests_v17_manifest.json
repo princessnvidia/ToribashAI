@@ -1,0 +1,377 @@
+{
+  "version": 17,
+  "tests": [
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_01_stand_forward_recover_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_01_stand_forward_recover_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 300,
+          "category": "forward_impulse",
+          "score": 478.4741,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1670\u20131950",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44718e28af06_FreeRun.json"
+        },
+        {
+          "id": 140,
+          "category": "recover",
+          "score": 255.9685,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1668\u20131744",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json"
+        },
+        {
+          "id": 1,
+          "category": "stand",
+          "score": 69.9415,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "30\u201340",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json"
+        }
+      ],
+      "compiled_frames": 26
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_02_stand_walk_recover_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_02_stand_walk_recover_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 480,
+          "category": "walk_step",
+          "score": 221.0508,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1240\u20131470",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc7f08bd747c_Elvis- Balls to the wallz.json"
+        },
+        {
+          "id": 482,
+          "category": "walk_step",
+          "score": 213.3962,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "0\u2013120",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc96649886e7_Parkour_3.json"
+        },
+        {
+          "id": 485,
+          "category": "walk_step",
+          "score": 199.9406,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1280\u20131540",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc7f08bd747c_Elvis- Balls to the wallz.json"
+        },
+        {
+          "id": 140,
+          "category": "recover",
+          "score": 255.9685,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1668\u20131744",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json"
+        },
+        {
+          "id": 1,
+          "category": "stand",
+          "score": 69.9415,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "30\u201340",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json"
+        }
+      ],
+      "compiled_frames": 39
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_03_stand_forward_walk_recover_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_03_stand_forward_walk_recover_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 303,
+          "category": "forward_impulse",
+          "score": 383.1693,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1670\u20131870",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44718e28af06_FreeRun.json"
+        },
+        {
+          "id": 480,
+          "category": "walk_step",
+          "score": 221.0508,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1240\u20131470",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc7f08bd747c_Elvis- Balls to the wallz.json"
+        },
+        {
+          "id": 482,
+          "category": "walk_step",
+          "score": 213.3962,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "0\u2013120",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc96649886e7_Parkour_3.json"
+        },
+        {
+          "id": 142,
+          "category": "recover",
+          "score": 183.4688,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "320\u2013390",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/947fc1b6dd7b__ parkour 4.json"
+        },
+        {
+          "id": 1,
+          "category": "stand",
+          "score": 69.9415,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "30\u201340",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json"
+        }
+      ],
+      "compiled_frames": 37
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_04_walk_loop_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_04_walk_loop_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 480,
+          "category": "walk_step",
+          "score": 221.0508,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1240\u20131470",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc7f08bd747c_Elvis- Balls to the wallz.json"
+        },
+        {
+          "id": 142,
+          "category": "recover",
+          "score": 183.4688,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "320\u2013390",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/947fc1b6dd7b__ parkour 4.json"
+        },
+        {
+          "id": 482,
+          "category": "walk_step",
+          "score": 213.3962,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "0\u2013120",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc96649886e7_Parkour_3.json"
+        },
+        {
+          "id": 140,
+          "category": "recover",
+          "score": 255.9685,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1668\u20131744",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json"
+        },
+        {
+          "id": 485,
+          "category": "walk_step",
+          "score": 199.9406,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1280\u20131540",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/cc7f08bd747c_Elvis- Balls to the wallz.json"
+        },
+        {
+          "id": 1,
+          "category": "stand",
+          "score": 69.9415,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "30\u201340",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json"
+        }
+      ],
+      "compiled_frames": 47
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_05_forward_only_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_05_forward_only_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 300,
+          "category": "forward_impulse",
+          "score": 478.4741,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1670\u20131950",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44718e28af06_FreeRun.json"
+        },
+        {
+          "id": 303,
+          "category": "forward_impulse",
+          "score": 383.1693,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1670\u20131870",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44718e28af06_FreeRun.json"
+        },
+        {
+          "id": 140,
+          "category": "recover",
+          "score": 255.9685,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1668\u20131744",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json"
+        }
+      ],
+      "compiled_frames": 26
+    },
+    {
+      "file": "/home/vio/Documents/ToribashAI/generated_replays/parkour_real_skill_test_06_stand_forward_acro_recover_v17.rpl",
+      "steam_file": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour_real_skill_test_06_stand_forward_acro_recover_v17.rpl",
+      "sequence": [
+        {
+          "id": 0,
+          "category": "stand",
+          "score": 69.9421,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "15\u201325",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json"
+        },
+        {
+          "id": 303,
+          "category": "forward_impulse",
+          "score": 383.1693,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1670\u20131870",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44718e28af06_FreeRun.json"
+        },
+        {
+          "id": 680,
+          "category": "acro",
+          "score": 182.5536,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "2173\u20132478",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/473cf7addf85_Mirrors edge parkour - Tedster789 v4.json"
+        },
+        {
+          "id": 140,
+          "category": "recover",
+          "score": 255.9685,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "1668\u20131744",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json"
+        },
+        {
+          "id": 1,
+          "category": "stand",
+          "score": 69.9415,
+          "dx": 0.0,
+          "dy": 0.0,
+          "head": 0.0,
+          "frames": "30\u201340",
+          "replay": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json"
+        }
+      ],
+      "compiled_frames": 29
+    }
+  ]
+}

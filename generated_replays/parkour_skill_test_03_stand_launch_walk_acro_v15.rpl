@@ -1,0 +1,336 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+#WIN 0 ToribashAI uke
+VERSION 12
+FIGHTNAME 0; ToribashAI V15 stand launch walk acro
+BOUT 0; ToribashAI
+BOUT 0; ToribashAI
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 5.400000 0 0 0
+ENGAGE 1; 0.000000 0.000000 5.400000 0 0 0
+NEWGAME 0;500 5 30 0 0 0 100 0 ToribashAI/toribashai_goal_flat_v1.tbm
+
+
+FRAME 0;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 5;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 10;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 15;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 20;
+# skill launch_forward:2
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 25;
+# skill launch_forward:2
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 30;
+# skill launch_forward:2
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 35;
+# skill launch_forward:2
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 40;
+# skill walk_step:3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 16 3
+JOINT 0; 18 2
+
+FRAME 45;
+# skill walk_step:3
+JOINT 0; 3 3
+JOINT 0; 15 3
+JOINT 0; 17 2
+JOINT 0; 19 3
+
+FRAME 50;
+# skill walk_step:3
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 55;
+# skill walk_step:3
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 60;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 65;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 70;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 75;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 80;
+# skill walk_step:4
+JOINT 0; 3 3
+JOINT 0; 15 2
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 85;
+# skill walk_step:4
+JOINT 0; 3 3
+JOINT 0; 14 3
+JOINT 0; 16 2
+JOINT 0; 18 3
+
+FRAME 90;
+# skill walk_step:4
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 95;
+# skill walk_step:4
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 100;
+# skill unknown:5
+JOINT 0; 14 2
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 18 2
+JOINT 0; 19 4
+
+FRAME 105;
+# skill unknown:5
+JOINT 0; 6 1
+JOINT 0; 14 2
+JOINT 0; 16 4
+JOINT 0; 17 2
+JOINT 0; 18 2
+JOINT 0; 19 4
+
+FRAME 110;
+# skill unknown:5
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 6 3
+JOINT 0; 7 3
+JOINT 0; 14 2
+JOINT 0; 15 4
+JOINT 0; 16 1
+
+FRAME 115;
+# skill unknown:5
+JOINT 0; 14 3
+JOINT 0; 16 2
+JOINT 0; 17 4
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 120;
+# skill unknown:5
+JOINT 0; 4 4
+JOINT 0; 14 1
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 125;
+# skill unknown:5
+JOINT 0; 6 3
+JOINT 0; 7 3
+JOINT 0; 14 3
+JOINT 0; 16 3
+JOINT 0; 17 2
+JOINT 0; 18 2
+JOINT 0; 19 2
+
+FRAME 130;
+# skill unknown:5
+JOINT 0; 14 2
+JOINT 0; 16 1
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 135;
+# skill unknown:5
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 8 2
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 140;
+# skill unknown:5
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 8 2
+JOINT 0; 14 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 145;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 150;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 155;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 160;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 165;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 170;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 175;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3
+
+FRAME 180;
+# skill stand:0
+JOINT 0; 2 3
+JOINT 0; 3 3
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 3
+JOINT 0; 19 3

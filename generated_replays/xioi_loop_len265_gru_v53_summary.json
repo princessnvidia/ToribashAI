@@ -1,0 +1,99 @@
+{
+  "version": 53,
+  "mode": "template_safe_rewrite_from_v51_champion",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_champion_v51.rpl",
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_loop_len265_gru_v52.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_loop_len265_v52_sequences.jsonl",
+  "state_dim": 20,
+  "teacher_rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_teacher_template_safe.rpl",
+  "free_rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_free_template_safe.rpl",
+  "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_loop_len265_gru_v53_actions.json",
+  "teacher_metrics": {
+    "joint_accuracy": 0.9984662576687117,
+    "exact_accuracy": 0.9938650306748467,
+    "true_counts": [
+      [
+        0,
+        5271
+      ],
+      [
+        3,
+        470
+      ],
+      [
+        2,
+        304
+      ],
+      [
+        1,
+        254
+      ],
+      [
+        4,
+        221
+      ]
+    ],
+    "pred_counts": [
+      [
+        0,
+        5273
+      ],
+      [
+        3,
+        469
+      ],
+      [
+        2,
+        304
+      ],
+      [
+        1,
+        252
+      ],
+      [
+        4,
+        222
+      ]
+    ]
+  },
+  "teacher_rewrite": {
+    "template_lines": 3017,
+    "output_lines": 3017,
+    "predicted_frames": 326,
+    "replaced_frames": 326,
+    "missing_predicted_frames": [],
+    "removed_joint0_lines": 326,
+    "inserted_joint0_lines": 326
+  },
+  "free_rewrite": {
+    "template_lines": 3017,
+    "output_lines": 3017,
+    "predicted_frames": 326,
+    "replaced_frames": 326,
+    "missing_predicted_frames": [],
+    "removed_joint0_lines": 326,
+    "inserted_joint0_lines": 326
+  },
+  "free_pred_counts": [
+    [
+      0,
+      5263
+    ],
+    [
+      3,
+      471
+    ],
+    [
+      2,
+      308
+    ],
+    [
+      1,
+      255
+    ],
+    [
+      4,
+      223
+    ]
+  ]
+}

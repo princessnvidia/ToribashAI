@@ -1,0 +1,38 @@
+local logfile = "toribashai_probe_log.txt"
+local lastFrame = -999
+
+local function log(txt)
+local f = io.open(logfile, "a")
+if f then
+    f:write(txt .. "\n")
+    f:close()
+    end
+    end
+
+    log("=== ToribashAI probe loaded v3 draw2d ===")
+
+    add_hook("draw2d", "toribashai_probe", function()
+    local ok, err = pcall(function()
+    local ws = get_world_state()
+    local frame = ws.match_frame or -1
+
+    if frame ~= lastFrame then
+        lastFrame = frame
+
+        local chest = get_body_info(0, BODYPARTS.CHEST).pos
+        local stomach = get_body_info(0, BODYPARTS.STOMACH).pos
+        local groin = get_body_info(0, BODYPARTS.GROIN).pos
+
+        log(
+            "frame=" .. tostring(frame) ..
+            " chest=" .. tostring(chest.x) .. "," .. tostring(chest.y) .. "," .. tostring(chest.z) ..
+            " stomach=" .. tostring(stomach.x) .. "," .. tostring(stomach.y) .. "," .. tostring(stomach.z) ..
+            " groin=" .. tostring(groin.x) .. "," .. tostring(groin.y) .. "," .. tostring(groin.z)
+        )
+        end
+        end)
+
+    if not ok then
+        log("ERROR=" .. tostring(err))
+        end
+        end)

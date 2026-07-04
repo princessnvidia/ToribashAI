@@ -1,0 +1,204 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_01_00e9325d61e9_p_karbn_-_mirrors_edge_pk_v9
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 60.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 60.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 /parkour_mirrors_edge.tbm
+
+FRAME 0;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=132
+JOINT 0; 14 3
+JOINT 0; 16 1
+
+FRAME 2;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=134
+JOINT 0; 7 4
+JOINT 0; 12 1
+JOINT 0; 13 1
+JOINT 0; 14 2
+JOINT 0; 15 4
+JOINT 0; 16 4
+
+FRAME 5;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=137
+JOINT 0; 12 2
+
+FRAME 6;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=138
+JOINT 0; 13 2
+JOINT 0; 15 1
+
+FRAME 9;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=141
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 11;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=143
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 14 2
+JOINT 0; 16 3
+
+FRAME 15;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=147
+JOINT 0; 14 3
+JOINT 0; 15 3
+
+FRAME 20;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=152
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 22;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=154
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 24;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=156
+JOINT 0; 13 2
+
+FRAME 26;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=158
+JOINT 0; 13 3
+JOINT 0; 15 4
+
+FRAME 36;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=168
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 37;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=169
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 1
+JOINT 0; 18 4
+
+FRAME 38;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=170
+JOINT 0; 15 3
+
+FRAME 40;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=172
+JOINT 0; 2 2
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 13 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 42;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=174
+JOINT 0; 4 3
+JOINT 0; 7 3
+JOINT 0; 13 3
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 47;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=179
+JOINT 0; 2 3
+JOINT 0; 4 1
+JOINT 0; 5 3
+JOINT 0; 7 2
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 1
+
+FRAME 57;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=189
+JOINT 0; 12 1
+JOINT 0; 14 1
+
+FRAME 60;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=192
+JOINT 0; 12 3
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 63;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=195
+JOINT 0; 12 1
+JOINT 0; 14 2
+
+FRAME 64;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=196
+JOINT 0; 2 1
+JOINT 0; 4 4
+JOINT 0; 5 1
+JOINT 0; 7 4
+JOINT 0; 13 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 68;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=200
+JOINT 0; 2 3
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 12 2
+JOINT 0; 13 1
+JOINT 0; 16 3
+JOINT 0; 18 2
+JOINT 0; 19 1
+
+FRAME 69;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=201
+JOINT 0; 2 2
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 71;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=203
+JOINT 0; 2 3
+JOINT 0; 5 4
+JOINT 0; 8 1
+JOINT 0; 17 4
+
+FRAME 76;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=208
+JOINT 0; 15 1
+
+FRAME 81;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=213
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 15 1
+
+FRAME 87;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=219
+JOINT 0; 15 3
+
+FRAME 89;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=221
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 90;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json source_frame=222
+JOINT 0; 15 3
+JOINT 0; 17 1
+
+FRAME 190;

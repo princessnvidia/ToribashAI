@@ -1,0 +1,159 @@
+{
+  "version": "39.2",
+  "mode": "template_safe_gru_to_rpl",
+  "note": "Copies the source template RPL and replaces only JOINT 0 lines inside existing FRAME blocks.",
+  "rows_used": 85,
+  "joint_accuracy_on_export": 1.0,
+  "exact_accuracy_on_export": 1.0,
+  "true_counts": [
+    [
+      0,
+      1370
+    ],
+    [
+      3,
+      118
+    ],
+    [
+      2,
+      85
+    ],
+    [
+      1,
+      68
+    ],
+    [
+      4,
+      59
+    ]
+  ],
+  "pred_counts": [
+    [
+      0,
+      1370
+    ],
+    [
+      3,
+      118
+    ],
+    [
+      2,
+      85
+    ],
+    [
+      1,
+      68
+    ],
+    [
+      4,
+      59
+    ]
+  ],
+  "frames_predicted": [
+    59,
+    61,
+    64,
+    65,
+    75,
+    77,
+    78,
+    82,
+    89,
+    96,
+    100,
+    105,
+    112,
+    118,
+    122,
+    124,
+    131,
+    134,
+    136,
+    139,
+    144,
+    148,
+    161,
+    164,
+    167,
+    175,
+    178,
+    181,
+    185,
+    190,
+    193,
+    196,
+    199,
+    202,
+    205,
+    209,
+    219,
+    221,
+    223,
+    226,
+    227,
+    232,
+    235,
+    243,
+    245,
+    251,
+    255,
+    258,
+    261,
+    264,
+    277,
+    280,
+    283,
+    285,
+    291,
+    294,
+    311,
+    318,
+    320,
+    322,
+    324,
+    326,
+    327,
+    333,
+    336,
+    337,
+    341,
+    347,
+    348,
+    349,
+    351,
+    352,
+    362,
+    372,
+    376,
+    377,
+    380,
+    388,
+    389,
+    394,
+    397,
+    400,
+    408,
+    419,
+    426
+  ],
+  "frame_min": 59,
+  "frame_max": 426,
+  "rewrite": {
+    "template_lines": 575,
+    "output_lines": 575,
+    "predicted_frames": 85,
+    "replaced_frames": 85,
+    "missing_predicted_frames": [],
+    "removed_joint0_lines": 85,
+    "inserted_joint0_lines": 85
+  },
+  "model": "/home/vio/Documents/ToribashAI/models/xioi_assassin_gru_v38.pt",
+  "dataset": "/home/vio/Documents/ToribashAI/datasets/ml/xioi_assassin_walk_v38_sequences.jsonl",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_gru_generated_v39_2_template_safe.rpl",
+  "actions_json": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_gru_generated_v39_2_actions.json",
+  "copied_to": [
+    "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_assassin_gru_generated_v39_2_template_safe.rpl",
+    "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/parkour/xioi_assassin_gru_generated_v39_2_template_safe.rpl"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "parkour_gru_v11_agent",
+  "version": 11,
+  "genome": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4
+  ],
+  "parent_score": null,
+  "parent_generation": 1,
+  "mutation": "skill_level"
+}

@@ -1,0 +1,50 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_source_context_v23_2_16_c43811acfb81_Flash_parkour_Karbn
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 2.500000 0.000000 2.000000 0 0 0
+ENGAGE 1; -2.500000 4.000000 2.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 karbn_climb.tbm
+
+FRAME 0;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=55
+JOINT 0; 19 1
+
+FRAME 30;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=85
+JOINT 0; 16 4
+JOINT 0; 17 2
+
+FRAME 35;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=90
+JOINT 0; 16 2
+
+FRAME 40;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=95
+JOINT 0; 15 3
+
+FRAME 45;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=100
+JOINT 0; 15 1
+
+FRAME 55;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=110
+JOINT 0; 19 2
+
+FRAME 65;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=120
+JOINT 0; 17 1
+
+FRAME 80;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=135
+JOINT 0; 16 4
+
+FRAME 85;
+# source=c43811acfb81_Flash parkour Karbn.json source_frame=140
+JOINT 0; 14 4
+
+FRAME 190;

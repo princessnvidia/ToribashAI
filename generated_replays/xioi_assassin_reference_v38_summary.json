@@ -1,0 +1,29 @@
+{
+  "version": 38,
+  "source": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "output": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_reference_v38.json",
+  "frame_count": 93,
+  "frame_min": 0,
+  "frame_max": 426,
+  "action_counts": [
+    [
+      3,
+      138
+    ],
+    [
+      2,
+      94
+    ],
+    [
+      1,
+      78
+    ],
+    [
+      4,
+      75
+    ]
+  ],
+  "chest_delta_y": -23.83827243,
+  "has_pos_frames": 93,
+  "has_joint_frames": 93
+}

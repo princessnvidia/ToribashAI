@@ -1,0 +1,7 @@
+{
+  "mode": "raw_rpl_copy",
+  "json_source": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0ec9e2d18b70__Xioi_Pk - Budokai.json",
+  "raw_rpl_source": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/0ec9e2d18b70__Xioi_Pk - Budokai.rpl",
+  "template": "/home/vio/Documents/ToribashAI/generated_replays/xioi_source_template_v28.rpl",
+  "steam_copy": "/home/vio/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Toribash/replay/xioi_source_template_v28.rpl"
+}

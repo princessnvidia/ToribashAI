@@ -1,0 +1,77 @@
+{
+  "version": 47,
+  "mode": "template_safe_cycle_copy_with_y_translation_and_phase_variants",
+  "source_rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_427_assassincreedhunter_v37.rpl",
+  "source_until": 315,
+  "cycle_start": 70,
+  "cycle_end": 295,
+  "target_end": 1400,
+  "y_until": 8.820992667142857,
+  "y_start": 23.049179331428572,
+  "y_end": 10.091984766666666,
+  "base_align_y": -14.228186664285715,
+  "cycle_delta_y": -12.957194564761906,
+  "outputs": [
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase070",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase070.rpl",
+      "phase": 70,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    },
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase090",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase090.rpl",
+      "phase": 90,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    },
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase110",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase110.rpl",
+      "phase": 110,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    },
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase130",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase130.rpl",
+      "phase": 130,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    },
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase150",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase150.rpl",
+      "phase": 150,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    },
+    {
+      "fightname": "xioi_assassin_template_loop_v47_phase170",
+      "rpl": "/home/vio/Documents/ToribashAI/generated_replays/xioi_assassin_template_loop_v47_phase170.rpl",
+      "phase": 170,
+      "output_frames": 282,
+      "frame_max": 1400,
+      "base_align_y": -14.228186664285715,
+      "cycle_delta_y": -12.957194564761906,
+      "cycles_written": 5
+    }
+  ],
+  "hint": "Test phase150/170 first if the first raccord is still unstable; test phase070 if later loops lose the same-foot timing."
+}

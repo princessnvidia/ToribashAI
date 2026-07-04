@@ -1,0 +1,262 @@
+{
+  "version": 16,
+  "input_dir": "/home/vio/Documents/ToribashAI/datasets/parkour_json",
+  "replay_count": 343,
+  "raw_skill_count": 0,
+  "unique_skill_count": 0,
+  "selected_skill_count": 0,
+  "category_counts": {},
+  "top_sources": [],
+  "replays": [
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/00e9325d61e9_[p] karbn - mirrors edge pk v9.json",
+      "frames": 104,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/01396abb1525__Swe_ _Parkour_ _Shitty_.json",
+      "frames": 60,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/01e48bb75773_xlr parkour.json",
+      "frames": 146,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/026b6e7e0fab_]P[ Xs x Lloyd54321 Green.json",
+      "frames": 181,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/02bf9a7f463e_parkour modified.json",
+      "frames": 182,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/03144321c221__LSK10_Parkour_Cont.json",
+      "frames": 26,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/035bf7373f51__H - Im Lazy.json",
+      "frames": 176,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/04371c26344a_First Parkour Try.json",
+      "frames": 21,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/052d224ebddc_Hide the shadow.json",
+      "frames": 12,
+      "error": "too_short"
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/05e5c92102ae_Swex- Divine.json",
+      "frames": 649,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/08fcc90c932c_Brrr_Vector.json",
+      "frames": 159,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0903e8ee5834_ParkourBoi.json",
+      "frames": 342,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0919e72e46cf_Mackanak - random parkour aproaching.json",
+      "frames": 153,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0a04207fd4d0_parkouring1337.json",
+      "frames": 201,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0ac7a764f038_wip JIsse ravine .json",
+      "frames": 139,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0be2d29d0086__H - Oasis.json",
+      "frames": 124,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0c3019f16db1_This is how we parkour....json",
+      "frames": 55,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0cde3088ee6a_Bird Shit v2.json",
+      "frames": 92,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0d0251174350__Incredible_parkour_by_me.json",
+      "frames": 96,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0d101dd54874_Parkour Fail.json",
+      "frames": 17,
+      "error": "too_short"
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0da4c47804ae_Large vs Zero.json",
+      "frames": 137,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0e2dd63a9b7b_Victor- One and only (1).json",
+      "frames": 306,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0ec9e2d18b70__Xioi_Pk - Budokai.json",
+      "frames": 341,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0f0edf809c7c__Parkour - Tour.json",
+      "frames": 120,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0f3eb0c86c14_Mental City Prt2 _2.json",
+      "frames": 184,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/127d0a973a54_charge.json",
+      "frames": 13,
+      "error": "too_short"
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1429f3b2d437_[P - A] another tomb raid final.json",
+      "frames": 355,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/156525409b78__Parkour - FPC _1 W. Keyframes.json",
+      "frames": 98,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/17b70aeba69d_parkour by me rasmus.json",
+      "frames": 201,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/17c6cc146c47_daxterVSkapsiiPARKOUR1.json",
+      "frames": 207,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/17de9db32f49_Parkour 101.json",
+      "frames": 158,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/18148be6badd__Parkour WIP.json",
+      "frames": 82,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/183a7faa6c29_meh.json",
+      "frames": 65,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/18f81d6cd441__Hrs - [P] Turn back.json",
+      "frames": 52,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1aca4b0717f5__Nino - Parkour Wip _1.json",
+      "frames": 29,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1b17c11aa2f2__Th3 parkour yupyup.json",
+      "frames": 34,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1b9f82e09e7c_completed parkour_.json",
+      "frames": 57,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1bf5d36fcdec_[A] hypersaint_for_real.json",
+      "frames": 329,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "frames": 474,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1deaacb8ffa5_pro.json",
+      "frames": 201,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1e20a367b67e_lioneeeeeet.json",
+      "frames": 254,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/200dfc22c4ac_My Best Parkour Ever.json",
+      "frames": 177,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/207858f9550c_Parkour with Blade63696.json",
+      "frames": 133,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/20b2c5f083e7_A shot at parkour again..json",
+      "frames": 77,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/22cd6e4351eb__ - Dranz - Dream of a Fag.json",
+      "frames": 216,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/22d6c0acbbe2_Down the Hole In Parkour city dooby.json",
+      "frames": 93,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/22fab96637ed_ryoukoo - parkour.json",
+      "frames": 232,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/23c05e96a043__Xioi_Pk - Ykeus.json",
+      "frames": 187,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/242cbdcb3281_bad for him but good for me.json",
+      "frames": 51,
+      "skills": 0
+    },
+    {
+      "path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/243682def50a_poopyparkour.json",
+      "frames": 51,
+      "skills": 0
+    }
+  ]
+}

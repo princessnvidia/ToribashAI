@@ -1,0 +1,2159 @@
+{
+  "name": "early_walking_axis_skills_v22",
+  "version": 22,
+  "description": "Early replay, axis-aware walking-step skills from real parsed Toribash RPL files.",
+  "early_max_frame": 260,
+  "skills": [
+    {
+      "id": 7,
+      "name": "v22_step_left_forward_0007",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_left_forward",
+      "score": 162.342,
+      "length": 5,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              1,
+              3
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              3
+            ],
+            [
+              18,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              2
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              1
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              12,
+              3
+            ],
+            [
+              13,
+              2
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              2
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 30,
+          "pairs": [
+            [
+              2,
+              1
+            ],
+            [
+              5,
+              2
+            ],
+            [
+              8,
+              2
+            ],
+            [
+              12,
+              1
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              17,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 40,
+          "pairs": [
+            [
+              13,
+              1
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 50,
+          "pairs": [
+            [
+              1,
+              1
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              12,
+              1
+            ],
+            [
+              13,
+              2
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              2
+            ]
+          ]
+        }
+      ],
+      "replay": "d263616de612_Bird and Fid v2.json",
+      "start_frame": 200,
+      "end_frame": 250,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 3.011,
+      "sideways": 0.6822,
+      "left_forward": 0.9292,
+      "right_forward": 0.2145,
+      "swing_forward": 0.9292,
+      "head_avg_z": 28.6293,
+      "shoulder_avg_z": 28.0295,
+      "foot_min_z": 26.1181,
+      "head_zrange": 2.065,
+      "shoulder_zrange": 2.2984,
+      "feet_zrange": 2.3685,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 5,
+      "avg_pairs": 7.8,
+      "peak_pairs": 15,
+      "signature": "15-1-17-5-12-13-14-3"
+    },
+    {
+      "id": 5,
+      "name": "v22_step_right_forward_0005",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_right_forward",
+      "score": 123.478,
+      "length": 6,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              16,
+              1
+            ],
+            [
+              17,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              7,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              4,
+              2
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              2
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 45,
+          "pairs": [
+            [
+              1,
+              2
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              8,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 75,
+          "pairs": [
+            [
+              7,
+              1
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 105,
+          "pairs": [
+            [
+              7,
+              2
+            ],
+            [
+              8,
+              2
+            ]
+          ]
+        }
+      ],
+      "replay": "88bb9c504579_parkour 2.json",
+      "start_frame": 116,
+      "end_frame": 220,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 1.6935,
+      "sideways": 0.8488,
+      "left_forward": 1.4612,
+      "right_forward": 2.126,
+      "swing_forward": 2.126,
+      "head_avg_z": 10.4272,
+      "shoulder_avg_z": 9.975,
+      "foot_min_z": 7.716,
+      "head_zrange": 2.0641,
+      "shoulder_zrange": 2.3448,
+      "feet_zrange": 2.5274,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 6,
+      "avg_pairs": 2.667,
+      "peak_pairs": 5,
+      "signature": "7-16-17-14-15-8-4-1"
+    },
+    {
+      "id": 3,
+      "name": "v22_step_right_0003",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_right",
+      "score": 106.5939,
+      "length": 10,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              5,
+              4
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 5,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              14,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              17,
+              2
+            ],
+            [
+              18,
+              3
+            ],
+            [
+              19,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              4,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 15,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              5,
+              3
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              13,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 30,
+          "pairs": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              18,
+              2
+            ],
+            [
+              19,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 35,
+          "pairs": [
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              10,
+              1
+            ],
+            [
+              11,
+              1
+            ],
+            [
+              17,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 40,
+          "pairs": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              7,
+              1
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              18,
+              2
+            ],
+            [
+              19,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 45,
+          "pairs": [
+            [
+              15,
+              2
+            ],
+            [
+              19,
+              2
+            ]
+          ]
+        }
+      ],
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 206,
+      "end_frame": 251,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 1.7138,
+      "sideways": 0.2427,
+      "left_forward": 0.7625,
+      "right_forward": 0.7652,
+      "swing_forward": 0.7652,
+      "head_avg_z": 11.3452,
+      "shoulder_avg_z": 10.5467,
+      "foot_min_z": 8.7,
+      "head_zrange": 1.7567,
+      "shoulder_zrange": 1.3959,
+      "feet_zrange": 1.7412,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 10,
+      "avg_pairs": 6.3,
+      "peak_pairs": 9,
+      "signature": "5-15-19-4-14-7-8-17"
+    },
+    {
+      "id": 9,
+      "name": "v22_step_left_0009",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_left",
+      "score": 103.1783,
+      "length": 5,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              1,
+              2
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              8,
+              1
+            ],
+            [
+              14,
+              3
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              19,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 5,
+          "pairs": [
+            [
+              2,
+              2
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 15,
+          "pairs": [
+            [
+              14,
+              2
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              13,
+              4
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              16,
+              1
+            ],
+            [
+              18,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 30,
+          "pairs": [
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              18,
+              1
+            ]
+          ]
+        }
+      ],
+      "replay": "e52911f704fa_i am the galaxy.json",
+      "start_frame": 226,
+      "end_frame": 257,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 1.4462,
+      "sideways": 0.3602,
+      "left_forward": 0.5735,
+      "right_forward": 0.2516,
+      "swing_forward": 0.5735,
+      "head_avg_z": 11.6955,
+      "shoulder_avg_z": 10.8466,
+      "foot_min_z": 8.8147,
+      "head_zrange": 0.6532,
+      "shoulder_zrange": 0.9879,
+      "feet_zrange": 1.9807,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 8,
+      "avg_pairs": 3.25,
+      "peak_pairs": 6,
+      "signature": "15-14-18-1-2-3-16-5"
+    },
+    {
+      "id": 6,
+      "name": "v22_step_left_0006",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_left",
+      "score": 93.4537,
+      "length": 9,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              4,
+              2
+            ],
+            [
+              5,
+              2
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              8,
+              2
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              3
+            ],
+            [
+              17,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              16,
+              1
+            ],
+            [
+              17,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              1
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              17,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              6,
+              3
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              16,
+              2
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 30,
+          "pairs": [
+            [
+              4,
+              2
+            ],
+            [
+              12,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              16,
+              3
+            ],
+            [
+              17,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 35,
+          "pairs": [
+            [
+              1,
+              3
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              12,
+              3
+            ],
+            [
+              14,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 40,
+          "pairs": [
+            [
+              1,
+              2
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              6,
+              1
+            ],
+            [
+              9,
+              1
+            ],
+            [
+              12,
+              2
+            ],
+            [
+              13,
+              2
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              2
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 45,
+          "pairs": [
+            [
+              1,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              13,
+              3
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              16,
+              3
+            ],
+            [
+              17,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 50,
+          "pairs": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              7,
+              1
+            ],
+            [
+              8,
+              4
+            ]
+          ]
+        }
+      ],
+      "replay": "94d7be00b398_Parkour c - Tedster789.json",
+      "start_frame": 160,
+      "end_frame": 211,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 1.6007,
+      "sideways": 0.061,
+      "left_forward": 0.4199,
+      "right_forward": 0.2045,
+      "swing_forward": 0.4199,
+      "head_avg_z": 10.3337,
+      "shoulder_avg_z": 9.7181,
+      "foot_min_z": 7.7412,
+      "head_zrange": 1.9094,
+      "shoulder_zrange": 2.0037,
+      "feet_zrange": 2.2481,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 10,
+      "avg_pairs": 4.9,
+      "peak_pairs": 10,
+      "signature": "17-16-4-7-15-14-5-8"
+    },
+    {
+      "id": 0,
+      "name": "v22_step_right_0000",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_right",
+      "score": 92.5503,
+      "length": 6,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              10,
+              3
+            ],
+            [
+              11,
+              3
+            ],
+            [
+              14,
+              3
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 5,
+          "pairs": [
+            [
+              14,
+              4
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              5,
+              4
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 15,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              14,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              17,
+              2
+            ],
+            [
+              18,
+              3
+            ],
+            [
+              19,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              4,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        }
+      ],
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 196,
+      "end_frame": 221,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 0.7769,
+      "sideways": 0.1869,
+      "left_forward": 0.8239,
+      "right_forward": 1.2645,
+      "swing_forward": 1.2645,
+      "head_avg_z": 12.0287,
+      "shoulder_avg_z": 11.1351,
+      "foot_min_z": 9.4842,
+      "head_zrange": 0.5609,
+      "shoulder_zrange": 0.677,
+      "feet_zrange": 1.2098,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 6,
+      "avg_pairs": 6.333,
+      "peak_pairs": 9,
+      "signature": "4-5-14-15-17-7-18-19"
+    },
+    {
+      "id": 8,
+      "name": "v22_step_left_0008",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_left",
+      "score": 92.3218,
+      "length": 4,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              2,
+              2
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              14,
+              2
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              13,
+              4
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              1
+            ],
+            [
+              18,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              18,
+              1
+            ]
+          ]
+        }
+      ],
+      "replay": "e52911f704fa_i am the galaxy.json",
+      "start_frame": 230,
+      "end_frame": 257,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 1.2356,
+      "sideways": 0.3284,
+      "left_forward": 0.347,
+      "right_forward": 0.0,
+      "swing_forward": 0.347,
+      "head_avg_z": 11.6048,
+      "shoulder_avg_z": 10.7477,
+      "foot_min_z": 8.8147,
+      "head_zrange": 0.6234,
+      "shoulder_zrange": 0.9252,
+      "feet_zrange": 1.8715,
+      "one_planted_ratio": 0.6667,
+      "both_air_ratio": 0.3333,
+      "action_count": 6,
+      "avg_pairs": 3,
+      "peak_pairs": 6,
+      "signature": "15-14-18-2-3-16-13-1"
+    },
+    {
+      "id": 1,
+      "name": "v22_step_right_0001",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_right",
+      "score": 82.536,
+      "length": 6,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              5,
+              4
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 5,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              14,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              17,
+              2
+            ],
+            [
+              18,
+              3
+            ],
+            [
+              19,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              4,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 15,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              5,
+              3
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              13,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        }
+      ],
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 206,
+      "end_frame": 231,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 0.8822,
+      "sideways": 0.236,
+      "left_forward": 0.6059,
+      "right_forward": 0.8477,
+      "swing_forward": 0.8477,
+      "head_avg_z": 11.7542,
+      "shoulder_avg_z": 10.8663,
+      "foot_min_z": 8.9729,
+      "head_zrange": 0.8212,
+      "shoulder_zrange": 0.9396,
+      "feet_zrange": 1.4684,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 6,
+      "avg_pairs": 6.667,
+      "peak_pairs": 9,
+      "signature": "5-15-4-14-19-17-7-9"
+    },
+    {
+      "id": 2,
+      "name": "v22_step_left_0002",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_left",
+      "score": 74.5251,
+      "length": 6,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              4,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              17,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 5,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              16,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 15,
+          "pairs": [
+            [
+              5,
+              3
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              13,
+              3
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              4,
+              1
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              14,
+              1
+            ],
+            [
+              15,
+              2
+            ],
+            [
+              18,
+              2
+            ],
+            [
+              19,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 25,
+          "pairs": [
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              10,
+              1
+            ],
+            [
+              11,
+              1
+            ],
+            [
+              17,
+              4
+            ]
+          ]
+        }
+      ],
+      "replay": "5b8d7bbaedc0__NICK - Parkour with Joon2sp V1.json",
+      "start_frame": 216,
+      "end_frame": 241,
+      "axis": "y",
+      "axis_index": 1,
+      "axis_sign": -1,
+      "forward": 0.975,
+      "sideways": 0.2265,
+      "left_forward": 0.3242,
+      "right_forward": 0.2446,
+      "swing_forward": 0.3242,
+      "head_avg_z": 11.3851,
+      "shoulder_avg_z": 10.5234,
+      "foot_min_z": 8.7,
+      "head_zrange": 0.9945,
+      "shoulder_zrange": 1.0439,
+      "feet_zrange": 1.3864,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 6,
+      "avg_pairs": 7.333,
+      "peak_pairs": 9,
+      "signature": "15-5-4-7-9-14-8-17"
+    },
+    {
+      "id": 4,
+      "name": "v22_step_right_micro_0004",
+      "version": 22,
+      "source": "early_axis_walk",
+      "category": "step_right_micro",
+      "score": 56.7399,
+      "length": 6,
+      "actions": [
+        {
+          "dt": 0,
+          "pairs": [
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              7,
+              4
+            ],
+            [
+              10,
+              4
+            ],
+            [
+              14,
+              2
+            ],
+            [
+              15,
+              4
+            ],
+            [
+              16,
+              4
+            ],
+            [
+              17,
+              4
+            ],
+            [
+              18,
+              2
+            ]
+          ]
+        },
+        {
+          "dt": 10,
+          "pairs": [
+            [
+              4,
+              1
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              8,
+              4
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              10,
+              3
+            ],
+            [
+              11,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 20,
+          "pairs": [
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              2
+            ],
+            [
+              5,
+              3
+            ],
+            [
+              14,
+              4
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              18,
+              1
+            ]
+          ]
+        },
+        {
+          "dt": 30,
+          "pairs": [
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              7,
+              3
+            ],
+            [
+              10,
+              4
+            ],
+            [
+              14,
+              4
+            ],
+            [
+              17,
+              3
+            ],
+            [
+              18,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 40,
+          "pairs": [
+            [
+              1,
+              3
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              6,
+              4
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              9,
+              3
+            ],
+            [
+              10,
+              3
+            ]
+          ]
+        },
+        {
+          "dt": 50,
+          "pairs": [
+            [
+              1,
+              3
+            ],
+            [
+              5,
+              4
+            ],
+            [
+              8,
+              3
+            ],
+            [
+              14,
+              1
+            ]
+          ]
+        }
+      ],
+      "replay": "6946560ec8b4_Fav place..json",
+      "start_frame": 120,
+      "end_frame": 170,
+      "axis": "x",
+      "axis_index": 0,
+      "axis_sign": 1,
+      "forward": 0.1667,
+      "sideways": 1.1636,
+      "left_forward": 1.3216,
+      "right_forward": 1.4499,
+      "swing_forward": 1.4499,
+      "head_avg_z": 13.2017,
+      "shoulder_avg_z": 12.7909,
+      "foot_min_z": 10.6568,
+      "head_zrange": 0.313,
+      "shoulder_zrange": 1.4622,
+      "feet_zrange": 1.7292,
+      "one_planted_ratio": 0.5,
+      "both_air_ratio": 0.5,
+      "action_count": 6,
+      "avg_pairs": 7.5,
+      "peak_pairs": 12,
+      "signature": "4-5-7-10-14-1-2-18"
+    }
+  ]
+}

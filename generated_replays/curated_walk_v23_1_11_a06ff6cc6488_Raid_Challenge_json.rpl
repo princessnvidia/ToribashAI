@@ -1,0 +1,179 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_11_a06ff6cc6488_Raid_Challenge_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=a06ff6cc6488_Raid Challenge.json target=80
+JOINT 0; 4 3
+JOINT 0; 7 3
+JOINT 0; 15 1
+JOINT 0; 16 3
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 5;
+# source=a06ff6cc6488_Raid Challenge.json target=90
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 16 4
+JOINT 0; 18 2
+
+FRAME 10;
+# source=a06ff6cc6488_Raid Challenge.json target=100
+JOINT 0; 4 3
+JOINT 0; 7 1
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 15;
+# source=a06ff6cc6488_Raid Challenge.json target=110
+JOINT 0; 4 1
+JOINT 0; 6 4
+JOINT 0; 7 1
+JOINT 0; 9 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 18 1
+
+FRAME 20;
+# source=a06ff6cc6488_Raid Challenge.json target=113
+JOINT 0; 4 1
+JOINT 0; 10 4
+JOINT 0; 19 4
+
+FRAME 25;
+# source=a06ff6cc6488_Raid Challenge.json target=116
+JOINT 0; 0 4
+JOINT 0; 3 1
+JOINT 0; 18 3
+
+FRAME 30;
+# source=a06ff6cc6488_Raid Challenge.json target=126
+JOINT 0; 14 1
+JOINT 0; 19 4
+
+FRAME 35;
+# source=a06ff6cc6488_Raid Challenge.json target=141
+JOINT 0; 4 4
+JOINT 0; 6 3
+JOINT 0; 7 4
+JOINT 0; 9 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 19 2
+
+FRAME 40;
+# source=a06ff6cc6488_Raid Challenge.json target=151
+JOINT 0; 4 1
+JOINT 0; 6 4
+JOINT 0; 7 1
+JOINT 0; 9 4
+JOINT 0; 18 4
+JOINT 0; 19 4
+
+FRAME 45;
+# source=a06ff6cc6488_Raid Challenge.json target=161
+JOINT 0; 13 3
+JOINT 0; 19 1
+
+FRAME 50;
+# source=a06ff6cc6488_Raid Challenge.json target=171
+JOINT 0; 0 4
+JOINT 0; 1 3
+JOINT 0; 2 3
+JOINT 0; 3 4
+JOINT 0; 4 1
+JOINT 0; 5 4
+JOINT 0; 6 4
+JOINT 0; 7 2
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 10 4
+JOINT 0; 11 4
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 4
+JOINT 0; 19 2
+
+FRAME 55;
+# source=a06ff6cc6488_Raid Challenge.json target=181
+JOINT 0; 5 2
+JOINT 0; 7 1
+JOINT 0; 8 2
+JOINT 0; 9 1
+JOINT 0; 11 2
+JOINT 0; 18 3
+
+FRAME 60;
+# source=a06ff6cc6488_Raid Challenge.json target=191
+JOINT 0; 3 1
+JOINT 0; 4 1
+JOINT 0; 9 1
+JOINT 0; 11 2
+JOINT 0; 14 1
+JOINT 0; 18 1
+JOINT 0; 19 2
+
+FRAME 65;
+# source=a06ff6cc6488_Raid Challenge.json target=201
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 11 4
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 3
+
+FRAME 70;
+# source=a06ff6cc6488_Raid Challenge.json target=211
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 3
+JOINT 0; 15 2
+JOINT 0; 16 2
+JOINT 0; 19 1
+
+FRAME 75;
+# source=a06ff6cc6488_Raid Challenge.json target=221
+JOINT 0; 15 1
+JOINT 0; 16 3
+
+FRAME 80;
+# source=a06ff6cc6488_Raid Challenge.json target=231
+JOINT 0; 4 1
+JOINT 0; 7 1
+JOINT 0; 14 3
+
+FRAME 85;
+# source=a06ff6cc6488_Raid Challenge.json target=241
+JOINT 0; 4 2
+JOINT 0; 7 1
+JOINT 0; 15 1
+JOINT 0; 17 4
+JOINT 0; 18 1
+JOINT 0; 19 1
+
+FRAME 90;
+# source=a06ff6cc6488_Raid Challenge.json target=251
+JOINT 0; 14 1
+JOINT 0; 15 1
+JOINT 0; 16 3
+JOINT 0; 17 4

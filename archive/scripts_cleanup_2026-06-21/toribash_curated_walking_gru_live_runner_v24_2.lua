@@ -1,0 +1,127 @@
+-- toribash_curated_walking_gru_live_runner_v24_2.lua
+-- V24.2: runner live minimal, sans write(), sans mod loading, chemin direct.
+
+local INPUT_FILE = "curated_walking_gru_v24_live_actions_current.json"
+
+local actions = {}
+local action_by_frame = {}
+local loaded = false
+local tick = 0
+local motor_ok = 0
+local motor_fail = 0
+local last_pairs = 0
+local last_frame = -1
+local status = "boot"
+local warmup_frames = 18
+local max_tick = 900
+
+local function safe_read_file(path)
+    local f = io.open(path, "r")
+    if not f then
+        status = "missing_actions_file"
+        return nil
+    end
+
+    local ok, s = pcall(function()
+        return f:read("*all")
+    end)
+    f:close()
+
+    if not ok or not s then
+        status = "read_failed"
+        return nil
+    end
+    return s
+end
+
+local function parse_actions_json(txt)
+    local parsed = {}
+    if not txt or txt == "" then return parsed end
+
+    -- Extrait les objets actions: {"frame": N, "pairs": [[j,v], ...]}
+    for block in txt:gmatch('%b{}') do
+        local frame = block:match('"frame"%s*:%s*(%d+)')
+        local pairs_part = block:match('"pairs"%s*:%s*(%b[])')
+        if frame and pairs_part then
+            local pairs = {}
+            for j, v in pairs_part:gmatch('%[%s*(%d+)%s*,%s*(%d+)%s*%]') do
+                table.insert(pairs, { tonumber(j), tonumber(v) })
+            end
+            table.insert(parsed, { frame = tonumber(frame), pairs = pairs })
+        end
+    end
+    return parsed
+end
+
+local function load_actions()
+    local txt = safe_read_file(INPUT_FILE)
+    actions = parse_actions_json(txt)
+    action_by_frame = {}
+
+    for _, a in ipairs(actions) do
+        action_by_frame[tonumber(a.frame) or 0] = a.pairs or {}
+    end
+
+    if #actions > 0 then
+        loaded = true
+        status = "loaded"
+    else
+        loaded = false
+        if status == "boot" then status = "no_actions_parsed" end
+    end
+end
+
+local function apply_joint(j, v)
+    local ok = false
+
+    if set_joint_state then
+        ok = pcall(function() set_joint_state(0, j, v) end)
+        if not ok then
+            ok = pcall(function() set_joint_state(j, v) end)
+        end
+    end
+
+    if ok then
+        motor_ok = motor_ok + 1
+    else
+        motor_fail = motor_fail + 1
+    end
+end
+
+local function step()
+    if not loaded then return end
+    tick = tick + 1
+
+    if tick < warmup_frames then return end
+    if tick > max_tick then return end
+
+    local logical_frame = tick - warmup_frames
+    local frame = logical_frame - (logical_frame % 5)
+    local pairs = action_by_frame[frame]
+
+    if pairs then
+        last_frame = frame
+        last_pairs = #pairs
+        for _, p in ipairs(pairs) do
+            local j = tonumber(p[1])
+            local v = tonumber(p[2])
+            if j and v then apply_joint(j, v) end
+        end
+    else
+        last_pairs = 0
+    end
+end
+
+local function draw_overlay()
+    set_color(1, 1, 1, 1)
+    draw_text("Curated Walking GRU V24.2", 40, 80, 1)
+    draw_text("status=" .. tostring(status) .. " actions=" .. tostring(#actions), 40, 100, 1)
+    draw_text("tick=" .. tostring(tick) .. " last_frame=" .. tostring(last_frame) .. " pairs=" .. tostring(last_pairs), 40, 120, 1)
+    draw_text("ok=" .. tostring(motor_ok) .. " fail=" .. tostring(motor_fail), 40, 140, 1)
+    draw_text("file=" .. INPUT_FILE, 40, 160, 1)
+end
+
+load_actions()
+
+add_hook("enter_frame", "toribashai_curated_walking_gru_v24_2_step", step)
+add_hook("draw2d", "toribashai_curated_walking_gru_v24_2_draw", draw_overlay)

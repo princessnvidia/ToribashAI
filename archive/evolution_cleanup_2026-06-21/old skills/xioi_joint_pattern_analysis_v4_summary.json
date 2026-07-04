@@ -1,0 +1,1158 @@
+{
+  "input_reference": "/home/vio/Documents/ToribashAI/evolution/skills/walk_xioi_reference.json",
+  "reference_stats": {
+    "frames_found": 183,
+    "commands_found": 183,
+    "first_frame": 0,
+    "last_frame": 427,
+    "all_frame_numbers_first_20": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      34,
+      35,
+      38,
+      39,
+      45,
+      48,
+      50,
+      53,
+      55,
+      58,
+      59,
+      63,
+      64
+    ],
+    "all_frame_numbers_last_20": [
+      390,
+      392,
+      393,
+      394,
+      396,
+      398,
+      401,
+      402,
+      406,
+      409,
+      410,
+      412,
+      413,
+      415,
+      417,
+      419,
+      421,
+      423,
+      426,
+      427
+    ]
+  },
+  "timeline_commands": 183,
+  "unique_leg_patterns": 110,
+  "repeated_patterns": 20,
+  "top_patterns": [
+    {
+      "id": "P000",
+      "signature": "0,0,0,0,0,0,0,0,0,0",
+      "count": 34,
+      "total_duration": 70,
+      "frames": [
+        34,
+        58,
+        64,
+        67,
+        118,
+        130,
+        131,
+        142,
+        165,
+        167,
+        168,
+        177,
+        187,
+        194,
+        198,
+        214,
+        239,
+        246,
+        251,
+        260,
+        264,
+        273,
+        275,
+        280,
+        301,
+        316,
+        348,
+        386,
+        398,
+        401,
+        402,
+        415,
+        417,
+        426
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [],
+      "is_repeated": true
+    },
+    {
+      "id": "P001",
+      "signature": "0,0,0,0,0,0,3,0,0,0",
+      "count": 6,
+      "total_duration": 17,
+      "frames": [
+        15,
+        59,
+        237,
+        327,
+        345,
+        384
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          16,
+          3
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P002",
+      "signature": "0,0,0,0,0,0,0,3,0,0",
+      "count": 6,
+      "total_duration": 14,
+      "frames": [
+        89,
+        111,
+        122,
+        197,
+        352,
+        360
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          17,
+          3
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P003",
+      "signature": "0,0,0,0,0,0,0,4,0,0",
+      "count": 6,
+      "total_duration": 9,
+      "frames": [
+        121,
+        157,
+        207,
+        357,
+        394,
+        427
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          17,
+          4
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P004",
+      "signature": "0,0,0,0,0,0,4,0,0,0",
+      "count": 5,
+      "total_duration": 8,
+      "frames": [
+        184,
+        231,
+        279,
+        320,
+        336
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          16,
+          4
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P005",
+      "signature": "0,3,0,0,0,0,0,0,0,0",
+      "count": 4,
+      "total_duration": 12,
+      "frames": [
+        55,
+        126,
+        324,
+        350
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          5,
+          3
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P006",
+      "signature": "0,0,0,0,0,0,0,1,0,0",
+      "count": 4,
+      "total_duration": 5,
+      "frames": [
+        120,
+        358,
+        366,
+        409
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          17,
+          1
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P007",
+      "signature": "0,0,0,0,0,0,2,0,0,0",
+      "count": 3,
+      "total_duration": 8,
+      "frames": [
+        10,
+        258,
+        317
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          16,
+          2
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P008",
+      "signature": "0,1,0,0,0,0,0,0,0,0",
+      "count": 3,
+      "total_duration": 7,
+      "frames": [
+        212,
+        221,
+        321
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          5,
+          1
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P009",
+      "signature": "0,3,0,0,0,0,0,0,0,2",
+      "count": 2,
+      "total_duration": 10,
+      "frames": [
+        174,
+        223
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "leg_pairs": [
+        [
+          5,
+          3
+        ],
+        [
+          19,
+          2
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P010",
+      "signature": "0,0,0,0,2,0,0,0,0,0",
+      "count": 2,
+      "total_duration": 8,
+      "frames": [
+        233,
+        304
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          14,
+          2
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P011",
+      "signature": "0,4,0,0,0,0,0,0,0,0",
+      "count": 2,
+      "total_duration": 7,
+      "frames": [
+        63,
+        83
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          5,
+          4
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P012",
+      "signature": "0,0,0,0,2,0,4,0,0,0",
+      "count": 2,
+      "total_duration": 4,
+      "frames": [
+        74,
+        137
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          14,
+          2
+        ],
+        [
+          16,
+          4
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P013",
+      "signature": "0,0,0,0,0,0,0,0,4,0",
+      "count": 2,
+      "total_duration": 4,
+      "frames": [
+        79,
+        143
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "leg_pairs": [
+        [
+          18,
+          4
+        ]
+      ],
+      "is_repeated": true
+    },
+    {
+      "id": "P014",
+      "signature": "0,0,0,0,0,2,0,0,0,0",
+      "count": 2,
+      "total_duration": 4,
+      "frames": [
+        161,
+        361
+      ],
+      "leg_joints": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "leg_state": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "leg_pairs": [
+        [
+          15,
+          2
+        ]
+      ],
+      "is_repeated": true
+    }
+  ],
+  "top_transitions": [
+    {
+      "from": "P000",
+      "to": "P000",
+      "count": 7,
+      "avg_duration": 1.7142857142857142,
+      "durations": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "examples": [
+        {
+          "from_frame": 130,
+          "to_frame": 131,
+          "duration": 1
+        },
+        {
+          "from_frame": 165,
+          "to_frame": 167,
+          "duration": 2
+        },
+        {
+          "from_frame": 167,
+          "to_frame": 168,
+          "duration": 1
+        },
+        {
+          "from_frame": 273,
+          "to_frame": 275,
+          "duration": 2
+        },
+        {
+          "from_frame": 398,
+          "to_frame": 401,
+          "duration": 3
+        },
+        {
+          "from_frame": 401,
+          "to_frame": 402,
+          "duration": 1
+        },
+        {
+          "from_frame": 415,
+          "to_frame": 417,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "from": "P005",
+      "to": "P000",
+      "count": 2,
+      "avg_duration": 3.5,
+      "durations": [
+        3,
+        4
+      ],
+      "examples": [
+        {
+          "from_frame": 55,
+          "to_frame": 58,
+          "duration": 3
+        },
+        {
+          "from_frame": 126,
+          "to_frame": 130,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "from": "P000",
+      "to": "P018",
+      "count": 2,
+      "avg_duration": 3.0,
+      "durations": [
+        2,
+        4
+      ],
+      "examples": [
+        {
+          "from_frame": 64,
+          "to_frame": 66,
+          "duration": 2
+        },
+        {
+          "from_frame": 131,
+          "to_frame": 135,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "from": "P001",
+      "to": "P000",
+      "count": 2,
+      "avg_duration": 2.5,
+      "durations": [
+        2,
+        3
+      ],
+      "examples": [
+        {
+          "from_frame": 237,
+          "to_frame": 239,
+          "duration": 2
+        },
+        {
+          "from_frame": 345,
+          "to_frame": 348,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "from": "P026",
+      "to": "P027",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 0,
+          "to_frame": 5,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P027",
+      "to": "P007",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 5,
+          "to_frame": 10,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P007",
+      "to": "P001",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 10,
+          "to_frame": 15,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P001",
+      "to": "P028",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 15,
+          "to_frame": 20,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P028",
+      "to": "P029",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 20,
+          "to_frame": 25,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P029",
+      "to": "P033",
+      "count": 1,
+      "avg_duration": 5.0,
+      "durations": [
+        5
+      ],
+      "examples": [
+        {
+          "from_frame": 25,
+          "to_frame": 30,
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "from": "P033",
+      "to": "P000",
+      "count": 1,
+      "avg_duration": 4.0,
+      "durations": [
+        4
+      ],
+      "examples": [
+        {
+          "from_frame": 30,
+          "to_frame": 34,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "from": "P000",
+      "to": "P035",
+      "count": 1,
+      "avg_duration": 1.0,
+      "durations": [
+        1
+      ],
+      "examples": [
+        {
+          "from_frame": 34,
+          "to_frame": 35,
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "from": "P035",
+      "to": "P088",
+      "count": 1,
+      "avg_duration": 3.0,
+      "durations": [
+        3
+      ],
+      "examples": [
+        {
+          "from_frame": 35,
+          "to_frame": 38,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "from": "P088",
+      "to": "P022",
+      "count": 1,
+      "avg_duration": 1.0,
+      "durations": [
+        1
+      ],
+      "examples": [
+        {
+          "from_frame": 38,
+          "to_frame": 39,
+          "duration": 1
+        }
+      ]
+    },
+    {
+      "from": "P022",
+      "to": "P036",
+      "count": 1,
+      "avg_duration": 6.0,
+      "durations": [
+        6
+      ],
+      "examples": [
+        {
+          "from_frame": 39,
+          "to_frame": 45,
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "from": "P036",
+      "to": "P045",
+      "count": 1,
+      "avg_duration": 3.0,
+      "durations": [
+        3
+      ],
+      "examples": [
+        {
+          "from_frame": 45,
+          "to_frame": 48,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "from": "P045",
+      "to": "P037",
+      "count": 1,
+      "avg_duration": 2.0,
+      "durations": [
+        2
+      ],
+      "examples": [
+        {
+          "from_frame": 48,
+          "to_frame": 50,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "from": "P037",
+      "to": "P046",
+      "count": 1,
+      "avg_duration": 3.0,
+      "durations": [
+        3
+      ],
+      "examples": [
+        {
+          "from_frame": 50,
+          "to_frame": 53,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "from": "P046",
+      "to": "P005",
+      "count": 1,
+      "avg_duration": 2.0,
+      "durations": [
+        2
+      ],
+      "examples": [
+        {
+          "from_frame": 53,
+          "to_frame": 55,
+          "duration": 2
+        }
+      ]
+    },
+    {
+      "from": "P000",
+      "to": "P001",
+      "count": 1,
+      "avg_duration": 1.0,
+      "durations": [
+        1
+      ],
+      "examples": [
+        {
+          "from_frame": 58,
+          "to_frame": 59,
+          "duration": 1
+        }
+      ]
+    }
+  ],
+  "top_repeated_ngrams": [
+    {
+      "sequence": [
+        "P000",
+        "P000",
+        "P000"
+      ],
+      "length": 3,
+      "count": 2,
+      "score": 6,
+      "starts": [
+        {
+          "index": 59,
+          "frame": 165
+        },
+        {
+          "index": 168,
+          "frame": 398
+        }
+      ]
+    }
+  ],
+  "selected_mechanic": {
+    "kind": "repeated_pattern_sequence",
+    "pattern_sequence": [
+      "P000",
+      "P000",
+      "P000"
+    ],
+    "sequence_length": 3,
+    "repeat_count": 2,
+    "score": 6,
+    "source_start_index": 59,
+    "source_end_index": 61,
+    "source_start_frame": 165,
+    "source_end_frame": 168,
+    "starts": [
+      {
+        "index": 59,
+        "frame": 165
+      },
+      {
+        "index": 168,
+        "frame": 398
+      }
+    ]
+  },
+  "outputs": {
+    "patterns": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_joint_patterns_v4.json",
+    "transitions": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_pattern_transitions_v4.json",
+    "mechanic": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_walk_mechanic_v4.json",
+    "summary": "/home/vio/Documents/ToribashAI/evolution/skills/xioi_joint_pattern_analysis_v4_summary.json"
+  }
+}

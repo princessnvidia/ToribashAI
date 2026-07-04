@@ -1,0 +1,17 @@
+{
+  "file": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/0ed33e3e78b6_erthtk 1.rpl",
+  "metadata": {
+    "version": "12",
+    "fightname": "erth1",
+    "players": {
+      "0": "Jackferry",
+      "1": "mykai"
+    },
+    "authors": {
+      "0": ""
+    },
+    "newgame_raw": "NEWGAME 1;150 10 15 0 0 2 180 1 1 erthtkv2.tbm 0 250 120 0 0 0 1 0 2 0 0 0 0 0 1 0.000000 0.000000 -15.000000 0 0 0 0 8",
+    "mod": "erthtkv2.tbm"
+  },
+  "frames": {}
+}

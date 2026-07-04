@@ -1,0 +1,1815 @@
+{
+  "files_found": 343,
+  "files_analyzed": 325,
+  "errors": 0,
+  "avg_frames": 162.16307692307691,
+  "avg_displacement_3d": 28.280165520165237,
+  "avg_path_length_3d": 53.17130730357769,
+  "avg_height_range": 7.466300139661539,
+  "top_distance": [
+    {
+      "file": "b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.rpl",
+      "fightname": "bitch im gold shinning brighter than the mother fucking sun",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 755,
+      "tracked_positions": 755,
+      "first_frame": 0,
+      "last_frame": 4250,
+      "start_pos": [
+        -11.0,
+        -4.09999996,
+        69.18999648
+      ],
+      "end_pos": [
+        2.12007537,
+        -151.60495284,
+        38.19424588
+      ],
+      "displacement_3d": 151.2963451544779,
+      "path_length_3d": 215.3415693849589,
+      "delta_y": -147.50495288000002,
+      "delta_z": -30.995750600000008,
+      "max_z": 69.48193655,
+      "min_z": 37.87984642,
+      "height_range": 31.60209013,
+      "y_range": 147.69231271,
+      "avg_step_distance": 0.28559889838853963
+    },
+    {
+      "file": "b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b87266ce6093_Parkour_Reptile-da-Runnin-V1.rpl",
+      "fightname": "Parkour_Reptile-da-Runnin-V1",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 569,
+      "tracked_positions": 569,
+      "first_frame": 0,
+      "last_frame": 3642,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -4.25958094,
+        -152.61172173,
+        43.68586066
+      ],
+      "displacement_3d": 150.7938483204521,
+      "path_length_3d": 188.15893780465296,
+      "delta_y": -149.51172177,
+      "delta_z": -18.904141159999995,
+      "max_z": 64.92846599,
+      "min_z": 42.30773098,
+      "height_range": 22.620735010000004,
+      "y_range": 149.65986338000002,
+      "avg_step_distance": 0.33126573557157213
+    },
+    {
+      "file": "6dfa55dcda85_Hachem24 - jissemirrorsedge.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/6dfa55dcda85_Hachem24 - jissemirrorsedge.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/6dfa55dcda85_Hachem24 - jissemirrorsedge.rpl",
+      "fightname": "Hachem24 - jissemirrorsedge",
+      "mod": "/parkour_mirrors_edge.tbm",
+      "frames": 309,
+      "tracked_positions": 309,
+      "first_frame": 0,
+      "last_frame": 4481,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        1.93225961,
+        -151.4099437,
+        38.4533249
+      ],
+      "displacement_3d": 150.26405988420143,
+      "path_length_3d": 197.942324280841,
+      "delta_y": -148.30994374000002,
+      "delta_z": -24.13667692,
+      "max_z": 63.86581893,
+      "min_z": 37.9004758,
+      "height_range": 25.96534313,
+      "y_range": 148.32841175000001,
+      "avg_step_distance": 0.6426698840287046
+    },
+    {
+      "file": "e2b7c66bbf02_[Collaberation] Parkour Trials.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e2b7c66bbf02_[Collaberation] Parkour Trials.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e2b7c66bbf02_[Collaberation] Parkour Trials.rpl",
+      "fightname": "[Collaberation] Parkour Trials",
+      "mod": "parkour_trials.tbm",
+      "frames": 1014,
+      "tracked_positions": 1014,
+      "first_frame": 0,
+      "last_frame": 3139,
+      "start_pos": [
+        1.0,
+        -0.09999996,
+        12.53999972
+      ],
+      "end_pos": [
+        117.25421442,
+        -1.28785696,
+        16.60288849
+      ],
+      "displacement_3d": 116.33125306563656,
+      "path_length_3d": 143.70716791381167,
+      "delta_y": -1.1878570000000002,
+      "delta_z": 4.062888770000001,
+      "max_z": 22.62560839,
+      "min_z": 10.9422769,
+      "height_range": 11.68333149,
+      "y_range": 3.60131172,
+      "avg_step_distance": 0.14186294956940937
+    },
+    {
+      "file": "db703938a738__ parkour 5.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/db703938a738__ parkour 5.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/db703938a738__ parkour 5.rpl",
+      "fightname": "# parkour 5",
+      "mod": "xlr_cliffsideparkour.tbm",
+      "frames": 155,
+      "tracked_positions": 155,
+      "first_frame": 0,
+      "last_frame": 2000,
+      "start_pos": [
+        13.64999962,
+        2.90000004,
+        105.08999801
+      ],
+      "end_pos": [
+        4.97280073,
+        -41.50855976,
+        10.61253027
+      ],
+      "displacement_3d": 104.75402557729959,
+      "path_length_3d": 139.00348838315435,
+      "delta_y": -44.4085598,
+      "delta_z": -94.47746774000001,
+      "max_z": 105.08999801,
+      "min_z": 10.391605,
+      "height_range": 94.69839301,
+      "y_range": 44.448565040000005,
+      "avg_step_distance": 0.9026200544360673
+    },
+    {
+      "file": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/473cf7addf85_Mirrors edge parkour - Tedster789 v4.rpl",
+      "fightname": "Mirrors edge parkour - Tedster789 v4",
+      "mod": "/parkour_mirrors_edge.tbm",
+      "frames": 632,
+      "tracked_positions": 632,
+      "first_frame": 0,
+      "last_frame": 2789,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -0.30071035,
+        -102.91925973,
+        43.73022536
+      ],
+      "displacement_3d": 101.59363974465383,
+      "path_length_3d": 128.93452329452117,
+      "delta_y": -99.81925976999999,
+      "delta_z": -18.85977646,
+      "max_z": 64.55722583,
+      "min_z": 43.10270835,
+      "height_range": 21.454517479999993,
+      "y_range": 99.93001919999999,
+      "avg_step_distance": 0.2043336343811746
+    },
+    {
+      "file": "753812d27443_P Birby can do shit now.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/753812d27443_P Birby can do shit now.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/753812d27443_P Birby can do shit now.rpl",
+      "fightname": "P Birby can do shit now",
+      "mod": "tys-fun-parkour.tbm",
+      "frames": 280,
+      "tracked_positions": 280,
+      "first_frame": 0,
+      "last_frame": 1840,
+      "start_pos": [
+        -1.0,
+        -0.08999996,
+        3.59000015
+      ],
+      "end_pos": [
+        -5.65673698,
+        -68.58455321,
+        3.76630959
+      ],
+      "displacement_3d": 68.65289585470242,
+      "path_length_3d": 83.9977450868596,
+      "delta_y": -68.49455325,
+      "delta_z": 0.17630944000000026,
+      "max_z": 4.62328303,
+      "min_z": 2.12236569,
+      "height_range": 2.5009173399999995,
+      "y_range": 68.49455325,
+      "avg_step_distance": 0.301067186691253
+    },
+    {
+      "file": "8d2491d426c8_Fatul- Champz.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8d2491d426c8_Fatul- Champz.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/8d2491d426c8_Fatul- Champz.rpl",
+      "fightname": "Fatul- Champz",
+      "mod": "/xlr_cliffsideparkour.tbm",
+      "frames": 185,
+      "tracked_positions": 185,
+      "first_frame": 0,
+      "last_frame": 1938,
+      "start_pos": [
+        13.64999962,
+        2.90000004,
+        105.08999801
+      ],
+      "end_pos": [
+        10.93804146,
+        -64.06257402,
+        97.49300904
+      ],
+      "displacement_3d": 67.44668474590041,
+      "path_length_3d": 94.13845352435838,
+      "delta_y": -66.96257406,
+      "delta_z": -7.596988969999998,
+      "max_z": 105.08999801,
+      "min_z": 93.79753538,
+      "height_range": 11.292462630000003,
+      "y_range": 67.25600150999999,
+      "avg_step_distance": 0.5116220300236869
+    },
+    {
+      "file": "6bc9bc038254_Victor- Unbalanced.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/6bc9bc038254_Victor- Unbalanced.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/6bc9bc038254_Victor- Unbalanced.rpl",
+      "fightname": "Victor- Unbalanced",
+      "mod": "mat_mirrors_edge1_v3.tbm",
+      "frames": 413,
+      "tracked_positions": 413,
+      "first_frame": 0,
+      "last_frame": 2453,
+      "start_pos": [
+        1.0,
+        -6.09999996,
+        22.58999991
+      ],
+      "end_pos": [
+        41.18846589,
+        43.40154189,
+        1.4739944
+      ],
+      "displacement_3d": 67.16696453478708,
+      "path_length_3d": 117.27592402674262,
+      "delta_y": 49.501541849999995,
+      "delta_z": -21.11600551,
+      "max_z": 23.03882724,
+      "min_z": 0.74013977,
+      "height_range": 22.29868747,
+      "y_range": 49.501541849999995,
+      "avg_step_distance": 0.28465030103578304
+    },
+    {
+      "file": "c60f9e6a4787_[P - A] rooftop parkour final.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/c60f9e6a4787_[P - A] rooftop parkour final.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/c60f9e6a4787_[P - A] rooftop parkour final.rpl",
+      "fightname": "[P - A] rooftop parkour final",
+      "mod": "Parkour/Urban_Structure/DatChilled_RooftopParkour.tbm",
+      "frames": 400,
+      "tracked_positions": 400,
+      "first_frame": 0,
+      "last_frame": 1965,
+      "start_pos": [
+        2.5,
+        -3.09999996,
+        12.58999991
+      ],
+      "end_pos": [
+        4.40099842,
+        -63.4423723,
+        3.46928604
+      ],
+      "displacement_3d": 61.057375607787556,
+      "path_length_3d": 84.98476034393525,
+      "delta_y": -60.342372340000004,
+      "delta_z": -9.12071387,
+      "max_z": 13.47492863,
+      "min_z": 3.46928604,
+      "height_range": 10.00564259,
+      "y_range": 60.34566014,
+      "avg_step_distance": 0.21299438682690539
+    },
+    {
+      "file": "026b6e7e0fab_]P[ Xs x Lloyd54321 Green.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/026b6e7e0fab_]P[ Xs x Lloyd54321 Green.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/026b6e7e0fab_]P[ Xs x Lloyd54321 Green.rpl",
+      "fightname": "]P[ Xs x Lloyd54321 Green",
+      "mod": "parkour_suburb_maguuv2.tbm",
+      "frames": 181,
+      "tracked_positions": 181,
+      "first_frame": 0,
+      "last_frame": 1800,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        2.661561,
+        -55.359087,
+        8.716126
+      ],
+      "displacement_3d": 60.19670337254023,
+      "path_length_3d": 85.5671711636536,
+      "delta_y": -55.259087040000004,
+      "delta_z": -23.873873910000004,
+      "max_z": 32.58999991,
+      "min_z": 8.716126,
+      "height_range": 23.873873910000004,
+      "y_range": 55.639575040000004,
+      "avg_step_distance": 0.4753731731314089
+    },
+    {
+      "file": "0d0251174350__Incredible_parkour_by_me.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0d0251174350__Incredible_parkour_by_me.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/0d0251174350__Incredible_parkour_by_me.rpl",
+      "fightname": "#Incredible_parkour_by_me",
+      "mod": "/parkour_suburb_maguuv2.tbm",
+      "frames": 96,
+      "tracked_positions": 96,
+      "first_frame": 0,
+      "last_frame": 2034,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        0.13776699,
+        -55.2811319,
+        8.87307613
+      ],
+      "displacement_3d": 60.13021015737057,
+      "path_length_3d": 82.02596839804924,
+      "delta_y": -55.18113194,
+      "delta_z": -23.716923780000002,
+      "max_z": 32.58999991,
+      "min_z": 7.76496406,
+      "height_range": 24.825035850000003,
+      "y_range": 55.53555128,
+      "avg_step_distance": 0.8634312462952551
+    },
+    {
+      "file": "e7c93bc76257_Mental City prt2 _1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e7c93bc76257_Mental City prt2 _1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e7c93bc76257_Mental City prt2 _1.rpl",
+      "fightname": "Mental City prt2 #1",
+      "mod": "parkour_city_prt2.tbm",
+      "frames": 184,
+      "tracked_positions": 184,
+      "first_frame": 0,
+      "last_frame": 2328,
+      "start_pos": [
+        4.0,
+        23.90000004,
+        15.18500013
+      ],
+      "end_pos": [
+        -3.30671083,
+        -32.657309,
+        1.52320731
+      ],
+      "displacement_3d": 58.6409567798472,
+      "path_length_3d": 106.71117616779881,
+      "delta_y": -56.55730903999999,
+      "delta_z": -13.66179282,
+      "max_z": 15.18500013,
+      "min_z": 0.5936097,
+      "height_range": 14.59139043,
+      "y_range": 56.55730903999999,
+      "avg_step_distance": 0.5831211812448023
+    },
+    {
+      "file": "1429f3b2d437_[P - A] another tomb raid final.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1429f3b2d437_[P - A] another tomb raid final.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/1429f3b2d437_[P - A] another tomb raid final.rpl",
+      "fightname": "[P - A] another tomb raid final",
+      "mod": "parkour/Tombs_Raid/raid_the_tomb.tbm",
+      "frames": 355,
+      "tracked_positions": 355,
+      "first_frame": 0,
+      "last_frame": 1992,
+      "start_pos": [
+        0.0,
+        -0.09999996,
+        13.07999969
+      ],
+      "end_pos": [
+        0.25199879,
+        -57.76185457,
+        13.66272013
+      ],
+      "displacement_3d": 57.6653495919875,
+      "path_length_3d": 86.87020893979187,
+      "delta_y": -57.66185461,
+      "delta_z": 0.582720440000001,
+      "max_z": 16.30374948,
+      "min_z": 10.78438515,
+      "height_range": 5.51936433,
+      "y_range": 57.66185461,
+      "avg_step_distance": 0.24539607045138945
+    },
+    {
+      "file": "22cd6e4351eb__ - Dranz - Dream of a Fag.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/22cd6e4351eb__ - Dranz - Dream of a Fag.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/22cd6e4351eb__ - Dranz - Dream of a Fag.rpl",
+      "fightname": "# - Dranz - Dream of a Fag",
+      "mod": "parkourdream_d_fix.tbm",
+      "frames": 216,
+      "tracked_positions": 216,
+      "first_frame": 0,
+      "last_frame": 1716,
+      "start_pos": [
+        6.0,
+        -0.09999996,
+        12.61000037
+      ],
+      "end_pos": [
+        16.48695161,
+        -55.46660965,
+        2.14550608
+      ],
+      "displacement_3d": 57.31442456642766,
+      "path_length_3d": 83.24160102495459,
+      "delta_y": -55.366609690000004,
+      "delta_z": -10.46449429,
+      "max_z": 12.7596586,
+      "min_z": 0.31717188,
+      "height_range": 12.44248672,
+      "y_range": 55.366609690000004,
+      "avg_step_distance": 0.3871702373253702
+    },
+    {
+      "file": "1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/1c0f6c5f684b_The Kurr Of Treasure-hunting.rpl",
+      "fightname": "The Kurr Of Treasure-hunting",
+      "mod": "raid_the_tomb.tbm",
+      "frames": 474,
+      "tracked_positions": 474,
+      "first_frame": 0,
+      "last_frame": 1456,
+      "start_pos": [
+        0.0,
+        -0.09999996,
+        13.07999969
+      ],
+      "end_pos": [
+        1.28563086,
+        -57.04313264,
+        13.10030269
+      ],
+      "displacement_3d": 56.95764758425402,
+      "path_length_3d": 69.39057420958743,
+      "delta_y": -56.943132680000005,
+      "delta_z": 0.020303000000000182,
+      "max_z": 15.94269888,
+      "min_z": 11.75679567,
+      "height_range": 4.185903209999999,
+      "y_range": 57.04444643,
+      "avg_step_distance": 0.14670311672217215
+    },
+    {
+      "file": "b454d63ccf1d_paikor parkour.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b454d63ccf1d_paikor parkour.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b454d63ccf1d_paikor parkour.rpl",
+      "fightname": "Paikor Parkour",
+      "mod": "/mat_rooftop_race.tbm",
+      "frames": 240,
+      "tracked_positions": 240,
+      "first_frame": 0,
+      "last_frame": 3326,
+      "start_pos": [
+        6.0,
+        12.90000004,
+        42.84000182
+      ],
+      "end_pos": [
+        4.89308932,
+        -43.02327952,
+        32.5203097
+      ],
+      "displacement_3d": 56.87824270712838,
+      "path_length_3d": 116.8370318447189,
+      "delta_y": -55.923279560000005,
+      "delta_z": -10.31969212,
+      "max_z": 43.16567646,
+      "min_z": 32.17287873,
+      "height_range": 10.99279773,
+      "y_range": 55.930465410000004,
+      "avg_step_distance": 0.48885787382727575
+    },
+    {
+      "file": "50129f94ec9c_Instep - P - DatChilled Parkour.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/50129f94ec9c_Instep - P - DatChilled Parkour.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/50129f94ec9c_Instep - P - DatChilled Parkour.rpl",
+      "fightname": "Instep - P - DatChilled Parkour",
+      "mod": "/DatChilled_RooftopParkour.tbm",
+      "frames": 244,
+      "tracked_positions": 244,
+      "first_frame": 0,
+      "last_frame": 2123,
+      "start_pos": [
+        2.5,
+        -3.09999996,
+        12.58999991
+      ],
+      "end_pos": [
+        5.98933999,
+        -58.54263374,
+        1.66412511
+      ],
+      "displacement_3d": 56.616568901464575,
+      "path_length_3d": 89.67147551671415,
+      "delta_y": -55.44263378,
+      "delta_z": -10.925874799999999,
+      "max_z": 13.88441342,
+      "min_z": 0.56226094,
+      "height_range": 13.32215248,
+      "y_range": 57.31904687,
+      "avg_step_distance": 0.36901841776425576
+    },
+    {
+      "file": "200dfc22c4ac_My Best Parkour Ever.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/200dfc22c4ac_My Best Parkour Ever.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/200dfc22c4ac_My Best Parkour Ever.rpl",
+      "fightname": "My Best Parkour Ever",
+      "mod": "/parkour_city_prt2.tbm",
+      "frames": 177,
+      "tracked_positions": 177,
+      "first_frame": 0,
+      "last_frame": 2040,
+      "start_pos": [
+        4.0,
+        23.90000004,
+        15.17499995
+      ],
+      "end_pos": [
+        4.01629353,
+        -30.2104659,
+        1.94425286
+      ],
+      "displacement_3d": 55.70453714270107,
+      "path_length_3d": 85.46006093950135,
+      "delta_y": -54.11046594,
+      "delta_z": -13.23074709,
+      "max_z": 15.17499995,
+      "min_z": 1.87289874,
+      "height_range": 13.30210121,
+      "y_range": 54.306573,
+      "avg_step_distance": 0.48556852806534856
+    },
+    {
+      "file": "e77a37002c23_parkour.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e77a37002c23_parkour.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e77a37002c23_parkour.rpl",
+      "fightname": "parkour",
+      "mod": "parkourdream_d_fix.tbm",
+      "frames": 196,
+      "tracked_positions": 196,
+      "first_frame": 0,
+      "last_frame": 2000,
+      "start_pos": [
+        6.0,
+        -0.09999996,
+        12.61000037
+      ],
+      "end_pos": [
+        2.01648967,
+        -54.56648341,
+        2.32144396
+      ],
+      "displacement_3d": 55.5726602472843,
+      "path_length_3d": 86.57707980703243,
+      "delta_y": -54.46648345,
+      "delta_z": -10.28855641,
+      "max_z": 12.61000037,
+      "min_z": 0.36476,
+      "height_range": 12.24524037,
+      "y_range": 54.46648345,
+      "avg_step_distance": 0.4439850246514484
+    }
+  ],
+  "top_height_range": [
+    {
+      "file": "db703938a738__ parkour 5.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/db703938a738__ parkour 5.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/db703938a738__ parkour 5.rpl",
+      "fightname": "# parkour 5",
+      "mod": "xlr_cliffsideparkour.tbm",
+      "frames": 155,
+      "tracked_positions": 155,
+      "first_frame": 0,
+      "last_frame": 2000,
+      "start_pos": [
+        13.64999962,
+        2.90000004,
+        105.08999801
+      ],
+      "end_pos": [
+        4.97280073,
+        -41.50855976,
+        10.61253027
+      ],
+      "displacement_3d": 104.75402557729959,
+      "path_length_3d": 139.00348838315435,
+      "delta_y": -44.4085598,
+      "delta_z": -94.47746774000001,
+      "max_z": 105.08999801,
+      "min_z": 10.391605,
+      "height_range": 94.69839301,
+      "y_range": 44.448565040000005,
+      "avg_step_distance": 0.9026200544360673
+    },
+    {
+      "file": "b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.rpl",
+      "fightname": "bitch im gold shinning brighter than the mother fucking sun",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 755,
+      "tracked_positions": 755,
+      "first_frame": 0,
+      "last_frame": 4250,
+      "start_pos": [
+        -11.0,
+        -4.09999996,
+        69.18999648
+      ],
+      "end_pos": [
+        2.12007537,
+        -151.60495284,
+        38.19424588
+      ],
+      "displacement_3d": 151.2963451544779,
+      "path_length_3d": 215.3415693849589,
+      "delta_y": -147.50495288000002,
+      "delta_z": -30.995750600000008,
+      "max_z": 69.48193655,
+      "min_z": 37.87984642,
+      "height_range": 31.60209013,
+      "y_range": 147.69231271,
+      "avg_step_distance": 0.28559889838853963
+    },
+    {
+      "file": "6dfa55dcda85_Hachem24 - jissemirrorsedge.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/6dfa55dcda85_Hachem24 - jissemirrorsedge.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/6dfa55dcda85_Hachem24 - jissemirrorsedge.rpl",
+      "fightname": "Hachem24 - jissemirrorsedge",
+      "mod": "/parkour_mirrors_edge.tbm",
+      "frames": 309,
+      "tracked_positions": 309,
+      "first_frame": 0,
+      "last_frame": 4481,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        1.93225961,
+        -151.4099437,
+        38.4533249
+      ],
+      "displacement_3d": 150.26405988420143,
+      "path_length_3d": 197.942324280841,
+      "delta_y": -148.30994374000002,
+      "delta_z": -24.13667692,
+      "max_z": 63.86581893,
+      "min_z": 37.9004758,
+      "height_range": 25.96534313,
+      "y_range": 148.32841175000001,
+      "avg_step_distance": 0.6426698840287046
+    },
+    {
+      "file": "0d0251174350__Incredible_parkour_by_me.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0d0251174350__Incredible_parkour_by_me.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/0d0251174350__Incredible_parkour_by_me.rpl",
+      "fightname": "#Incredible_parkour_by_me",
+      "mod": "/parkour_suburb_maguuv2.tbm",
+      "frames": 96,
+      "tracked_positions": 96,
+      "first_frame": 0,
+      "last_frame": 2034,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        0.13776699,
+        -55.2811319,
+        8.87307613
+      ],
+      "displacement_3d": 60.13021015737057,
+      "path_length_3d": 82.02596839804924,
+      "delta_y": -55.18113194,
+      "delta_z": -23.716923780000002,
+      "max_z": 32.58999991,
+      "min_z": 7.76496406,
+      "height_range": 24.825035850000003,
+      "y_range": 55.53555128,
+      "avg_step_distance": 0.8634312462952551
+    },
+    {
+      "file": "026b6e7e0fab_]P[ Xs x Lloyd54321 Green.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/026b6e7e0fab_]P[ Xs x Lloyd54321 Green.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/026b6e7e0fab_]P[ Xs x Lloyd54321 Green.rpl",
+      "fightname": "]P[ Xs x Lloyd54321 Green",
+      "mod": "parkour_suburb_maguuv2.tbm",
+      "frames": 181,
+      "tracked_positions": 181,
+      "first_frame": 0,
+      "last_frame": 1800,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        2.661561,
+        -55.359087,
+        8.716126
+      ],
+      "displacement_3d": 60.19670337254023,
+      "path_length_3d": 85.5671711636536,
+      "delta_y": -55.259087040000004,
+      "delta_z": -23.873873910000004,
+      "max_z": 32.58999991,
+      "min_z": 8.716126,
+      "height_range": 23.873873910000004,
+      "y_range": 55.639575040000004,
+      "avg_step_distance": 0.4753731731314089
+    },
+    {
+      "file": "b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b87266ce6093_Parkour_Reptile-da-Runnin-V1.rpl",
+      "fightname": "Parkour_Reptile-da-Runnin-V1",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 569,
+      "tracked_positions": 569,
+      "first_frame": 0,
+      "last_frame": 3642,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -4.25958094,
+        -152.61172173,
+        43.68586066
+      ],
+      "displacement_3d": 150.7938483204521,
+      "path_length_3d": 188.15893780465296,
+      "delta_y": -149.51172177,
+      "delta_z": -18.904141159999995,
+      "max_z": 64.92846599,
+      "min_z": 42.30773098,
+      "height_range": 22.620735010000004,
+      "y_range": 149.65986338000002,
+      "avg_step_distance": 0.33126573557157213
+    },
+    {
+      "file": "6bc9bc038254_Victor- Unbalanced.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/6bc9bc038254_Victor- Unbalanced.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/6bc9bc038254_Victor- Unbalanced.rpl",
+      "fightname": "Victor- Unbalanced",
+      "mod": "mat_mirrors_edge1_v3.tbm",
+      "frames": 413,
+      "tracked_positions": 413,
+      "first_frame": 0,
+      "last_frame": 2453,
+      "start_pos": [
+        1.0,
+        -6.09999996,
+        22.58999991
+      ],
+      "end_pos": [
+        41.18846589,
+        43.40154189,
+        1.4739944
+      ],
+      "displacement_3d": 67.16696453478708,
+      "path_length_3d": 117.27592402674262,
+      "delta_y": 49.501541849999995,
+      "delta_z": -21.11600551,
+      "max_z": 23.03882724,
+      "min_z": 0.74013977,
+      "height_range": 22.29868747,
+      "y_range": 49.501541849999995,
+      "avg_step_distance": 0.28465030103578304
+    },
+    {
+      "file": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/473cf7addf85_Mirrors edge parkour - Tedster789 v4.rpl",
+      "fightname": "Mirrors edge parkour - Tedster789 v4",
+      "mod": "/parkour_mirrors_edge.tbm",
+      "frames": 632,
+      "tracked_positions": 632,
+      "first_frame": 0,
+      "last_frame": 2789,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -0.30071035,
+        -102.91925973,
+        43.73022536
+      ],
+      "displacement_3d": 101.59363974465383,
+      "path_length_3d": 128.93452329452117,
+      "delta_y": -99.81925976999999,
+      "delta_z": -18.85977646,
+      "max_z": 64.55722583,
+      "min_z": 43.10270835,
+      "height_range": 21.454517479999993,
+      "y_range": 99.93001919999999,
+      "avg_step_distance": 0.2043336343811746
+    },
+    {
+      "file": "3c31521944d4_Chazer - Mp Parkour 1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/3c31521944d4_Chazer - Mp Parkour 1.rpl",
+      "fightname": "Chazer - Mp Parkour 1",
+      "mod": "parkour_suburb_maguu.tbm",
+      "frames": 396,
+      "tracked_positions": 396,
+      "first_frame": 0,
+      "last_frame": 1995,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        -2.77365,
+        -45.712714,
+        12.976388
+      ],
+      "displacement_3d": 49.98548277823679,
+      "path_length_3d": 93.91015385700453,
+      "delta_y": -45.61271404,
+      "delta_z": -19.613611910000003,
+      "max_z": 32.58999991,
+      "min_z": 12.976388,
+      "height_range": 19.613611910000003,
+      "y_range": 46.353093040000005,
+      "avg_step_distance": 0.23774722495444187
+    },
+    {
+      "file": "752fcd217f5c_Tdawg parkour.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/752fcd217f5c_Tdawg parkour.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/752fcd217f5c_Tdawg parkour.rpl",
+      "fightname": "Tdawg parkour",
+      "mod": "parkour_city_a.tbm",
+      "frames": 206,
+      "tracked_positions": 200,
+      "first_frame": 0,
+      "last_frame": 1980,
+      "start_pos": [
+        1.0,
+        -0.09999996,
+        2.60000009
+      ],
+      "end_pos": [
+        -5.811197,
+        -7.538791,
+        0.627697
+      ],
+      "displacement_3d": 10.27706165148467,
+      "path_length_3d": 104.81074477798263,
+      "delta_y": -7.43879104,
+      "delta_z": -1.97230309,
+      "max_z": 18.604922,
+      "min_z": 0.187105,
+      "height_range": 18.417817,
+      "y_range": 12.44226804,
+      "avg_step_distance": 0.526687159688355
+    },
+    {
+      "file": "80c4693463f7_Karbn- run away v7.5.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/80c4693463f7_Karbn- run away v7.5.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/80c4693463f7_Karbn- run away v7.5.rpl",
+      "fightname": "Karbn- run away v7.5",
+      "mod": "mirrors_edge_drain_escape.tbm",
+      "frames": 971,
+      "tracked_positions": 971,
+      "first_frame": 0,
+      "last_frame": 2340,
+      "start_pos": [
+        1.00000004,
+        10.87312747,
+        5.01188434
+      ],
+      "end_pos": [
+        0.56428956,
+        -11.05920427,
+        20.76947007
+      ],
+      "displacement_3d": 27.009600648919136,
+      "path_length_3d": 103.70701112615009,
+      "delta_y": -21.932331740000002,
+      "delta_z": 15.75758573,
+      "max_z": 20.89230728,
+      "min_z": 3.17708228,
+      "height_range": 17.715225,
+      "y_range": 22.40601119,
+      "avg_step_distance": 0.10691444445994855
+    },
+    {
+      "file": "1b9f82e09e7c_completed parkour_.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1b9f82e09e7c_completed parkour_.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/1b9f82e09e7c_completed parkour_.rpl",
+      "fightname": "completed parkour!",
+      "mod": "testparkour1.tbm",
+      "frames": 57,
+      "tracked_positions": 56,
+      "first_frame": 0,
+      "last_frame": 1680,
+      "start_pos": [
+        1.0,
+        12.40000004,
+        27.58999987
+      ],
+      "end_pos": [
+        5.74140405,
+        -13.77469813,
+        10.5070706
+      ],
+      "displacement_3d": 31.613639605394702,
+      "path_length_3d": 50.40437362345357,
+      "delta_y": -26.17469817,
+      "delta_z": -17.08292927,
+      "max_z": 27.58999987,
+      "min_z": 9.9480568,
+      "height_range": 17.64194307,
+      "y_range": 26.17469817,
+      "avg_step_distance": 0.9164431567900649
+    },
+    {
+      "file": "3569f1a286cc_Parkouring jetstreamFin3.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3569f1a286cc_Parkouring jetstreamFin3.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/3569f1a286cc_Parkouring jetstreamFin3.rpl",
+      "fightname": "Parkouring jetstreamFin3",
+      "mod": "parkour_parallel_maguu.tbm",
+      "frames": 279,
+      "tracked_positions": 279,
+      "first_frame": 0,
+      "last_frame": 2000,
+      "start_pos": [
+        4.5,
+        -0.09999996,
+        17.62999988
+      ],
+      "end_pos": [
+        6.42119178,
+        7.17364768,
+        0.19798665
+      ],
+      "displacement_3d": 18.986100523733466,
+      "path_length_3d": 66.38947276620986,
+      "delta_y": 7.27364764,
+      "delta_z": -17.43201323,
+      "max_z": 17.62999988,
+      "min_z": 0.194661,
+      "height_range": 17.43533888,
+      "y_range": 25.197904,
+      "avg_step_distance": 0.2388110531158628
+    },
+    {
+      "file": "f2a364cb9f41__ parkour 6.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/f2a364cb9f41__ parkour 6.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/f2a364cb9f41__ parkour 6.rpl",
+      "fightname": "# parkour 6",
+      "mod": "datchilled_santorini.tbm",
+      "frames": 171,
+      "tracked_positions": 171,
+      "first_frame": 0,
+      "last_frame": 1700,
+      "start_pos": [
+        2.0,
+        2.90000004,
+        17.73999953
+      ],
+      "end_pos": [
+        -8.160611,
+        -21.194839,
+        0.679997
+      ],
+      "displacement_3d": 31.22247540763601,
+      "path_length_3d": 79.98524307823706,
+      "delta_y": -24.094839040000004,
+      "delta_z": -17.06000253,
+      "max_z": 17.73999953,
+      "min_z": 0.669991,
+      "height_range": 17.07000853,
+      "y_range": 24.15519904,
+      "avg_step_distance": 0.47050142987198273
+    },
+    {
+      "file": "ffca2cf38a1d_Solo Parkour .json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/ffca2cf38a1d_Solo Parkour .json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/ffca2cf38a1d_Solo Parkour .rpl",
+      "fightname": "Solo Parkour",
+      "mod": "parkour_parallel_maguu.tbm",
+      "frames": 102,
+      "tracked_positions": 102,
+      "first_frame": 0,
+      "last_frame": 1800,
+      "start_pos": [
+        4.5,
+        -0.09999996,
+        17.62999988
+      ],
+      "end_pos": [
+        10.92359077,
+        2.67382847,
+        1.15568614
+      ],
+      "displacement_3d": 17.898593680606815,
+      "path_length_3d": 67.80679100772613,
+      "delta_y": 2.77382843,
+      "delta_z": -16.47431374,
+      "max_z": 17.62999988,
+      "min_z": 0.706886,
+      "height_range": 16.92311388,
+      "y_range": 16.08901251,
+      "avg_step_distance": 0.6713543664131301
+    },
+    {
+      "file": "0f3eb0c86c14_Mental City Prt2 _2.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/0f3eb0c86c14_Mental City Prt2 _2.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/0f3eb0c86c14_Mental City Prt2 _2.rpl",
+      "fightname": "Mental City Prt2 #2",
+      "mod": "parkour_city_prt2.tbm",
+      "frames": 184,
+      "tracked_positions": 184,
+      "first_frame": 0,
+      "last_frame": 2496,
+      "start_pos": [
+        4.0,
+        23.90000004,
+        15.18500013
+      ],
+      "end_pos": [
+        -1.18295814,
+        -23.65027141,
+        4.19081497
+      ],
+      "displacement_3d": 49.079155222783136,
+      "path_length_3d": 106.26553088448803,
+      "delta_y": -47.55027145,
+      "delta_z": -10.99418516,
+      "max_z": 19.06417928,
+      "min_z": 2.35047705,
+      "height_range": 16.713702230000003,
+      "y_range": 48.656283189999996,
+      "avg_step_distance": 0.580685961117421
+    },
+    {
+      "file": "e38b36208c91_parkour.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e38b36208c91_parkour.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e38b36208c91_parkour.rpl",
+      "fightname": "parkour",
+      "mod": "eduardo_free_run.tbm",
+      "frames": 137,
+      "tracked_positions": 137,
+      "first_frame": 0,
+      "last_frame": 1450,
+      "start_pos": [
+        3.0,
+        4.90000004,
+        17.58999991
+      ],
+      "end_pos": [
+        -3.11205877,
+        -29.43510306,
+        1.90888118
+      ],
+      "displacement_3d": 38.238123017741344,
+      "path_length_3d": 58.87474506973215,
+      "delta_y": -34.3351031,
+      "delta_z": -15.68111873,
+      "max_z": 17.77976812,
+      "min_z": 1.13791572,
+      "height_range": 16.6418524,
+      "y_range": 34.3351031,
+      "avg_step_distance": 0.43290253727744227
+    },
+    {
+      "file": "839c8854c724_killin_ dat parkour with kill.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/839c8854c724_killin_ dat parkour with kill.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/839c8854c724_killin_ dat parkour with kill.rpl",
+      "fightname": "killin' dat parkour with kill",
+      "mod": "eduardo_free_run.tbm",
+      "frames": 122,
+      "tracked_positions": 122,
+      "first_frame": 0,
+      "last_frame": 1207,
+      "start_pos": [
+        3.0,
+        4.90000004,
+        17.58999991
+      ],
+      "end_pos": [
+        -2.33937927,
+        -25.82060453,
+        1.0761288
+      ],
+      "displacement_3d": 35.28416720248479,
+      "path_length_3d": 54.445115781618235,
+      "delta_y": -30.72060457,
+      "delta_z": -16.51387111,
+      "max_z": 17.58999991,
+      "min_z": 1.0761288,
+      "height_range": 16.51387111,
+      "y_range": 30.72060457,
+      "avg_step_distance": 0.44995963455882837
+    },
+    {
+      "file": "a147cae2b115_My n00b Parkour .json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/a147cae2b115_My n00b Parkour .json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/a147cae2b115_My n00b Parkour .rpl",
+      "fightname": "My n00b Parkour",
+      "mod": "/eduardo_free_run.tbm",
+      "frames": 104,
+      "tracked_positions": 104,
+      "first_frame": 0,
+      "last_frame": 1550,
+      "start_pos": [
+        3.0,
+        4.90000004,
+        17.58999991
+      ],
+      "end_pos": [
+        -0.87564176,
+        -27.80992582,
+        2.26883921
+      ],
+      "displacement_3d": 36.327645313366745,
+      "path_length_3d": 51.315887139076885,
+      "delta_y": -32.70992586,
+      "delta_z": -15.3211607,
+      "max_z": 17.58999991,
+      "min_z": 1.11242056,
+      "height_range": 16.47757935,
+      "y_range": 32.87624106,
+      "avg_step_distance": 0.49821249649589205
+    },
+    {
+      "file": "abdc88fd7eb5_sensei-eduardo-fr.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/abdc88fd7eb5_sensei-eduardo-fr.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/abdc88fd7eb5_sensei-eduardo-fr.rpl",
+      "fightname": "sensei-eduardo-fr",
+      "mod": "eduardo_free_run.tbm",
+      "frames": 74,
+      "tracked_positions": 74,
+      "first_frame": 0,
+      "last_frame": 1989,
+      "start_pos": [
+        3.0,
+        4.90000004,
+        17.60000009
+      ],
+      "end_pos": [
+        -0.37087108,
+        -32.4959666,
+        3.16420911
+      ],
+      "displacement_3d": 40.22702019782503,
+      "path_length_3d": 62.443761576483894,
+      "delta_y": -37.395966640000005,
+      "delta_z": -14.435790980000002,
+      "max_z": 17.60000009,
+      "min_z": 1.37620283,
+      "height_range": 16.22379726,
+      "y_range": 37.59954804,
+      "avg_step_distance": 0.8553939941984096
+    }
+  ],
+  "longest_replays": [
+    {
+      "file": "e2b7c66bbf02_[Collaberation] Parkour Trials.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e2b7c66bbf02_[Collaberation] Parkour Trials.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e2b7c66bbf02_[Collaberation] Parkour Trials.rpl",
+      "fightname": "[Collaberation] Parkour Trials",
+      "mod": "parkour_trials.tbm",
+      "frames": 1014,
+      "tracked_positions": 1014,
+      "first_frame": 0,
+      "last_frame": 3139,
+      "start_pos": [
+        1.0,
+        -0.09999996,
+        12.53999972
+      ],
+      "end_pos": [
+        117.25421442,
+        -1.28785696,
+        16.60288849
+      ],
+      "displacement_3d": 116.33125306563656,
+      "path_length_3d": 143.70716791381167,
+      "delta_y": -1.1878570000000002,
+      "delta_z": 4.062888770000001,
+      "max_z": 22.62560839,
+      "min_z": 10.9422769,
+      "height_range": 11.68333149,
+      "y_range": 3.60131172,
+      "avg_step_distance": 0.14186294956940937
+    },
+    {
+      "file": "80c4693463f7_Karbn- run away v7.5.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/80c4693463f7_Karbn- run away v7.5.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/80c4693463f7_Karbn- run away v7.5.rpl",
+      "fightname": "Karbn- run away v7.5",
+      "mod": "mirrors_edge_drain_escape.tbm",
+      "frames": 971,
+      "tracked_positions": 971,
+      "first_frame": 0,
+      "last_frame": 2340,
+      "start_pos": [
+        1.00000004,
+        10.87312747,
+        5.01188434
+      ],
+      "end_pos": [
+        0.56428956,
+        -11.05920427,
+        20.76947007
+      ],
+      "displacement_3d": 27.009600648919136,
+      "path_length_3d": 103.70701112615009,
+      "delta_y": -21.932331740000002,
+      "delta_z": 15.75758573,
+      "max_z": 20.89230728,
+      "min_z": 3.17708228,
+      "height_range": 17.715225,
+      "y_range": 22.40601119,
+      "avg_step_distance": 0.10691444445994855
+    },
+    {
+      "file": "b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.rpl",
+      "fightname": "bitch im gold shinning brighter than the mother fucking sun",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 755,
+      "tracked_positions": 755,
+      "first_frame": 0,
+      "last_frame": 4250,
+      "start_pos": [
+        -11.0,
+        -4.09999996,
+        69.18999648
+      ],
+      "end_pos": [
+        2.12007537,
+        -151.60495284,
+        38.19424588
+      ],
+      "displacement_3d": 151.2963451544779,
+      "path_length_3d": 215.3415693849589,
+      "delta_y": -147.50495288000002,
+      "delta_z": -30.995750600000008,
+      "max_z": 69.48193655,
+      "min_z": 37.87984642,
+      "height_range": 31.60209013,
+      "y_range": 147.69231271,
+      "avg_step_distance": 0.28559889838853963
+    },
+    {
+      "file": "05e5c92102ae_Swex- Divine.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/05e5c92102ae_Swex- Divine.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/05e5c92102ae_Swex- Divine.rpl",
+      "fightname": "Swex- Divine",
+      "mod": "raid_challenge.tbm",
+      "frames": 649,
+      "tracked_positions": 2,
+      "first_frame": 0,
+      "last_frame": 237,
+      "start_pos": [
+        2.45000005,
+        0.90000004,
+        13.08999987
+      ],
+      "end_pos": [
+        2.44999985,
+        0.0692658,
+        12.75161809
+      ],
+      "displacement_3d": 0.8970070270317766,
+      "path_length_3d": 0.8970070270317766,
+      "delta_y": -0.83073424,
+      "delta_z": -0.33838178000000063,
+      "max_z": 13.08999987,
+      "min_z": 12.75161809,
+      "height_range": 0.33838178000000063,
+      "y_range": 0.83073424,
+      "avg_step_distance": 0.8970070270317766
+    },
+    {
+      "file": "c5e28f6c1027_TN - PARKOUR LOCO DEMORO MUITO.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/c5e28f6c1027_TN - PARKOUR LOCO DEMORO MUITO.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/c5e28f6c1027_TN - PARKOUR LOCO DEMORO MUITO.rpl",
+      "fightname": "TN - PARKOUR LOCO DEMORO MUITO",
+      "mod": "raid_challenge.tbm",
+      "frames": 649,
+      "tracked_positions": 2,
+      "first_frame": 0,
+      "last_frame": 237,
+      "start_pos": [
+        2.45000005,
+        0.90000004,
+        13.08999987
+      ],
+      "end_pos": [
+        2.44999985,
+        0.0692658,
+        12.75161809
+      ],
+      "displacement_3d": 0.8970070270317766,
+      "path_length_3d": 0.8970070270317766,
+      "delta_y": -0.83073424,
+      "delta_z": -0.33838178000000063,
+      "max_z": 13.08999987,
+      "min_z": 12.75161809,
+      "height_range": 0.33838178000000063,
+      "y_range": 0.83073424,
+      "avg_step_distance": 0.8970070270317766
+    },
+    {
+      "file": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/473cf7addf85_Mirrors edge parkour - Tedster789 v4.rpl",
+      "fightname": "Mirrors edge parkour - Tedster789 v4",
+      "mod": "/parkour_mirrors_edge.tbm",
+      "frames": 632,
+      "tracked_positions": 632,
+      "first_frame": 0,
+      "last_frame": 2789,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -0.30071035,
+        -102.91925973,
+        43.73022536
+      ],
+      "displacement_3d": 101.59363974465383,
+      "path_length_3d": 128.93452329452117,
+      "delta_y": -99.81925976999999,
+      "delta_z": -18.85977646,
+      "max_z": 64.55722583,
+      "min_z": 43.10270835,
+      "height_range": 21.454517479999993,
+      "y_range": 99.93001919999999,
+      "avg_step_distance": 0.2043336343811746
+    },
+    {
+      "file": "b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/b87266ce6093_Parkour_Reptile-da-Runnin-V1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/b87266ce6093_Parkour_Reptile-da-Runnin-V1.rpl",
+      "fightname": "Parkour_Reptile-da-Runnin-V1",
+      "mod": "parkour_mirrors_edge.tbm",
+      "frames": 569,
+      "tracked_positions": 569,
+      "first_frame": 0,
+      "last_frame": 3642,
+      "start_pos": [
+        1.0,
+        -3.09999996,
+        62.59000182
+      ],
+      "end_pos": [
+        -4.25958094,
+        -152.61172173,
+        43.68586066
+      ],
+      "displacement_3d": 150.7938483204521,
+      "path_length_3d": 188.15893780465296,
+      "delta_y": -149.51172177,
+      "delta_z": -18.904141159999995,
+      "max_z": 64.92846599,
+      "min_z": 42.30773098,
+      "height_range": 22.620735010000004,
+      "y_range": 149.65986338000002,
+      "avg_step_distance": 0.33126573557157213
+    },
+    {
+      "file": "d48584e2c530_raid challenge.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/d48584e2c530_raid challenge.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/d48584e2c530_raid challenge.rpl",
+      "fightname": "raid challenge",
+      "mod": "raid_challenge.tbm",
+      "frames": 530,
+      "tracked_positions": 530,
+      "first_frame": 0,
+      "last_frame": 2646,
+      "start_pos": [
+        2.45000005,
+        0.90000004,
+        13.07999969
+      ],
+      "end_pos": [
+        24.10655852,
+        -40.61864419,
+        10.90330126
+      ],
+      "displacement_3d": 46.87795174191174,
+      "path_length_3d": 117.12973101562308,
+      "delta_y": -41.51864423,
+      "delta_z": -2.17669843,
+      "max_z": 16.20416039,
+      "min_z": 8.63787939,
+      "height_range": 7.566280999999998,
+      "y_range": 43.30715347,
+      "avg_step_distance": 0.22141726089909844
+    },
+    {
+      "file": "568073207673_[P - A] mountain parkour final.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/568073207673_[P - A] mountain parkour final.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/568073207673_[P - A] mountain parkour final.rpl",
+      "fightname": "[P - A] mountain parkour final",
+      "mod": "Parkour/Nature/leonekmountainpk.tbm",
+      "frames": 524,
+      "tracked_positions": 524,
+      "first_frame": 0,
+      "last_frame": 2413,
+      "start_pos": [
+        1.0,
+        -0.09999996,
+        16.58999991
+      ],
+      "end_pos": [
+        -30.03408209,
+        7.67065721,
+        6.86105926
+      ],
+      "displacement_3d": 33.4387447460839,
+      "path_length_3d": 115.22386495617492,
+      "delta_y": 7.77065717,
+      "delta_z": -9.728940649999998,
+      "max_z": 18.92199035,
+      "min_z": 3.55938963,
+      "height_range": 15.362600720000001,
+      "y_range": 36.90601494,
+      "avg_step_distance": 0.22031331731582202
+    },
+    {
+      "file": "8416049ae3d4_[P] - A small cage.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/8416049ae3d4_[P] - A small cage.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/8416049ae3d4_[P] - A small cage.rpl",
+      "fightname": "[P] - A small cage",
+      "mod": "Parkour_karbn_closequarters.tbm",
+      "frames": 482,
+      "tracked_positions": 481,
+      "first_frame": 10,
+      "last_frame": 1976,
+      "start_pos": [
+        1.49999998,
+        22.88778017,
+        23.73155239
+      ],
+      "end_pos": [
+        1.11129843,
+        -2.71095668,
+        10.42311206
+      ],
+      "displacement_3d": 28.854133174082545,
+      "path_length_3d": 86.69731502204762,
+      "delta_y": -25.598736849999998,
+      "delta_z": -13.308440330000002,
+      "max_z": 23.73155239,
+      "min_z": 8.65529946,
+      "height_range": 15.07625293,
+      "y_range": 33.62523982,
+      "avg_step_distance": 0.18061940629593254
+    },
+    {
+      "file": "1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/1c0f6c5f684b_The Kurr Of Treasure-hunting.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/1c0f6c5f684b_The Kurr Of Treasure-hunting.rpl",
+      "fightname": "The Kurr Of Treasure-hunting",
+      "mod": "raid_the_tomb.tbm",
+      "frames": 474,
+      "tracked_positions": 474,
+      "first_frame": 0,
+      "last_frame": 1456,
+      "start_pos": [
+        0.0,
+        -0.09999996,
+        13.07999969
+      ],
+      "end_pos": [
+        1.28563086,
+        -57.04313264,
+        13.10030269
+      ],
+      "displacement_3d": 56.95764758425402,
+      "path_length_3d": 69.39057420958743,
+      "delta_y": -56.943132680000005,
+      "delta_z": 0.020303000000000182,
+      "max_z": 15.94269888,
+      "min_z": 11.75679567,
+      "height_range": 4.185903209999999,
+      "y_range": 57.04444643,
+      "avg_step_distance": 0.14670311672217215
+    },
+    {
+      "file": "ec4ffec2b98a_pklife sucks.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/ec4ffec2b98a_pklife sucks.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/ec4ffec2b98a_pklife sucks.rpl",
+      "fightname": "pklife sucks",
+      "mod": "tr_parkour_city_a_remake.tbm",
+      "frames": 467,
+      "tracked_positions": 76,
+      "first_frame": 0,
+      "last_frame": 470,
+      "start_pos": [
+        6.5,
+        -1.09999996,
+        18.58999991
+      ],
+      "end_pos": [
+        3.124931,
+        -12.129184,
+        13.066977
+      ],
+      "displacement_3d": 12.788188824354158,
+      "path_length_3d": 20.179771928323657,
+      "delta_y": -11.02918404,
+      "delta_z": -5.52302291,
+      "max_z": 19.077075,
+      "min_z": 13.066977,
+      "height_range": 6.010098000000001,
+      "y_range": 11.02918404,
+      "avg_step_distance": 0.2690636257109821
+    },
+    {
+      "file": "44c8e635e316_[P] - Oxygen1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/44c8e635e316_[P] - Oxygen1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/44c8e635e316_[P] - Oxygen1.rpl",
+      "fightname": "[P] - Oxygen1",
+      "mod": "parkour_master_a.tbm",
+      "frames": 462,
+      "tracked_positions": 462,
+      "first_frame": 0,
+      "last_frame": 2487,
+      "start_pos": [
+        4.9000001,
+        1.10000008,
+        19.54000068
+      ],
+      "end_pos": [
+        -24.49410516,
+        4.69557141,
+        15.87875956
+      ],
+      "displacement_3d": 29.838670274726663,
+      "path_length_3d": 114.81539426271972,
+      "delta_y": 3.5955713300000003,
+      "delta_z": -3.661241119999998,
+      "max_z": 24.32550514,
+      "min_z": 14.3613534,
+      "height_range": 9.96415174,
+      "y_range": 34.51057344,
+      "avg_step_distance": 0.24905725436598639
+    },
+    {
+      "file": "db6b810a6364_[Legendary].json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/db6b810a6364_[Legendary].json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/db6b810a6364_[Legendary].rpl",
+      "fightname": "[Legendary]",
+      "mod": "noah_rooftop_parkour_fixed.tbm",
+      "frames": 445,
+      "tracked_positions": 445,
+      "first_frame": 0,
+      "last_frame": 1908,
+      "start_pos": [
+        8.0,
+        -0.09999996,
+        13.58999991
+      ],
+      "end_pos": [
+        8.18442018,
+        -5.89203289,
+        12.98035757
+      ],
+      "displacement_3d": 5.826947747124244,
+      "path_length_3d": 82.58895791973778,
+      "delta_y": -5.79203293,
+      "delta_z": -0.6096423399999988,
+      "max_z": 13.58999991,
+      "min_z": 8.19558564,
+      "height_range": 5.39441427,
+      "y_range": 31.151894619999997,
+      "avg_step_distance": 0.1860111664858959
+    },
+    {
+      "file": "34e22f5f26f7_Parkour _3 - Freestyle Parkour Park (v0.2).json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/34e22f5f26f7_Parkour _3 - Freestyle Parkour Park (v0.2).json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/34e22f5f26f7_Parkour _3 - Freestyle Parkour Park (v0.2).rpl",
+      "fightname": "Parkour #3 - Freestyle Parkour Park (v0.2)",
+      "mod": "freestyleparkourpark_fix.tbm",
+      "frames": 444,
+      "tracked_positions": 444,
+      "first_frame": 0,
+      "last_frame": 2058,
+      "start_pos": [
+        7.5999999,
+        -1.09999996,
+        12.23000026
+      ],
+      "end_pos": [
+        29.03028396,
+        -44.36260881,
+        2.33580018
+      ],
+      "displacement_3d": 49.28291382034407,
+      "path_length_3d": 89.62468465797446,
+      "delta_y": -43.26260885,
+      "delta_z": -9.894200080000001,
+      "max_z": 12.23000026,
+      "min_z": 0.69391188,
+      "height_range": 11.53608838,
+      "y_range": 43.26260885,
+      "avg_step_distance": 0.20231305791867824
+    },
+    {
+      "file": "c3a9d8a12a84_parkourtabby.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/c3a9d8a12a84_parkourtabby.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/c3a9d8a12a84_parkourtabby.rpl",
+      "fightname": "parkourtabby",
+      "mod": "parkour_city_a.tbm",
+      "frames": 420,
+      "tracked_positions": 419,
+      "first_frame": 10,
+      "last_frame": 1548,
+      "start_pos": [
+        2.99999999,
+        -5.11079446,
+        18.55756442
+      ],
+      "end_pos": [
+        -25.5208501,
+        -17.02559461,
+        19.23315449
+      ],
+      "displacement_3d": 30.91694962982887,
+      "path_length_3d": 69.36216386318657,
+      "delta_y": -11.914800149999998,
+      "delta_z": 0.6755900700000019,
+      "max_z": 23.6906778,
+      "min_z": 16.84024656,
+      "height_range": 6.850431239999999,
+      "y_range": 19.63259646,
+      "avg_step_distance": 0.16593819106025495
+    },
+    {
+      "file": "6bc9bc038254_Victor- Unbalanced.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/6bc9bc038254_Victor- Unbalanced.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/6bc9bc038254_Victor- Unbalanced.rpl",
+      "fightname": "Victor- Unbalanced",
+      "mod": "mat_mirrors_edge1_v3.tbm",
+      "frames": 413,
+      "tracked_positions": 413,
+      "first_frame": 0,
+      "last_frame": 2453,
+      "start_pos": [
+        1.0,
+        -6.09999996,
+        22.58999991
+      ],
+      "end_pos": [
+        41.18846589,
+        43.40154189,
+        1.4739944
+      ],
+      "displacement_3d": 67.16696453478708,
+      "path_length_3d": 117.27592402674262,
+      "delta_y": 49.501541849999995,
+      "delta_z": -21.11600551,
+      "max_z": 23.03882724,
+      "min_z": 0.74013977,
+      "height_range": 22.29868747,
+      "y_range": 49.501541849999995,
+      "avg_step_distance": 0.28465030103578304
+    },
+    {
+      "file": "c60f9e6a4787_[P - A] rooftop parkour final.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/c60f9e6a4787_[P - A] rooftop parkour final.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/c60f9e6a4787_[P - A] rooftop parkour final.rpl",
+      "fightname": "[P - A] rooftop parkour final",
+      "mod": "Parkour/Urban_Structure/DatChilled_RooftopParkour.tbm",
+      "frames": 400,
+      "tracked_positions": 400,
+      "first_frame": 0,
+      "last_frame": 1965,
+      "start_pos": [
+        2.5,
+        -3.09999996,
+        12.58999991
+      ],
+      "end_pos": [
+        4.40099842,
+        -63.4423723,
+        3.46928604
+      ],
+      "displacement_3d": 61.057375607787556,
+      "path_length_3d": 84.98476034393525,
+      "delta_y": -60.342372340000004,
+      "delta_z": -9.12071387,
+      "max_z": 13.47492863,
+      "min_z": 3.46928604,
+      "height_range": 10.00564259,
+      "y_range": 60.34566014,
+      "avg_step_distance": 0.21299438682690539
+    },
+    {
+      "file": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/e0d8b741532a_Parkour _12 - Parkour City A.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/e0d8b741532a_Parkour _12 - Parkour City A.rpl",
+      "fightname": "Parkour #12 - Parkour City A",
+      "mod": "parkour_city_a.tbm",
+      "frames": 398,
+      "tracked_positions": 398,
+      "first_frame": 0,
+      "last_frame": 1757,
+      "start_pos": [
+        5.0,
+        -5.09999996,
+        18.58999991
+      ],
+      "end_pos": [
+        -15.41917621,
+        -18.91530306,
+        15.89309017
+      ],
+      "displacement_3d": 24.800779805998165,
+      "path_length_3d": 74.03619229655125,
+      "delta_y": -13.8153031,
+      "delta_z": -2.696909739999999,
+      "max_z": 23.94163767,
+      "min_z": 14.33104056,
+      "height_range": 9.610597109999999,
+      "y_range": 19.507296269999998,
+      "avg_step_distance": 0.18648914936159006
+    },
+    {
+      "file": "3c31521944d4_Chazer - Mp Parkour 1.json",
+      "json_path": "/home/vio/Documents/ToribashAI/datasets/parkour_json/3c31521944d4_Chazer - Mp Parkour 1.json",
+      "rpl_path": "/home/vio/Documents/ToribashAI/replays_raw/parkour_candidate/3c31521944d4_Chazer - Mp Parkour 1.rpl",
+      "fightname": "Chazer - Mp Parkour 1",
+      "mod": "parkour_suburb_maguu.tbm",
+      "frames": 396,
+      "tracked_positions": 396,
+      "first_frame": 0,
+      "last_frame": 1995,
+      "start_pos": [
+        3.0,
+        -0.09999996,
+        32.58999991
+      ],
+      "end_pos": [
+        -2.77365,
+        -45.712714,
+        12.976388
+      ],
+      "displacement_3d": 49.98548277823679,
+      "path_length_3d": 93.91015385700453,
+      "delta_y": -45.61271404,
+      "delta_z": -19.613611910000003,
+      "max_z": 32.58999991,
+      "min_z": 12.976388,
+      "height_range": 19.613611910000003,
+      "y_range": 46.353093040000005,
+      "avg_step_distance": 0.23774722495444187
+    }
+  ]
+}

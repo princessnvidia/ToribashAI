@@ -1,0 +1,337 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_01_00e9325d61e9_p_karbn_mirrors_edge_pk_v9_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=105
+JOINT 0; 4 4
+JOINT 0; 5 3
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 3
+JOINT 0; 17 3
+
+FRAME 5;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=111
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 10;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=115
+JOINT 0; 2 1
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 18 1
+
+FRAME 15;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=120
+JOINT 0; 2 3
+JOINT 0; 5 3
+JOINT 0; 8 2
+
+FRAME 20;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=125
+JOINT 0; 5 3
+JOINT 0; 8 4
+JOINT 0; 14 4
+
+FRAME 25;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=130
+JOINT 0; 14 3
+JOINT 0; 16 1
+
+FRAME 30;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=132
+JOINT 0; 14 3
+JOINT 0; 16 1
+
+FRAME 35;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=134
+JOINT 0; 7 4
+JOINT 0; 12 1
+JOINT 0; 13 1
+JOINT 0; 14 2
+JOINT 0; 15 4
+JOINT 0; 16 4
+
+FRAME 40;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=137
+JOINT 0; 12 2
+
+FRAME 45;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=138
+JOINT 0; 13 2
+JOINT 0; 15 1
+
+FRAME 50;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=141
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 14 3
+JOINT 0; 16 3
+
+FRAME 55;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=143
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 8 1
+JOINT 0; 14 2
+JOINT 0; 16 3
+
+FRAME 60;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=147
+JOINT 0; 14 3
+JOINT 0; 15 3
+
+FRAME 65;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=152
+JOINT 0; 12 2
+JOINT 0; 13 2
+JOINT 0; 14 2
+JOINT 0; 15 1
+
+FRAME 70;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=154
+JOINT 0; 12 3
+JOINT 0; 13 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+
+FRAME 75;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=156
+JOINT 0; 13 2
+
+FRAME 80;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=158
+JOINT 0; 13 3
+JOINT 0; 15 4
+
+FRAME 85;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=168
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 90;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=169
+JOINT 0; 4 4
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 17 1
+JOINT 0; 18 4
+
+FRAME 95;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=170
+JOINT 0; 15 3
+
+FRAME 100;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=172
+JOINT 0; 2 2
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 13 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+
+FRAME 105;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=174
+JOINT 0; 4 3
+JOINT 0; 7 3
+JOINT 0; 13 3
+JOINT 0; 17 4
+JOINT 0; 19 3
+
+FRAME 110;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=179
+JOINT 0; 2 3
+JOINT 0; 4 1
+JOINT 0; 5 3
+JOINT 0; 7 2
+JOINT 0; 16 3
+JOINT 0; 17 3
+JOINT 0; 18 1
+
+FRAME 115;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=189
+JOINT 0; 12 1
+JOINT 0; 14 1
+
+FRAME 120;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=192
+JOINT 0; 12 3
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 17 4
+
+FRAME 125;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=195
+JOINT 0; 12 1
+JOINT 0; 14 2
+
+FRAME 130;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=196
+JOINT 0; 2 1
+JOINT 0; 4 4
+JOINT 0; 5 1
+JOINT 0; 7 4
+JOINT 0; 13 3
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 135;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=200
+JOINT 0; 2 3
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 12 2
+JOINT 0; 13 1
+JOINT 0; 16 3
+JOINT 0; 18 2
+JOINT 0; 19 1
+
+FRAME 140;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=201
+JOINT 0; 2 2
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 145;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=203
+JOINT 0; 2 3
+JOINT 0; 5 4
+JOINT 0; 8 1
+JOINT 0; 17 4
+
+FRAME 150;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=208
+JOINT 0; 15 1
+
+FRAME 155;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=213
+JOINT 0; 5 4
+JOINT 0; 8 4
+JOINT 0; 15 1
+
+FRAME 160;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=219
+JOINT 0; 15 3
+
+FRAME 165;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=221
+JOINT 0; 15 1
+JOINT 0; 17 4
+
+FRAME 170;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=222
+JOINT 0; 15 3
+JOINT 0; 17 1
+
+FRAME 175;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=224
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 16 4
+JOINT 0; 17 1
+
+FRAME 180;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=230
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 7 2
+JOINT 0; 12 2
+JOINT 0; 17 4
+
+FRAME 185;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=232
+JOINT 0; 5 3
+JOINT 0; 13 1
+JOINT 0; 19 4
+
+FRAME 190;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=234
+JOINT 0; 2 2
+
+FRAME 195;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=236
+JOINT 0; 2 3
+JOINT 0; 13 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+JOINT 0; 18 4
+JOINT 0; 19 4
+
+FRAME 200;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=239
+JOINT 0; 3 3
+JOINT 0; 5 3
+JOINT 0; 6 3
+JOINT 0; 8 4
+JOINT 0; 9 3
+JOINT 0; 17 4
+JOINT 0; 19 2
+
+FRAME 205;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=243
+JOINT 0; 0 4
+JOINT 0; 2 2
+JOINT 0; 3 1
+JOINT 0; 12 2
+JOINT 0; 14 1
+JOINT 0; 16 4
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 210;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=248
+JOINT 0; 4 3
+JOINT 0; 7 3
+JOINT 0; 12 1
+
+FRAME 215;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=253
+JOINT 0; 12 3
+JOINT 0; 14 3
+JOINT 0; 15 1
+JOINT 0; 17 1
+
+FRAME 220;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=256
+JOINT 0; 1 1
+JOINT 0; 2 1
+JOINT 0; 4 1
+JOINT 0; 5 3
+JOINT 0; 6 4
+JOINT 0; 7 4
+JOINT 0; 9 4
+JOINT 0; 12 1
+JOINT 0; 14 3
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 17 4
+
+FRAME 225;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=257
+JOINT 0; 1 3
+JOINT 0; 14 3
+JOINT 0; 15 4
+
+FRAME 230;
+# source=00e9325d61e9_[p] karbn - mirrors edge pk v9.json target=259
+JOINT 0; 14 3

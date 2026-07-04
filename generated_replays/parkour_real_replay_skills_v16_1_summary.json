@@ -1,0 +1,557 @@
+{
+  "version": "16.1",
+  "replays": 343,
+  "errors": 0,
+  "raw_skill_count": 53326,
+  "kept_skill_count": 800,
+  "categories": {
+    "stand": 140,
+    "recover": 160,
+    "forward_impulse": 180,
+    "walk_step": 200,
+    "acro": 80,
+    "backward_bad": 40
+  },
+  "top_by_category": {
+    "acro": [
+      {
+        "id": 680,
+        "score": 182.5536,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2173,
+        "end_frame": 2478,
+        "dx": -1.265,
+        "dy": -17.496,
+        "head_min_z": 46.821,
+        "signature": "5-1-4-6-9-8-15-17"
+      },
+      {
+        "id": 681,
+        "score": 179.892,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2167,
+        "end_frame": 2468,
+        "dx": -1.308,
+        "dy": -17.195,
+        "head_min_z": 46.982,
+        "signature": "4-15-13-14-6-9-5-8"
+      },
+      {
+        "id": 682,
+        "score": 177.5567,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2173,
+        "end_frame": 2468,
+        "dx": -1.249,
+        "dy": -16.84,
+        "head_min_z": 46.982,
+        "signature": "4-6-9-5-8-1-15-17"
+      },
+      {
+        "id": 683,
+        "score": 177.1643,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2162,
+        "end_frame": 2458,
+        "dx": -1.343,
+        "dy": -16.886,
+        "head_min_z": 47.025,
+        "signature": "13-15-4-12-14-6-9-0"
+      },
+      {
+        "id": 684,
+        "score": 175.5302,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2173,
+        "end_frame": 2463,
+        "dx": -1.237,
+        "dy": -16.537,
+        "head_min_z": 46.991,
+        "signature": "6-9-4-17-5-8-1-15"
+      },
+      {
+        "id": 685,
+        "score": 172.2353,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2167,
+        "end_frame": 2458,
+        "dx": -1.249,
+        "dy": -16.599,
+        "head_min_z": 47.025,
+        "signature": "4-13-15-6-9-12-14-17"
+      },
+      {
+        "id": 686,
+        "score": 172.1072,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2167,
+        "end_frame": 2453,
+        "dx": -1.206,
+        "dy": -16.311,
+        "head_min_z": 47.143,
+        "signature": "4-13-15-12-14-17-6-9"
+      },
+      {
+        "id": 687,
+        "score": 169.9467,
+        "replay_name": "473cf7addf85_Mirrors edge parkour - Tedster789 v4.json",
+        "start_frame": 2173,
+        "end_frame": 2458,
+        "dx": -1.19,
+        "dy": -16.244,
+        "head_min_z": 47.025,
+        "signature": "6-9-4-17-5-8"
+      }
+    ],
+    "backward_bad": [
+      {
+        "id": 760,
+        "score": 69.3276,
+        "replay_name": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+        "start_frame": 804,
+        "end_frame": 929,
+        "dx": -7.433,
+        "dy": 0.717,
+        "head_min_z": 22.225,
+        "signature": "15-3-14-13-19-12-16-1"
+      },
+      {
+        "id": 761,
+        "score": 64.7596,
+        "replay_name": "e4b3d8fc55ce_parkour city a.json",
+        "start_frame": 943,
+        "end_frame": 1126,
+        "dx": -8.476,
+        "dy": 0.414,
+        "head_min_z": 22.572,
+        "signature": "6-5-13-14-15-9-12-4"
+      },
+      {
+        "id": 762,
+        "score": 62.0089,
+        "replay_name": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+        "start_frame": 844,
+        "end_frame": 949,
+        "dx": -6.701,
+        "dy": 0.509,
+        "head_min_z": 22.004,
+        "signature": "15-3-14-12-13-16-8-1"
+      },
+      {
+        "id": 763,
+        "score": 59.5905,
+        "replay_name": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+        "start_frame": 857,
+        "end_frame": 956,
+        "dx": -6.459,
+        "dy": 0.474,
+        "head_min_z": 21.891,
+        "signature": "15-3-12-13-14-17-16-8"
+      },
+      {
+        "id": 764,
+        "score": 55.6157,
+        "replay_name": "e4b3d8fc55ce_parkour city a.json",
+        "start_frame": 927,
+        "end_frame": 1081,
+        "dx": -6.312,
+        "dy": -0.167,
+        "head_min_z": 23.301,
+        "signature": "6-5-14-15-4-9-10-11"
+      },
+      {
+        "id": 765,
+        "score": 54.5939,
+        "replay_name": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+        "start_frame": 857,
+        "end_frame": 949,
+        "dx": -5.959,
+        "dy": 0.436,
+        "head_min_z": 22.004,
+        "signature": "15-3-12-13-14-16-8-1"
+      },
+      {
+        "id": 766,
+        "score": 53.2051,
+        "replay_name": "e4b3d8fc55ce_parkour city a.json",
+        "start_frame": 943,
+        "end_frame": 1081,
+        "dx": -5.771,
+        "dy": -0.02,
+        "head_min_z": 23.301,
+        "signature": "6-5-14-15-4-9-10-11"
+      },
+      {
+        "id": 767,
+        "score": 52.4029,
+        "replay_name": "87134fc30e8c_pakourxioi.json",
+        "start_frame": 939,
+        "end_frame": 1029,
+        "dx": -6.79,
+        "dy": 1.759,
+        "head_min_z": 21.3,
+        "signature": "2-0-5-6-8-9-3-14"
+      }
+    ],
+    "forward_impulse": [
+      {
+        "id": 300,
+        "score": 478.4741,
+        "replay_name": "44718e28af06_FreeRun.json",
+        "start_frame": 1670,
+        "end_frame": 1950,
+        "dx": 11.3,
+        "dy": 1.479,
+        "head_min_z": 8.769,
+        "signature": "15-16-17-1-5-13-14-0"
+      },
+      {
+        "id": 301,
+        "score": 467.3175,
+        "replay_name": "44718e28af06_FreeRun.json",
+        "start_frame": 1560,
+        "end_frame": 1870,
+        "dx": 10.961,
+        "dy": 1.156,
+        "head_min_z": 8.859,
+        "signature": "15-16-17-1-5-13-14-0"
+      },
+      {
+        "id": 302,
+        "score": 402.5067,
+        "replay_name": "44718e28af06_FreeRun.json",
+        "start_frame": 1770,
+        "end_frame": 1984,
+        "dx": 9.468,
+        "dy": 1.9,
+        "head_min_z": 8.769,
+        "signature": "15-16-17-1-12-13-14-0"
+      },
+      {
+        "id": 303,
+        "score": 383.1693,
+        "replay_name": "44718e28af06_FreeRun.json",
+        "start_frame": 1670,
+        "end_frame": 1870,
+        "dx": 9.384,
+        "dy": 0.107,
+        "head_min_z": 8.859,
+        "signature": "15-16-17-1-5-13-14-0"
+      },
+      {
+        "id": 304,
+        "score": 360.5298,
+        "replay_name": "44718e28af06_FreeRun.json",
+        "start_frame": 1770,
+        "end_frame": 1950,
+        "dx": 8.693,
+        "dy": 1.594,
+        "head_min_z": 8.769,
+        "signature": "15-16-17-0-1-2-3-4"
+      },
+      {
+        "id": 305,
+        "score": 335.2666,
+        "replay_name": "ce5bc4423c3d_yaya i suck blahblah btw im rasmus0813.json",
+        "start_frame": 3350,
+        "end_frame": 3550,
+        "dx": 7.593,
+        "dy": 0.406,
+        "head_min_z": 8.894,
+        "signature": "5-8-14-17-7-15-6-1"
+      },
+      {
+        "id": 306,
+        "score": 316.7532,
+        "replay_name": "ce5bc4423c3d_yaya i suck blahblah btw im rasmus0813.json",
+        "start_frame": 3350,
+        "end_frame": 3486,
+        "dx": 7.258,
+        "dy": 0.623,
+        "head_min_z": 9.415,
+        "signature": "5-17-8-14-6-1-15-7"
+      },
+      {
+        "id": 307,
+        "score": 315.8665,
+        "replay_name": "cf4bcafa2486_did it__.json",
+        "start_frame": 1226,
+        "end_frame": 1306,
+        "dx": 6.713,
+        "dy": 0.341,
+        "head_min_z": 9.37,
+        "signature": "16-8-12-15-17-5-7-13"
+      }
+    ],
+    "recover": [
+      {
+        "id": 140,
+        "score": 255.9685,
+        "replay_name": "8d2491d426c8_Fatul- Champz.json",
+        "start_frame": 1668,
+        "end_frame": 1744,
+        "dx": -0.427,
+        "dy": -0.834,
+        "head_min_z": 94.516,
+        "signature": "5-15-17-13-6-1-7-12"
+      },
+      {
+        "id": 141,
+        "score": 190.6748,
+        "replay_name": "947fc1b6dd7b__ parkour 4.json",
+        "start_frame": 1180,
+        "end_frame": 1250,
+        "dx": 0.801,
+        "dy": 0.291,
+        "head_min_z": 9.897,
+        "signature": "17-1-15-12-14-6-5-8"
+      },
+      {
+        "id": 142,
+        "score": 183.4688,
+        "replay_name": "947fc1b6dd7b__ parkour 4.json",
+        "start_frame": 320,
+        "end_frame": 390,
+        "dx": 0.801,
+        "dy": -2.321,
+        "head_min_z": 11.888,
+        "signature": "8-9-14-16-1-4-5-12"
+      },
+      {
+        "id": 143,
+        "score": 181.4484,
+        "replay_name": "863d3c9f3481_parkour3 w. crash.json",
+        "start_frame": 840,
+        "end_frame": 900,
+        "dx": 0.666,
+        "dy": -0.282,
+        "head_min_z": 12.794,
+        "signature": "7-8-15-4-9-6-12-13"
+      },
+      {
+        "id": 144,
+        "score": 168.4801,
+        "replay_name": "b0456e0b4908_Sparkour.json",
+        "start_frame": 660,
+        "end_frame": 820,
+        "dx": 2.136,
+        "dy": -0.232,
+        "head_min_z": 8.284,
+        "signature": "15-14-5-12-13-9-16-17"
+      },
+      {
+        "id": 145,
+        "score": 165.5797,
+        "replay_name": "947fc1b6dd7b__ parkour 4.json",
+        "start_frame": 1200,
+        "end_frame": 1270,
+        "dx": 0.788,
+        "dy": 0.206,
+        "head_min_z": 10.911,
+        "signature": "17-5-15-6-1-14-12-4"
+      },
+      {
+        "id": 146,
+        "score": 163.3935,
+        "replay_name": "863d3c9f3481_parkour3 w. crash.json",
+        "start_frame": 840,
+        "end_frame": 890,
+        "dx": 0.506,
+        "dy": -0.134,
+        "head_min_z": 12.794,
+        "signature": "7-8-15-4-6-12-13-19"
+      },
+      {
+        "id": 147,
+        "score": 162.6378,
+        "replay_name": "8d2491d426c8_Fatul- Champz.json",
+        "start_frame": 1668,
+        "end_frame": 1711,
+        "dx": 0.403,
+        "dy": -0.111,
+        "head_min_z": 94.516,
+        "signature": "17-5-15-6-13-1-7-9"
+      }
+    ],
+    "stand": [
+      {
+        "id": 0,
+        "score": 69.9421,
+        "replay_name": "b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+        "start_frame": 15,
+        "end_frame": 25,
+        "dx": -0.0,
+        "dy": -0.007,
+        "head_min_z": 69.083,
+        "signature": "18-19-3-4-7-16-17"
+      },
+      {
+        "id": 1,
+        "score": 69.9415,
+        "replay_name": "3c31521944d4_Chazer - Mp Parkour 1.json",
+        "start_frame": 30,
+        "end_frame": 40,
+        "dx": 0.002,
+        "dy": -0.005,
+        "head_min_z": 31.901,
+        "signature": "14-15-17-16"
+      },
+      {
+        "id": 2,
+        "score": 69.8986,
+        "replay_name": "1e20a367b67e_lioneeeeeet.json",
+        "start_frame": 29,
+        "end_frame": 31,
+        "dx": 0.003,
+        "dy": 0.009,
+        "head_min_z": 17.889,
+        "signature": "15-17-4"
+      },
+      {
+        "id": 3,
+        "score": 69.8828,
+        "replay_name": "1e20a367b67e_lioneeeeeet.json",
+        "start_frame": 64,
+        "end_frame": 123,
+        "dx": 0.01,
+        "dy": -0.002,
+        "head_min_z": 16.84,
+        "signature": "0-15-19-5-8-14"
+      },
+      {
+        "id": 4,
+        "score": 69.8819,
+        "replay_name": "b947f1d800d6_bitch im gold shinning brighter than the mother fucking sun.json",
+        "start_frame": 15,
+        "end_frame": 35,
+        "dx": -0.0,
+        "dy": -0.015,
+        "head_min_z": 69.038,
+        "signature": "3-18-19-4-7-16-17"
+      },
+      {
+        "id": 5,
+        "score": 69.8801,
+        "replay_name": "1e20a367b67e_lioneeeeeet.json",
+        "start_frame": 411,
+        "end_frame": 413,
+        "dx": -0.007,
+        "dy": -0.007,
+        "head_min_z": 20.062,
+        "signature": "7-1-6-15-16"
+      },
+      {
+        "id": 6,
+        "score": 69.8592,
+        "replay_name": "e0d8b741532a_Parkour _12 - Parkour City A.json",
+        "start_frame": 1000,
+        "end_frame": 1002,
+        "dx": 0.007,
+        "dy": -0.009,
+        "head_min_z": 21.196,
+        "signature": "11-16-3-13-15-18-12-14"
+      },
+      {
+        "id": 7,
+        "score": 69.8508,
+        "replay_name": "e2b7c66bbf02_[Collaberation] Parkour Trials.json",
+        "start_frame": 3004,
+        "end_frame": 3034,
+        "dx": -0.013,
+        "dy": -0.002,
+        "head_min_z": 16.613,
+        "signature": "16-17"
+      }
+    ],
+    "walk_step": [
+      {
+        "id": 480,
+        "score": 221.0508,
+        "replay_name": "cc7f08bd747c_Elvis- Balls to the wallz.json",
+        "start_frame": 1240,
+        "end_frame": 1470,
+        "dx": 7.033,
+        "dy": 0.608,
+        "head_min_z": 5.268,
+        "signature": "14-15-16-17-8-9-1-6"
+      },
+      {
+        "id": 481,
+        "score": 215.4403,
+        "replay_name": "266f768c403c_Parkour stuck.json",
+        "start_frame": 1300,
+        "end_frame": 1620,
+        "dx": 7.943,
+        "dy": -4.11,
+        "head_min_z": 3.034,
+        "signature": "15-8-10-16-9-13-17-1"
+      },
+      {
+        "id": 482,
+        "score": 213.3962,
+        "replay_name": "cc96649886e7_Parkour_3.json",
+        "start_frame": 0,
+        "end_frame": 120,
+        "dx": 9.424,
+        "dy": 2.555,
+        "head_min_z": 2.6,
+        "signature": "17-14-3-9-15-1-4-5"
+      },
+      {
+        "id": 483,
+        "score": 204.9094,
+        "replay_name": "266f768c403c_Parkour stuck.json",
+        "start_frame": 1350,
+        "end_frame": 1620,
+        "dx": 7.447,
+        "dy": -2.74,
+        "head_min_z": 3.034,
+        "signature": "8-15-16-13-17-1-6-10"
+      },
+      {
+        "id": 484,
+        "score": 201.0436,
+        "replay_name": "266f768c403c_Parkour stuck.json",
+        "start_frame": 1350,
+        "end_frame": 1650,
+        "dx": 7.565,
+        "dy": -2.971,
+        "head_min_z": 3.034,
+        "signature": "8-15-6-5-16-13-17-1"
+      },
+      {
+        "id": 485,
+        "score": 199.9406,
+        "replay_name": "cc7f08bd747c_Elvis- Balls to the wallz.json",
+        "start_frame": 1280,
+        "end_frame": 1540,
+        "dx": 6.339,
+        "dy": 0.747,
+        "head_min_z": 5.268,
+        "signature": "15-14-16-17-5-8-9-12"
+      },
+      {
+        "id": 486,
+        "score": 199.3072,
+        "replay_name": "cc96649886e7_Parkour_3.json",
+        "start_frame": 0,
+        "end_frame": 100,
+        "dx": 9.2,
+        "dy": 3.321,
+        "head_min_z": 2.6,
+        "signature": "17-3-9-14-4-5-6-7"
+      },
+      {
+        "id": 487,
+        "score": 195.2476,
+        "replay_name": "cc7f08bd747c_Elvis- Balls to the wallz.json",
+        "start_frame": 1200,
+        "end_frame": 1400,
+        "dx": 5.981,
+        "dy": 0.606,
+        "head_min_z": 6.326,
+        "signature": "16-14-15-17-5-8-9-4"
+      }
+    ]
+  }
+}

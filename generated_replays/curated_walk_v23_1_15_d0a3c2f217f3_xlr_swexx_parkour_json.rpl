@@ -1,0 +1,174 @@
+#!/usr/bin/toribash
+#made with toribash-4.92
+#SCORE 0 0
+VERSION 12
+FIGHTNAME 0; curated_walk_v23_1_15_d0a3c2f217f3_xlr_swexx_parkour_json
+BOUT 0; ToribashAI
+BOUT 1; Uke
+AUTHOR 0; ToribashAI
+ENGAGE 0; 0.000000 -3.000000 0.000000 0 0 0
+ENGAGE 1; 0.000000 0.000000 0.000000 0 0 0
+NEWGAME 0;900 5 30 0 0 2 100 0 0 0 0 0 0 0 classic
+
+FRAME 0;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=90
+JOINT 0; 19 2
+
+FRAME 5;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=106
+JOINT 0; 4 4
+JOINT 0; 5 4
+JOINT 0; 7 4
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 19 3
+
+FRAME 10;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=116
+JOINT 0; 4 2
+JOINT 0; 7 1
+
+FRAME 15;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=119
+JOINT 0; 16 3
+JOINT 0; 17 3
+
+FRAME 20;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=129
+JOINT 0; 4 4
+JOINT 0; 7 1
+JOINT 0; 12 2
+JOINT 0; 15 3
+JOINT 0; 16 4
+JOINT 0; 18 4
+
+FRAME 25;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=132
+JOINT 0; 5 3
+JOINT 0; 12 3
+
+FRAME 30;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=135
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 12 1
+JOINT 0; 13 1
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 35;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=138
+JOINT 0; 4 4
+JOINT 0; 7 3
+JOINT 0; 12 3
+JOINT 0; 13 3
+
+FRAME 40;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=143
+JOINT 0; 7 4
+JOINT 0; 16 3
+JOINT 0; 19 1
+
+FRAME 45;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=147
+JOINT 0; 4 1
+JOINT 0; 7 2
+JOINT 0; 12 2
+JOINT 0; 13 2
+
+FRAME 50;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=154
+JOINT 0; 12 1
+JOINT 0; 13 2
+
+FRAME 55;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=158
+JOINT 0; 4 4
+JOINT 0; 5 3
+JOINT 0; 7 4
+JOINT 0; 8 3
+JOINT 0; 13 3
+JOINT 0; 14 2
+JOINT 0; 15 1
+JOINT 0; 16 4
+JOINT 0; 19 3
+
+FRAME 60;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=168
+JOINT 0; 4 2
+JOINT 0; 5 4
+JOINT 0; 7 1
+JOINT 0; 12 3
+JOINT 0; 17 3
+JOINT 0; 18 2
+
+FRAME 65;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=188
+JOINT 0; 4 3
+JOINT 0; 7 4
+JOINT 0; 8 4
+JOINT 0; 9 4
+JOINT 0; 14 1
+JOINT 0; 15 2
+JOINT 0; 17 4
+JOINT 0; 18 3
+
+FRAME 70;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=198
+JOINT 0; 6 4
+JOINT 0; 17 3
+JOINT 0; 19 2
+
+FRAME 75;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=201
+JOINT 0; 4 1
+JOINT 0; 5 1
+JOINT 0; 16 3
+
+FRAME 80;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=211
+JOINT 0; 17 4
+JOINT 0; 18 1
+
+FRAME 85;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=221
+JOINT 0; 5 4
+JOINT 0; 16 4
+
+FRAME 90;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=231
+JOINT 0; 4 2
+JOINT 0; 5 2
+JOINT 0; 7 2
+JOINT 0; 8 2
+JOINT 0; 14 2
+JOINT 0; 15 2
+JOINT 0; 16 3
+JOINT 0; 18 3
+
+FRAME 95;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=241
+JOINT 0; 3 2
+JOINT 0; 7 3
+JOINT 0; 16 4
+JOINT 0; 18 2
+JOINT 0; 19 1
+
+FRAME 100;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=248
+JOINT 0; 14 3
+JOINT 0; 15 1
+JOINT 0; 16 1
+
+FRAME 105;
+# source=d0a3c2f217f3_xlr swexx parkour.json target=252
+JOINT 0; 3 1
+JOINT 0; 4 3
+JOINT 0; 5 1
+JOINT 0; 8 1
+JOINT 0; 9 3
+JOINT 0; 14 1
+JOINT 0; 18 1
