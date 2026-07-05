@@ -1,10 +1,79 @@
-# Quick Start
+# ToribashAI
+
+AI locomotion research using replay datasets, GRU neural networks and Lua runners to learn realistic movement in Toribash.
+
+---
 
 ## Demo
 
 <p align="center">
   <img src="docs/demo.gif" alt="ToribashAI Demo" width="100%">
 </p>
+
+---
+
+## Features
+
+- 🧠 Replay-based locomotion learning
+- 🤖 GRU neural network models
+- 🏃 Walking and parkour experiments
+- 🎯 Automated trajectory evaluation
+- ⚡ Lua runner integrated directly into Toribash
+- 📊 Evolutionary optimization pipeline
+
+---
+
+## Tech Stack
+
+- Python
+- PyTorch
+- Lua
+- Toribash
+- JSON
+- NumPy
+
+---
+
+## Architecture
+
+```
+Replay Dataset
+      │
+      ▼
+Sequence Extraction
+      │
+      ▼
+GRU Training
+      │
+      ▼
+Trajectory Generation
+      │
+      ▼
+Lua Runner
+      │
+      ▼
+Episode Evaluation
+      │
+      ▼
+Evolution Loop
+```
+
+---
+
+## Roadmap
+
+- [x] Replay extraction
+- [x] Dataset generation
+- [x] GRU locomotion model
+- [x] Automated Lua runner
+- [ ] Stable walking
+- [ ] Dynamic obstacle avoidance
+- [ ] Parkour navigation
+- [ ] Reinforcement learning experiments
+
+---
+
+# Quick Start
 
 ## 1. Clone the repository
 
@@ -23,40 +92,48 @@ pip install -r requirements.txt
 
 ## 3. Install the Lua runner
 
-Copy:
+Copy
 
 ```
 data/script/toribash_trajectory_runner_v4_5_reactive.lua
 ```
 
-into your Toribash installation:
+into
 
 ```
 Toribash/data/script/
 ```
 
-## 4. Start Toribash
+---
 
-Load the runner inside Toribash:
+## 4. Start Toribash
 
 ```
 /ls toribash_trajectory_runner_v4_5_reactive.lua
 ```
 
-The runner automatically handles the evaluation loop.
+---
 
 ## 5. Launch ToribashAI
-
-Open another terminal:
 
 ```bash
 python scripts/evolution_loop_trajectory_v4_5_reactive.py
 ```
 
-The Python script communicates with Toribash through the Lua runner and automatically:
+---
+
+## How it works
+
+The Python process communicates with Toribash through the Lua runner and automatically:
 
 - Generates candidate movements
 - Evaluates trajectories
-- Scores each episode
+- Scores every episode
 - Evolves the population
 - Saves the current champion
+
+---
+
+## Status
+
+🚧 Active Research Project
